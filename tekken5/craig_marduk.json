@@ -1,0 +1,458 @@
+[
+    {
+        "name": "Left Right Combo",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Combo",
+        "command": "1,2",
+        "damage": "7,12",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/96/Paul_Left_Right.gif/revision/latest/scale-to-width-down/350?cb=20201127133317&path-prefix=en"
+    },
+    {
+        "name": "Left Right to Gut Check",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_to_Gut_Check",
+        "command": "1,2,3,1+2",
+        "damage": "7,12,17,28",
+        "ranges": "hhmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2e/Left_Right_to_Gut_Check.gif/revision/latest/scale-to-width-down/350?cb=20210213132646&path-prefix=en"
+    },
+    {
+        "name": "Left Right to Ready Position",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_to_Ready_Position",
+        "command": "1,2,3+4",
+        "damage": "7,12",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0c/Left_Right_to_Ready_Position.gif/revision/latest/scale-to-width-down/350?cb=20211109182828&path-prefix=en"
+    },
+    {
+        "name": "Left Right to Power Elbow Combo",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_to_Power_Elbow_Combo",
+        "command": "1,2,f+1",
+        "damage": "7,12,21",
+        "ranges": "hhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/db/317c3d99dbc3.gif/revision/latest/scale-to-width-down/350?cb=20210314220850&path-prefix=en"
+    },
+    {
+        "name": "Jab Body Combo",
+        "detail": "https://tekken.fandom.com/wiki/Jab_Body_Combo",
+        "command": "1,d+2",
+        "damage": "7,13",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/99/Jab_Body_Combo.gif/revision/latest/scale-to-width-down/350?cb=20201129151459&path-prefix=en"
+    },
+    {
+        "name": "Quick Elbow Combo",
+        "detail": "https://tekken.fandom.com/wiki/Quick_Elbow_Combo",
+        "command": "2,1",
+        "damage": "12,12",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b0/4cf1c22e0284.gif/revision/latest/scale-to-width-down/350?cb=20210315143111&path-prefix=en"
+    },
+    {
+        "name": "Catapult Tackle Combo",
+        "detail": "https://tekken.fandom.com/wiki/Catapult_Tackle_Combo",
+        "command": "2,d+1+2",
+        "damage": "12,24",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/16/Catapult_Tackle_Combo.gif/revision/latest/scale-to-width-down/350?cb=20210129125814&path-prefix=en"
+    },
+    {
+        "name": "Shove",
+        "detail": "https://tekken.fandom.com/wiki/Shove",
+        "command": "1+2",
+        "damage": "-",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/95/Shove.gif/revision/latest/scale-to-width-down/350?cb=20210313045501&path-prefix=en"
+    },
+    {
+        "name": "Ready Position",
+        "detail": "https://tekken.fandom.com/wiki/Ready_Position",
+        "command": "3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/cb/Tekken_Tag_Tournament_2_-_Marduk_Video_Movelist.gif/revision/latest/scale-to-width-down/350?cb=20210205171957&path-prefix=en"
+    },
+    {
+        "name": "Cornered Beast",
+        "detail": "https://tekken.fandom.com/wiki/Cornered_Beast",
+        "command": "d/b+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b6/Cornered_Beast.gif/revision/latest/scale-to-width-down/350?cb=20210310133045&path-prefix=en"
+    },
+    {
+        "name": "Ki Charge",
+        "detail": "https://tekken.fandom.com/wiki/Supercharger",
+        "command": "1+2+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4f/E24Ks_Tekken_Tag_Tournament_-_Ganryu_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20201128143016&path-prefix=en"
+    },
+    {
+        "name": "Double Hook Combo",
+        "detail": "https://tekken.fandom.com/wiki/Double_Hook_Combo",
+        "command": "f+2,1",
+        "damage": "20,25",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/47/Tekken_6_-_Marduk_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20210205113346&path-prefix=en"
+    },
+    {
+        "name": "Hook Smash Combo",
+        "detail": "https://tekken.fandom.com/wiki/Hook_Smash_Combo",
+        "command": "f+2,d+1",
+        "damage": "20,21",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0b/Hook_Smash_Combo.gif/revision/latest/scale-to-width-down/350?cb=20210311032806&path-prefix=en"
+    },
+    {
+        "name": "Knee Lift",
+        "detail": "https://tekken.fandom.com/wiki/Knee_Lift",
+        "command": "f+3",
+        "damage": "27",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/bb/08695939bcdc.gif/revision/latest/scale-to-width-down/350?cb=20210315153925&path-prefix=en"
+    },
+    {
+        "name": "Stampede",
+        "detail": "https://tekken.fandom.com/wiki/Stampede",
+        "command": "f+4",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d0/9e1d9606a9d0.gif/revision/latest/scale-to-width-down/350?cb=20210315153329&path-prefix=en"
+    },
+    {
+        "name": "Double Thruster",
+        "detail": "https://tekken.fandom.com/wiki/Double_Thruster",
+        "command": "f+1+2",
+        "damage": "21",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/48/Double_Thruster.gif/revision/latest/scale-to-width-down/350?cb=20210307230306&path-prefix=en"
+    },
+    {
+        "name": "Shoulder Bash",
+        "detail": "https://tekken.fandom.com/wiki/Shoulder_Bash",
+        "command": "f+3+4",
+        "damage": "35",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/cc/Dad656aff165.gif/revision/latest/scale-to-width-down/350?cb=20210315151938&path-prefix=en"
+    },
+    {
+        "name": "Air Lift Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Air_Lift_Uppercut",
+        "command": "d/f+1",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/bc/Tekken_4_-_Marduk_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20201129150011&path-prefix=en"
+    },
+    {
+        "name": "Body Blow",
+        "detail": "https://tekken.fandom.com/wiki/Body_Blow_(Marduk)",
+        "command": "d/f+2",
+        "damage": "13",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/60/Body_Blow_%28Marduk%29.gif/revision/latest/scale-to-width-down/350?cb=20220413212923&path-prefix=en"
+    },
+    {
+        "name": "Gut Kick",
+        "detail": "https://tekken.fandom.com/wiki/Gut_Kick",
+        "command": "d/f+3",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/93/Gut_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220501181858&path-prefix=en"
+    },
+    {
+        "name": "Raging Beast Headbutt",
+        "detail": "https://tekken.fandom.com/wiki/Raging_Beast_Headbutt",
+        "command": "d/f+3,1,2,3,1+2",
+        "damage": "18,7,12,17,28",
+        "ranges": "mhhmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/60/Raging_Beast_Headbutt.gif/revision/latest/scale-to-width-down/350?cb=20220520153251&path-prefix=en"
+    },
+    {
+        "name": "Raging Beast Ready Position",
+        "detail": "https://tekken.fandom.com/wiki/Raging_Beast_Ready_Position",
+        "command": "d/f+3,1,2,3+4",
+        "damage": "18,7,12",
+        "ranges": "mhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/56/Raging_Beast_Ready_Position.gif/revision/latest/scale-to-width-down/350?cb=20220928102008&path-prefix=en"
+    },
+    {
+        "name": "Raging Beast Sting",
+        "detail": "https://tekken.fandom.com/wiki/Raging_Beast_Sting",
+        "command": "d/f+3,1,2,f+1",
+        "damage": "18,7,12,21",
+        "ranges": "mhhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4c/Raging_Beast_Sting.gif/revision/latest/scale-to-width-down/350?cb=20220824102254&path-prefix=en"
+    },
+    {
+        "name": "Raging Beast Body Blow",
+        "detail": "https://tekken.fandom.com/wiki/Raging_Beast_Body_Blow",
+        "command": "d/f+3,1,d+2",
+        "damage": "18,7,13",
+        "ranges": "mhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/95/Raging_Beast_Body_Blow.gif/revision/latest/scale-to-width-down/350?cb=20220824104639&path-prefix=en"
+    },
+    {
+        "name": "Gut Kick Combo",
+        "detail": "https://tekken.fandom.com/wiki/Gut_Kick_Combo",
+        "command": "d/f+3,1+2",
+        "damage": "18,28",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c4/Gut_Kick_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220414125620&path-prefix=en"
+    },
+    {
+        "name": "Gorilla Rush",
+        "detail": "https://tekken.fandom.com/wiki/Gorilla_Rush",
+        "command": "d/f+3,d/f+1,2",
+        "damage": "18,12,14",
+        "ranges": "mmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a3/Gorilla_Rush.gif/revision/latest/scale-to-width-down/350?cb=20220606113219&path-prefix=en"
+    },
+    {
+        "name": "Meal Check",
+        "detail": "https://tekken.fandom.com/wiki/Meal_Check",
+        "command": "d/f+4",
+        "damage": "19",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4e/Meal_Check.gif/revision/latest/scale-to-width-down/350?cb=20220604114419&path-prefix=en"
+    },
+    {
+        "name": "Cannonball",
+        "detail": "https://tekken.fandom.com/wiki/Cannonball_(Marduk)",
+        "command": "d/f+1+2",
+        "damage": "23",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a3/Cannonball_Marduk.gif/revision/latest/scale-to-width-down/350?cb=20220606112132&path-prefix=en"
+    },
+    {
+        "name": "Dunk Elbow",
+        "detail": "https://tekken.fandom.com/wiki/Dunk_Elbow",
+        "command": "d+1",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/de/Dunk_Elbow.gif/revision/latest/scale-to-width-down/350?cb=20220518113206&path-prefix=en"
+    },
+    {
+        "name": "Alligator Combo",
+        "detail": "https://tekken.fandom.com/wiki/Alligator_Combo",
+        "command": "d+2,4",
+        "damage": "18,21",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3c/Alligator_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220501182437&path-prefix=en"
+    },
+    {
+        "name": "Low Kick",
+        "detail": "https://tekken.fandom.com/wiki/Low_Kick_(Marduk)",
+        "command": "d+3",
+        "damage": "12",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/cf/Low_Kick_Marduk.gif/revision/latest/scale-to-width-down/350?cb=20220501182817&path-prefix=en"
+    },
+    {
+        "name": "Knee Slicer",
+        "detail": "https://tekken.fandom.com/wiki/Knee_Slicer",
+        "command": "d+4",
+        "damage": "16",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/94/Knee_Slicer.gif/revision/latest/scale-to-width-down/350?cb=20220414130850&path-prefix=en"
+    },
+    {
+        "name": "Battering Ram",
+        "detail": "https://tekken.fandom.com/wiki/Battering_Ram_(Marduk)",
+        "command": "d+1+2",
+        "damage": "24",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/cb/Battering_Ram.gif/revision/latest/scale-to-width-down/350?cb=20210527133642&path-prefix=en"
+    },
+    {
+        "name": "Swift Tomahawk",
+        "detail": "https://tekken.fandom.com/wiki/Swift_Tomahawk",
+        "command": "d/b+2",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ab/Swift_Tomahawk.gif/revision/latest/scale-to-width-down/350?cb=20220414134558&path-prefix=en"
+    },
+    {
+        "name": "Crab Leg",
+        "detail": "https://tekken.fandom.com/wiki/Crab_Leg",
+        "command": "d/b+4",
+        "damage": "12",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a8/Crab_Leg.gif/revision/latest/scale-to-width-down/350?cb=20220117175555&path-prefix=en"
+    },
+    {
+        "name": "Annihilator Hammer",
+        "detail": "https://tekken.fandom.com/wiki/Annihilator_Hammer",
+        "command": "d/b+1+2",
+        "damage": "28",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a7/Annihilator_Hammer.gif/revision/latest/scale-to-width-down/350?cb=20220604120516&path-prefix=en"
+    },
+    {
+        "name": "Fist Hammer",
+        "detail": "https://tekken.fandom.com/wiki/Fist_Hammer",
+        "command": "b+1",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/72/Fist_Hammer.gif/revision/latest/scale-to-width-down/350?cb=20220123210900&path-prefix=en"
+    },
+    {
+        "name": "Spinning Backfist",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_Backfist_(Marduk)",
+        "command": "b+2",
+        "damage": "24",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c1/Spinning_Backfist_Marduk.gif/revision/latest/scale-to-width-down/350?cb=20220604120717&path-prefix=en"
+    },
+    {
+        "name": "Heel Bazooka",
+        "detail": "https://tekken.fandom.com/wiki/Heel_Bazooka",
+        "command": "b+4",
+        "damage": "30",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/dc/Heel_Bazooka.gif/revision/latest/scale-to-width-down/350?cb=20220202140801&path-prefix=en"
+    },
+    {
+        "name": "Death Bringer",
+        "detail": "https://tekken.fandom.com/wiki/Death_Bringer",
+        "command": "b+2+3 (b, b to cancel)",
+        "damage": "80",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f7/Death_Bringer_TK4.gif/revision/latest/scale-to-width-down/350?cb=20211022170403&path-prefix=en"
+    },
+    {
+        "name": "Jumping Mid Kick",
+        "detail": "https://tekken.fandom.com/wiki/Jumping_Mid_Kick_(Marduk)",
+        "command": "u/f (or u/b or u)+4",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/07/Jumping_Mid_Kick_Marduk.gif/revision/latest/scale-to-width-down/350?cb=20220511145835&path-prefix=en"
+    },
+    {
+        "name": "Mongolian Chop",
+        "detail": "https://tekken.fandom.com/wiki/Mongolian_Chop",
+        "command": "u/f+1+2",
+        "damage": "21",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5d/Mongolian_Chop.gif/revision/latest/scale-to-width-down/350?cb=20220604152317&path-prefix=en"
+    },
+    {
+        "name": "Foot Stomp",
+        "detail": "https://tekken.fandom.com/wiki/Foot_Stomp_(Marduk)",
+        "command": "u/f (or u/b or u)+3+4",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d8/Foot_Stomp_Marduk.gif/revision/latest/scale-to-width-down/350?cb=20220520153549&path-prefix=en"
+    },
+    {
+        "name": "Ballista Fist",
+        "detail": "https://tekken.fandom.com/wiki/Ballista_Fist",
+        "command": "f,f+1,2",
+        "damage": "21,28",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/04/Ballista_Fist.gif/revision/latest/scale-to-width-down/350?cb=20220510145502&path-prefix=en"
+    },
+    {
+        "name": "Elbow Rush",
+        "detail": "https://tekken.fandom.com/wiki/Elbow_Rush",
+        "command": "f,f+2",
+        "damage": "21",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a7/Elbow_Rush.gif/revision/latest/scale-to-width-down/350?cb=20220414132950&path-prefix=en"
+    },
+    {
+        "name": "Bicycle Kick",
+        "detail": "https://tekken.fandom.com/wiki/Bicycle_Kick",
+        "command": "f,f,f+3",
+        "damage": "35",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b2/Bicycle_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220511150138&path-prefix=en"
+    },
+    {
+        "name": "Hell Stab",
+        "detail": "https://tekken.fandom.com/wiki/Hell_Stab",
+        "command": "WS+1",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/30/Hell_Stab.gif/revision/latest/scale-to-width-down/350?cb=20220413144716&path-prefix=en"
+    },
+    {
+        "name": "Tornado Chop",
+        "detail": "https://tekken.fandom.com/wiki/Tornado_Chop",
+        "command": "WS+2",
+        "damage": "28",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/fd/Tornado_Chop.gif/revision/latest/scale-to-width-down/350?cb=20220511151738&path-prefix=en"
+    },
+    {
+        "name": "Power Punt",
+        "detail": "https://tekken.fandom.com/wiki/Power_Punt",
+        "command": "WS+3",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/06/Power_Punt.gif/revision/latest/scale-to-width-down/350?cb=20220628104126&path-prefix=en"
+    },
+    {
+        "name": "Stun Knee",
+        "detail": "https://tekken.fandom.com/wiki/Stun_Knee",
+        "command": "WS+4",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/05/Stun_Knee.gif/revision/latest/scale-to-width-down/350?cb=20220220165511&path-prefix=en"
+    },
+    {
+        "name": "Quick Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Quick_Uppercut",
+        "command": "WS+1+2",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b0/Quick_Uppercut.gif/revision/latest/scale-to-width-down/350?cb=20220713122737&path-prefix=en"
+    },
+    {
+        "name": "Bull-charge",
+        "detail": "https://tekken.fandom.com/wiki/Bull-charge",
+        "command": "FC+1+2",
+        "damage": "20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a3/Bull-charge.gif/revision/latest/scale-to-width-down/350?cb=20220503001007&path-prefix=en"
+    },
+    {
+        "name": "Shin Breaker",
+        "detail": "https://tekken.fandom.com/wiki/Shin_Breaker_(Marduk)",
+        "command": "FC+d/f+4",
+        "damage": "19",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/84/Shin_Breaker_%28Marduk%29.gif/revision/latest/scale-to-width-down/350?cb=20220220170651&path-prefix=en"
+    },
+    {
+        "name": "Spinning Hammer",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_Hammer",
+        "command": "During side step 2",
+        "damage": "24",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b2/Spinning_Hammer.gif/revision/latest/scale-to-width-down/350?cb=20220414133639&path-prefix=en"
+    },
+    {
+        "name": "Wake Up Hammer",
+        "detail": "https://tekken.fandom.com/wiki/Wake_Up_Hammer",
+        "command": "On the ground (facing the ground) 2",
+        "damage": "28",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6e/Wake_Up_Hammer.gif/revision/latest/scale-to-width-down/350?cb=20220728191602&path-prefix=en"
+    },
+    {
+        "name": "Wake Up Sweep",
+        "detail": "https://tekken.fandom.com/wiki/Wake_Up_Sweep",
+        "command": "On the ground (facing the ground)  d+2",
+        "damage": "18",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c3/Wake_Up_Sweep.gif/revision/latest/scale-to-width-down/350?cb=20220501175553&path-prefix=en"
+    },
+    {
+        "name": "Quake Kick",
+        "detail": "https://tekken.fandom.com/wiki/Quake_Kick",
+        "command": "(With the opponent down) d/b+4",
+        "damage": "22",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/ed/Quake_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220804144125&path-prefix=en"
+    }
+]

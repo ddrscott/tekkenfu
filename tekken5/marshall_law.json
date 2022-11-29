@@ -1,0 +1,754 @@
+[
+    {
+        "name": "Machine Gun Arrow",
+        "detail": "https://tekken.fandom.com/wiki/Machine_Gun_Arrow",
+        "command": "1,1,1,1,1",
+        "damage": "5,5,5,5,5",
+        "ranges": "hhhhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/30/Tekken_4_-_Law_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20201127191317&path-prefix=en"
+    },
+    {
+        "name": "Left Right Combo",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Combo",
+        "command": "1,2",
+        "damage": "5,8",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/96/Paul_Left_Right.gif/revision/latest/scale-to-width-down/350?cb=20201127133317&path-prefix=en"
+    },
+    {
+        "name": "Left Right Dragon Fist",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Dragon_Fist",
+        "command": "1,2,2",
+        "damage": "5,8,8",
+        "ranges": "hhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1d/Left_Right_Dragon_Fist.gif/revision/latest/scale-to-width-down/350?cb=20220604111344&path-prefix=en"
+    },
+    {
+        "name": "Left Right Dragon Fist Combo",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Dragon_Fist_Combo",
+        "command": "1,2,f+2,2",
+        "damage": "5,8,15,8",
+        "ranges": "hhmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/72/Left_Right_Dragon_Fist_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220606184806&path-prefix=en"
+    },
+    {
+        "name": "Left Right Blazing Fist Combo",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Blazing_Fist_Combo",
+        "command": "1,2,f+2,1+2",
+        "damage": "5,8,15,15",
+        "ranges": "hhmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/87/Left_Right_Blazing_Fist_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220604111601&path-prefix=en"
+    },
+    {
+        "name": "Left Right to Knee",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_to_Knee",
+        "command": "1,2,3",
+        "damage": "5,8,10",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b9/Left_Right_to_Knee.gif/revision/latest/scale-to-width-down/350?cb=20210611223752&path-prefix=en"
+    },
+    {
+        "name": "Left Right Combo to Somersault Feint",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Combo_to_Somersault_Feint",
+        "command": "1,2,u/f+3,4",
+        "damage": "5,8,25",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f3/Left_Right_Combo_to_Somersault_Feint.gif/revision/latest/scale-to-width-down/350?cb=20220519140235&path-prefix=en"
+    },
+    {
+        "name": "Rage Dragon Combo",
+        "detail": "https://tekken.fandom.com/wiki/Rage_Dragon_Combo",
+        "command": "2,2,1,2",
+        "damage": "10,8,8,21",
+        "ranges": "hhhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f3/Rage_Dragon_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220512135624&path-prefix=en"
+    },
+    {
+        "name": "High Kick to Somersault",
+        "detail": "https://tekken.fandom.com/wiki/High_Kick_to_Somersault",
+        "command": "3,4",
+        "damage": "18,21",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d0/High_Kick_to_Somersault.gif/revision/latest/scale-to-width-down/350?cb=20211013183842&path-prefix=en"
+    },
+    {
+        "name": "Double Dragon's Breath",
+        "detail": "https://tekken.fandom.com/wiki/Double_Dragon%27s_Breath",
+        "command": "3,3,4",
+        "damage": "18,10,21",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2a/Double_Dragon%27s_Breath.gif/revision/latest/scale-to-width-down/350?cb=20220519140506&path-prefix=en"
+    },
+    {
+        "name": "Triple Dragon's Breath",
+        "detail": "https://tekken.fandom.com/wiki/Triple_Dragon%27s_Breath",
+        "command": "3,3,3,4",
+        "damage": "18,10,10,21",
+        "ranges": "hhhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/fc/Triple_Dragon%27s_Breath.gif/revision/latest/scale-to-width-down/350?cb=20220512152241&path-prefix=en"
+    },
+    {
+        "name": "Feint to Middle Kick",
+        "detail": "https://tekken.fandom.com/wiki/Feint_to_Middle_Kick",
+        "command": "3,f+3",
+        "damage": "18,15",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/88/Feint_to_Middle_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220413110332&path-prefix=en"
+    },
+    {
+        "name": "Shaolin Spin Kicks",
+        "detail": "https://tekken.fandom.com/wiki/Shaolin_Spin_Kicks",
+        "command": "4,3,4",
+        "damage": "16,12,12",
+        "ranges": "hhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/ba/Shaolin_Spin_Kicks.gif/revision/latest/scale-to-width-down/350?cb=20210703113434&path-prefix=en"
+    },
+    {
+        "name": "Crescent Kick Combo",
+        "detail": "https://tekken.fandom.com/wiki/Crescent_Kick_Combo",
+        "command": "4,u+3",
+        "damage": "16,30",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/64/Crescent_Kick_Combo.gif/revision/latest/scale-to-width-down/350?cb=20211017223149&path-prefix=en"
+    },
+    {
+        "name": "Backflip",
+        "detail": "https://tekken.fandom.com/wiki/Somersault_Flip",
+        "command": "3+4",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/48/Somersault_Flip.gif/revision/latest/scale-to-width-down/350?cb=20210217144106&path-prefix=en"
+    },
+    {
+        "name": "Backflipper",
+        "detail": "https://tekken.fandom.com/wiki/Back_Flipper",
+        "command": "3+4,3 (or U+4,3)",
+        "damage": "21,14",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/90/M_Forest.gif/revision/latest?cb=20201104214229&path-prefix=en"
+    },
+    {
+        "name": "Ki Charge",
+        "detail": "https://tekken.fandom.com/wiki/Supercharger",
+        "command": "1+2+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4f/E24Ks_Tekken_Tag_Tournament_-_Ganryu_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20201128143016&path-prefix=en"
+    },
+    {
+        "name": "Poison Arrow",
+        "detail": "https://tekken.fandom.com/wiki/Poison_Arrow",
+        "command": "f+[2~1]",
+        "damage": "35",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/92/39ea48fa6a33.gif/revision/latest/scale-to-width-down/350?cb=20210508223822&path-prefix=en"
+    },
+    {
+        "name": "Rave War Combo",
+        "detail": "https://tekken.fandom.com/wiki/Rave_War_Combo",
+        "command": "F+2,2,2",
+        "damage": "10,5,10",
+        "ranges": "hmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3e/E7a6f7020e81.gif/revision/latest/scale-to-width-down/350?cb=20201205224429&path-prefix=en"
+    },
+    {
+        "name": "Blazing Fist Combo",
+        "detail": "https://tekken.fandom.com/wiki/Blazing_Fist_Combo",
+        "command": "F+2,2,1+2",
+        "damage": "10,5,23",
+        "ranges": "hmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6a/Blazing_Fist_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220330143131&path-prefix=en"
+    },
+    {
+        "name": "Dragon Hammer",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Hammer",
+        "command": "f+1+2",
+        "damage": "23",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1f/Dragon_Hammer.gif/revision/latest/scale-to-width-down/350?cb=20211005131915&path-prefix=en"
+    },
+    {
+        "name": "Mid Kick",
+        "detail": "https://tekken.fandom.com/wiki/Mid_Kick_(Law)",
+        "command": "d/f+3",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1e/Mid_Kick_Law.gif/revision/latest/scale-to-width-down/350?cb=20220512143353&path-prefix=en"
+    },
+    {
+        "name": "Step in Combo",
+        "detail": "https://tekken.fandom.com/wiki/Step_in_Combo",
+        "command": "D/F+3,3,3",
+        "damage": "18,10,16",
+        "ranges": "mlh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f5/Step_in_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220414115213&path-prefix=en"
+    },
+    {
+        "name": "Mid Kick Combo to Somersault Kick",
+        "detail": "https://tekken.fandom.com/wiki/Mid_Kick_Combo_to_Somersault_Kick",
+        "command": "D/F+3,3,4",
+        "damage": "18,10,21",
+        "ranges": "mlm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f4/Mid_Kick_Combo_to_Somersault_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220512145554&path-prefix=en"
+    },
+    {
+        "name": "Right Middle Kick to Somersault Kick",
+        "detail": "https://tekken.fandom.com/wiki/Right_Middle_Kick_to_Somersault_Kick",
+        "command": "d/f+4,3",
+        "damage": "15,25",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e6/Right_Middle_Kick_to_Somersault_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220406171409&path-prefix=en"
+    },
+    {
+        "name": "Low Backhand to High Kick",
+        "detail": "https://tekken.fandom.com/wiki/Low_Backhand_to_High_Kick",
+        "command": "d+1,3",
+        "damage": "15,21",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/82/Low_Backhand_to_High_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220223185420&path-prefix=en"
+    },
+    {
+        "name": "Body Blow to Somersault",
+        "detail": "https://tekken.fandom.com/wiki/Body_Blow_to_Somersault",
+        "command": "d+2,3",
+        "damage": "8,21",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/dc/Body_Blow_to_Somersault.gif/revision/latest/scale-to-width-down/350?cb=20220203142207&path-prefix=en"
+    },
+    {
+        "name": "Dragon Low Kick",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Low_Kick",
+        "command": "d+3",
+        "damage": "8",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5a/Dragon_Low_Kick.gif/revision/latest/scale-to-width-down/350?cb=20210706123223&path-prefix=en"
+    },
+    {
+        "name": "Dragon's Breath",
+        "detail": "https://tekken.fandom.com/wiki/Dragon%27s_Breath",
+        "command": "d+3,3,4",
+        "damage": "8,10,25",
+        "ranges": "lhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7b/Dragon%27s_Breath.gif/revision/latest/scale-to-width-down/350?cb=20220512152729&path-prefix=en"
+    },
+    {
+        "name": "Low Kick to Somersault",
+        "detail": "https://tekken.fandom.com/wiki/Low_Kick_to_Somersault",
+        "command": "d+4,3",
+        "damage": "7,21",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3e/Low_Kick_to_Somersault.gif/revision/latest/scale-to-width-down/350?cb=20220413222011&path-prefix=en"
+    },
+    {
+        "name": "Dragon Charge",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Charge",
+        "command": "d+1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ad/Dragon_Charge.gif/revision/latest/scale-to-width-down/350?cb=20210403000140&path-prefix=en"
+    },
+    {
+        "name": "Dragon Knuckle",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Knuckle",
+        "command": "During Dragon Charge 1",
+        "damage": "18",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3d/Dragon_Knuckle.gif/revision/latest/scale-to-width-down/350?cb=20220414124352&path-prefix=en"
+    },
+    {
+        "name": "Dragon Knuckle Combo",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Knuckle_Combo",
+        "command": "During Dragon Charge 1,f+1",
+        "damage": "18,25",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/68/Dragon_Knuckle_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220414120103&path-prefix=en"
+    },
+    {
+        "name": "Dragon Claw",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Claw",
+        "command": "During Dragon Charge [2~1]",
+        "damage": "35",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/ce/Dragon_Claw.gif/revision/latest/scale-to-width-down/350?cb=20220512222256&path-prefix=en"
+    },
+    {
+        "name": "Dragon Executioner",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Executioner",
+        "command": "During Dragon Charge 2,2,1,2",
+        "damage": "10,8,8,21",
+        "ranges": "hhhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d5/Dragon_Executioner.gif/revision/latest/scale-to-width-down/350?cb=20220203225955&path-prefix=en"
+    },
+    {
+        "name": "Dragon Cannon",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Cannon",
+        "command": "During Dragon Charge 3",
+        "damage": "23",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/98/Tekken_6_-_Law_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20210224211052&path-prefix=en"
+    },
+    {
+        "name": "Dragon Junkyard Kick",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Junkyard_Kick",
+        "command": "During Dragon Charge 4,3",
+        "damage": "8,22",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/01/Dragon_Junkyard_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220519140729&path-prefix=en"
+    },
+    {
+        "name": "Dragon's Flight",
+        "detail": "https://tekken.fandom.com/wiki/Dragon%27s_Flight",
+        "command": "During Dragon Charge 3+4",
+        "damage": "40",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c3/Dragon%27s_Flight.gif/revision/latest/scale-to-width-down/350?cb=20220207224456&path-prefix=en"
+    },
+    {
+        "name": "Dragon Roar",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Roar",
+        "command": "During Dragon Charge f+1",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b0/Dragon_Roar_%28Law%29.gif/revision/latest/scale-to-width-down/350?cb=20220414124657&path-prefix=en"
+    },
+    {
+        "name": "Dragon Charge 2 to Dragon Charge",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Charge_2_to_Dragon_Charge",
+        "command": "During Dragon Charge 2 b,f",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0b/Dragon_Charge_2_to_Dragon_Charge.gif/revision/latest/scale-to-width-down/350?cb=20220620143019&path-prefix=en"
+    },
+    {
+        "name": "Frogman",
+        "detail": "https://tekken.fandom.com/wiki/Frogman",
+        "command": "d+3+4",
+        "damage": "24,24",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/40/Frogman.gif/revision/latest/scale-to-width-down/350?cb=20220512221638&path-prefix=en"
+    },
+    {
+        "name": "Elbow Spring Kick",
+        "detail": "https://tekken.fandom.com/wiki/Elbow_Spring_Kick",
+        "command": "d/b+2,4",
+        "damage": "15,25",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6c/Elbow_Spring_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220413224709&path-prefix=en"
+    },
+    {
+        "name": "Shin Crusher",
+        "detail": "https://tekken.fandom.com/wiki/Shin_Crusher",
+        "command": "d/b+3",
+        "damage": "14",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c6/Shin_Crusher.gif/revision/latest/scale-to-width-down/350?cb=20211226153804&path-prefix=en"
+    },
+    {
+        "name": "Dragon's Tail",
+        "detail": "https://tekken.fandom.com/wiki/Dragon%27s_Tail",
+        "command": "d/b+4",
+        "damage": "25",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/Dragon%27s_Tail.gif/revision/latest/scale-to-width-down/350?cb=20210531134750&path-prefix=en"
+    },
+    {
+        "name": "Dragon's Tail to Somersault Kick",
+        "detail": "https://tekken.fandom.com/wiki/Dragon%27s_Tail_to_Somersault_Kick",
+        "command": "d/b+4,4",
+        "damage": "25,14",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6a/45d3797f7fe7.gif/revision/latest/scale-to-width-down/350?cb=20210530155104&path-prefix=en"
+    },
+    {
+        "name": "Charge Power Punch",
+        "detail": "https://tekken.fandom.com/wiki/Charge_Power_Punch",
+        "command": "d/b+1+2 (u, u to cancel)",
+        "damage": "100",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/35/Charge_Power_Punch_TK1.gif/revision/latest/scale-to-width-down/350?cb=20210529163204&path-prefix=en"
+    },
+    {
+        "name": "Dragon Storm",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Storm",
+        "command": "b+1,2,1",
+        "damage": "12,12,15",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/55/Dragon_Storm.gif/revision/latest/scale-to-width-down/350?cb=20220207221318&path-prefix=en"
+    },
+    {
+        "name": "Junkyard Kick",
+        "detail": "https://tekken.fandom.com/wiki/Junkyard_Kick",
+        "command": "b+2,3,4",
+        "damage": "12,8,22",
+        "ranges": "mlm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5d/C773e1ae80c6.gif/revision/latest/scale-to-width-down/350?cb=20210724165348&path-prefix=en"
+    },
+    {
+        "name": "Dragon Rush Combo",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Rush_Combo",
+        "command": "b+2,3,d+4",
+        "damage": "12,8,21",
+        "ranges": "mll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a8/Dragon_Rush_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220413141320&path-prefix=en"
+    },
+    {
+        "name": "Dragon Spin Kick",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Spin_Kick",
+        "command": "b+3",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/52/Dragon_Spin_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220413141331&path-prefix=en"
+    },
+    {
+        "name": "Fake Step",
+        "detail": "https://tekken.fandom.com/wiki/Fake_Step",
+        "command": "b+1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/55/Fake_Step.gif/revision/latest/scale-to-width-down/350?cb=20210402135016&path-prefix=en"
+    },
+    {
+        "name": "Tricky Trap",
+        "detail": "https://tekken.fandom.com/wiki/Tricky_Trap",
+        "command": "After successfully completing Fake Step 1",
+        "damage": "12",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f9/Tricky_Trap.gif/revision/latest/scale-to-width-down/350?cb=20220330144822&path-prefix=en"
+    },
+    {
+        "name": "Tricky Fist",
+        "detail": "https://tekken.fandom.com/wiki/Tricky_Fist",
+        "command": "After successfully completing Fake Step 2",
+        "damage": "12",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0b/Tricky_Fist.gif/revision/latest/scale-to-width-down/350?cb=20220604105846&path-prefix=en"
+    },
+    {
+        "name": "Tricky Mid Kick",
+        "detail": "https://tekken.fandom.com/wiki/Tricky_Mid_Kick",
+        "command": "After successfully completing Fake Step 3",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7f/Tricky_Mid_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220604110021&path-prefix=en"
+    },
+    {
+        "name": "Tricky Low Kick",
+        "detail": "https://tekken.fandom.com/wiki/Tricky_Low_Kick",
+        "command": "After successfully completing Fake Step 4",
+        "damage": "15",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/45/Tricky_Low_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220413134246&path-prefix=en"
+    },
+    {
+        "name": "Dragon Knuckle",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Knuckle",
+        "command": "During Fake Step 1",
+        "damage": "18",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3d/Dragon_Knuckle.gif/revision/latest/scale-to-width-down/350?cb=20220414124352&path-prefix=en"
+    },
+    {
+        "name": "Dragon Knuckle Combo",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Knuckle_Combo",
+        "command": "During Fake Step 1,f+1",
+        "damage": "18,25",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/68/Dragon_Knuckle_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220414120103&path-prefix=en"
+    },
+    {
+        "name": "Fake Step Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Fake_Step_Uppercut",
+        "command": "During Fake Step 2",
+        "damage": "32",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/45/Fake_Step_Uppercut.gif/revision/latest/scale-to-width-down/350?cb=20220530141355&path-prefix=en"
+    },
+    {
+        "name": "Dragon Cannon",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Cannon",
+        "command": "During Fake Step 3",
+        "damage": "23",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/98/Tekken_6_-_Law_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20210224211052&path-prefix=en"
+    },
+    {
+        "name": "Dragon Junkyard Kick",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Junkyard_Kick",
+        "command": "During Fake Step 4,3",
+        "damage": "8,22",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/01/Dragon_Junkyard_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220519140729&path-prefix=en"
+    },
+    {
+        "name": "Dragon's Flight",
+        "detail": "https://tekken.fandom.com/wiki/Dragon%27s_Flight",
+        "command": "During Fake Step 3+4",
+        "damage": "40",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c3/Dragon%27s_Flight.gif/revision/latest/scale-to-width-down/350?cb=20220207224456&path-prefix=en"
+    },
+    {
+        "name": "Dragon Roar",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Roar",
+        "command": "During Fake Step f+1",
+        "damage": "43",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b0/Dragon_Roar_%28Law%29.gif/revision/latest/scale-to-width-down/350?cb=20220414124657&path-prefix=en"
+    },
+    {
+        "name": "Blackout",
+        "detail": "https://tekken.fandom.com/wiki/Blackout",
+        "command": "u/f+1 (or during Charge Power Punch 1)",
+        "damage": "10",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/66/Blackout.gif/revision/latest/scale-to-width-down/350?cb=20220512140948&path-prefix=en"
+    },
+    {
+        "name": "Blackout Muggin'",
+        "detail": "https://tekken.fandom.com/wiki/Blackout_Muggin%27",
+        "command": "u/f+1,3 (or during Charge Power Punch 1,3)",
+        "damage": "10,7",
+        "ranges": "hl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6b/Blackout_Muggin%27.gif/revision/latest/scale-to-width-down/350?cb=20211004222527&path-prefix=en"
+    },
+    {
+        "name": "Somersault",
+        "detail": "https://tekken.fandom.com/wiki/Somersault",
+        "command": "U/F (or U or U/B)+3",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f9/Somersault.gif/revision/latest/scale-to-width-down/350?cb=20220511133729&path-prefix=en"
+    },
+    {
+        "name": "Somersault Fake",
+        "detail": "https://tekken.fandom.com/wiki/Somersault_Fake",
+        "command": "U/F (or U or U/B)+3,4",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6a/Somersault_Fake.gif/revision/latest/scale-to-width-down/350?cb=20220414113628&path-prefix=en"
+    },
+    {
+        "name": "Jumping Kick to Somersault",
+        "detail": "https://tekken.fandom.com/wiki/Jumping_Kick_to_Somersault",
+        "command": "u/f (or u or u/b)+3,4",
+        "damage": "25,25",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ae/Jumping_Kick_to_Somersault.gif/revision/latest/scale-to-width-down/350?cb=20220413132645&path-prefix=en"
+    },
+    {
+        "name": "Somersault Kick",
+        "detail": "https://tekken.fandom.com/wiki/Somersault_Flip",
+        "command": "U/F (or U or U/B)+4",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/48/Somersault_Flip.gif/revision/latest/scale-to-width-down/350?cb=20210217144106&path-prefix=en"
+    },
+    {
+        "name": "Backflipper",
+        "detail": "https://tekken.fandom.com/wiki/Back_Flipper",
+        "command": "U/F (or U or U/B)+4,3",
+        "damage": "37",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/90/M_Forest.gif/revision/latest?cb=20201104214229&path-prefix=en"
+    },
+    {
+        "name": "Dragon Strike Combo",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Strike_Combo",
+        "command": "f,f+2,1,3",
+        "damage": "15,13,22",
+        "ranges": "mhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/81/Dragon_Strike_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220331134208&path-prefix=en"
+    },
+    {
+        "name": "Dragon Cannon",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Cannon",
+        "command": "f,f+3",
+        "damage": "28",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/98/Tekken_6_-_Law_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20210224211052&path-prefix=en"
+    },
+    {
+        "name": "Banana Peel",
+        "detail": "https://tekken.fandom.com/wiki/Banana_Peel",
+        "command": "f,f+4",
+        "damage": "10",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f3/Banana_Peel.gif/revision/latest/scale-to-width-down/350?cb=20210925023254&path-prefix=en"
+    },
+    {
+        "name": "Fury Fist Rush",
+        "detail": "https://tekken.fandom.com/wiki/Fury_Fist_Rush",
+        "command": "d,d/f,f+1,2,1,2",
+        "damage": "4,4,4,12",
+        "ranges": "hhhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/77/Fury_Fist_Rush.gif/revision/latest/scale-to-width-down/350?cb=20220331133310&path-prefix=en"
+    },
+    {
+        "name": "Running Side Kick",
+        "detail": "https://tekken.fandom.com/wiki/Running_Side_Kick",
+        "command": "f,f,f+3",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/cb/54eb07edc183.gif/revision/latest/scale-to-width-down/350?cb=20210114225410&path-prefix=en"
+    },
+    {
+        "name": "Dragon Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Uppercut_(Law)",
+        "command": "WS+2",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d6/E7290d6c7974.gif/revision/latest/scale-to-width-down/350?cb=20210528100526&path-prefix=en"
+    },
+    {
+        "name": "Side Kick",
+        "detail": "https://tekken.fandom.com/wiki/Side_Kick",
+        "command": "WS+3",
+        "damage": "16",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c7/Side_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220512222614&path-prefix=en"
+    },
+    {
+        "name": "Front Kick Somersault Variation",
+        "detail": "https://tekken.fandom.com/wiki/Front_Kick_Somersault_Variation",
+        "command": "WS+4,3",
+        "damage": "12,21",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e0/Front_Kick_Sommersault_Variation.gif/revision/latest/scale-to-width-down/350?cb=20220530131548&path-prefix=en"
+    },
+    {
+        "name": "Double Impact",
+        "detail": "https://tekken.fandom.com/wiki/Double_Impact_(Law)",
+        "command": "FC+3,4",
+        "damage": "12,21",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/04/Double_Impact_Law.gif/revision/latest/scale-to-width-down/350?cb=20220519135656&path-prefix=en"
+    },
+    {
+        "name": "Low Kick to Somersault",
+        "detail": "https://tekken.fandom.com/wiki/Low_Kick_to_Somersault",
+        "command": "FC+4,3",
+        "damage": "7,21",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3e/Low_Kick_to_Somersault.gif/revision/latest/scale-to-width-down/350?cb=20220413222011&path-prefix=en"
+    },
+    {
+        "name": "Catapult Kick",
+        "detail": "https://tekken.fandom.com/wiki/High_Somersault_Kick",
+        "command": "FC+U/F (or U or U/B)+4",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f0/Catapult_Kick_High.gif/revision/latest/scale-to-width-down/350?cb=20220521171017&path-prefix=en"
+    },
+    {
+        "name": "Rainbow Kick",
+        "detail": "https://tekken.fandom.com/wiki/Rainbow_Kick",
+        "command": "FC+U/F (or U or U/B)+3+4",
+        "damage": "30",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/ca/Tekken_1_-_Marshall_Law_Move_List_%28Quick_Video_Showcase%29.gif/revision/latest/scale-to-width-down/350?cb=20201205205218&path-prefix=en"
+    },
+    {
+        "name": "Slide Kick",
+        "detail": "https://tekken.fandom.com/wiki/Slide_Kick",
+        "command": "FC+d/f,d,d/f+3",
+        "damage": "22",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/64/Slide_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220530115814&path-prefix=en"
+    },
+    {
+        "name": "Dragon Judgement",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Judgement",
+        "command": "During side step 2,1,2,1",
+        "damage": "5,7,10,27",
+        "ranges": "mmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a6/1d7d88d36d48.gif/revision/latest/scale-to-width-down/350?cb=20210627172214&path-prefix=en"
+    },
+    {
+        "name": "Double Dragon",
+        "detail": "https://tekken.fandom.com/wiki/Double_Dragon_(Law)",
+        "command": "During side step 3+4",
+        "damage": "16,22",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/06/Double_Dragon_%28Law%29.gif/revision/latest/scale-to-width-down/350?cb=20220414113808&path-prefix=en"
+    },
+    {
+        "name": "Dragon Back Blow",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Back_Blow",
+        "command": "Back to opponent 1",
+        "damage": "15",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9e/Dragon_Back_Blow.gif/revision/latest/scale-to-width-down/350?cb=20220530133649&path-prefix=en"
+    },
+    {
+        "name": "Blind Elbow Combo",
+        "detail": "https://tekken.fandom.com/wiki/Blind_Elbow_Combo",
+        "command": "Back to opponent 2,2",
+        "damage": "18,18",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c7/Blind_Elbow_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220413142151&path-prefix=en"
+    },
+    {
+        "name": "Reverse Low",
+        "detail": "https://tekken.fandom.com/wiki/Reverse_Low",
+        "command": "Back to opponent d+4",
+        "damage": "16",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/36/Reverse_Low.gif/revision/latest/scale-to-width-down/350?cb=20220413142214&path-prefix=en"
+    },
+    {
+        "name": "Jumping Kick to Somersault",
+        "detail": "https://tekken.fandom.com/wiki/Jumping_Kick_to_Somersault",
+        "command": "Back to opponent d/f+3,4",
+        "damage": "25,21",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ae/Jumping_Kick_to_Somersault.gif/revision/latest/scale-to-width-down/350?cb=20220413132645&path-prefix=en"
+    },
+    {
+        "name": "d/f+1, 2, 2, 1, 3, 3, 3, 4, 3, 4",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_1_(Marshall_and_Forest_Law)",
+        "command": "d/f+1, 2, 2, 1, 3, 3, 3, 4, 3, 4",
+        "damage": "88",
+        "ranges": "mhmhhmlmhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4c/90df817c75.gif/revision/latest/scale-to-width-down/350?cb=20221009215034&path-prefix=en"
+    },
+    {
+        "name": "d/f+1, 2, 2, 1, 3, 3, d+3, 4, 4, 4",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_2_(Marshall_and_Forest_Law)",
+        "command": "d/f+1, 2, 2, 1, 3, 3, d+3, 4, 4, 4",
+        "damage": "94",
+        "ranges": "mhhhhlmhlm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/dd/2bb3e624c2.gif/revision/latest/scale-to-width-down/350?cb=20221030215409&path-prefix=en"
+    },
+    {
+        "name": "d/f+1, 2, 2, 1, 3, 3, d+3, 3, 4, 4",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_3_(Marshall_and_Forest_Law)",
+        "command": "d/f+1, 2, 2, 1, 3, 3, d+3, 3, 4, 4",
+        "damage": "85",
+        "ranges": "mhhhhlmllm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7c/381c2d8a27.gif/revision/latest/scale-to-width-down/350?cb=20221030215611&path-prefix=en"
+    },
+    {
+        "name": "d/f+1, 3, 2, 2, 3, 3, 3, 4, 3, 4",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_4_(Marshall_and_Forest_Law)",
+        "command": "d/f+1, 3, 2, 2, 3, 3, 3, 4, 3, 4",
+        "damage": "84",
+        "ranges": "mlmhmlhhhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8a/10_Hit_Combo_4_Law.gif/revision/latest/scale-to-width-down/350?cb=20220504183920&path-prefix=en"
+    },
+    {
+        "name": "d/f+1, 3, 2, 2, 3, 3, d+3, 4, 4, 4",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_5_(Marshall_and_Forest_Law)",
+        "command": "d/f+1, 3, 2, 2, 3, 3, d+3, 4, 4, 4",
+        "damage": "97",
+        "ranges": "mlmhmlmhlm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5e/0cd7f813db.gif/revision/latest/scale-to-width-down/350?cb=20221009215306&path-prefix=en"
+    },
+    {
+        "name": "d/f+1, 3, 2, 2, 3, 3, d+3, 3, 4, 4",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_6_(Marshall_and_Forest_Law)",
+        "command": "d/f+1, 3, 2, 2, 3, 3, d+3, 3, 4, 4",
+        "damage": "88",
+        "ranges": "mlmhmlmllm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0c/57c43408a7.gif/revision/latest/scale-to-width-down/350?cb=20221030215520&path-prefix=en"
+    }
+]

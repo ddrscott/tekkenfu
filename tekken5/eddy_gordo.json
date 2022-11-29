@@ -1,0 +1,1106 @@
+[
+    {
+        "name": "One Two Elbows",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Combo",
+        "command": "1,2",
+        "damage": "6,15",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/96/Paul_Left_Right.gif/revision/latest/scale-to-width-down/350?cb=20201127133317&path-prefix=en"
+    },
+    {
+        "name": "Combo Jilar",
+        "detail": "https://tekken.fandom.com/wiki/Combo_Jilar",
+        "command": "1,2,4",
+        "damage": "6,15",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/fc/Combo_Jilar.gif/revision/latest/scale-to-width-down/350?cb=20220210000013&path-prefix=en"
+    },
+    {
+        "name": "Left Jab to Island Mirage",
+        "detail": "https://tekken.fandom.com/wiki/Left_Jab_to_Island_Mirage",
+        "command": "1,3",
+        "damage": "6,15",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/59/Left_Jab_to_Island_Mirage.gif/revision/latest/scale-to-width-down/350?cb=20220629142615&path-prefix=en"
+    },
+    {
+        "name": "Left Jab Island Mirage to Negativa",
+        "detail": "https://tekken.fandom.com/wiki/Left_Jab_Island_Mirage_to_Negativa",
+        "command": "1,3,d",
+        "damage": "6,15",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9b/Left_Jab_Island_Mirage_to_Negativa.gif/revision/latest/scale-to-width-down/350?cb=20221024223608&path-prefix=en"
+    },
+    {
+        "name": "Gancho Chibata",
+        "detail": "https://tekken.fandom.com/wiki/Gancho_Chibata",
+        "command": "3,4",
+        "damage": "21,30",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/40/Gancho_Chibata.gif/revision/latest/scale-to-width-down/350?cb=20220513134720&path-prefix=en"
+    },
+    {
+        "name": "Slippery Kick",
+        "detail": "https://tekken.fandom.com/wiki/Slippery_Kick",
+        "command": "[3~4]",
+        "damage": "10,10",
+        "ranges": "ll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9a/Slippery_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220417154343&path-prefix=en"
+    },
+    {
+        "name": "Slippery Kick to Handstand",
+        "detail": "https://tekken.fandom.com/wiki/Slippery_Kick_to_Handstand",
+        "command": "[3~4],b",
+        "damage": "10,10",
+        "ranges": "ll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/73/Slippery_Kick_to_Handstand.gif/revision/latest/scale-to-width-down/350?cb=20221018210653&path-prefix=en"
+    },
+    {
+        "name": "Slippery Kick to Side Flop",
+        "detail": "https://tekken.fandom.com/wiki/Slippery_Kick_to_Side_Flop",
+        "command": "[3~4],4,4",
+        "damage": "10,10,10",
+        "ranges": "llll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/88/Slippery_Kick_to_Side_Flop.gif/revision/latest/scale-to-width-down/350?cb=20220612151752&path-prefix=en"
+    },
+    {
+        "name": "Satellite Moon",
+        "detail": "https://tekken.fandom.com/wiki/Satellite_Moon",
+        "command": "[4~3]",
+        "damage": "16",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8c/Satellite_Moon.gif/revision/latest/scale-to-width-down/350?cb=20220513154800&path-prefix=en"
+    },
+    {
+        "name": "Satellite Moon Hot Plate Special",
+        "detail": "https://tekken.fandom.com/wiki/Satellite_Moon_Hot_Plate_Special",
+        "command": "[4~3],3",
+        "damage": "16,15",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/86/Satellite_Moon_Hot_Plate_Special.gif/revision/latest/scale-to-width-down/350?cb=20220513154953&path-prefix=en"
+    },
+    {
+        "name": "Satellite Moon Roundhouse",
+        "detail": "https://tekken.fandom.com/wiki/Satellite_Moon_Roundhouse",
+        "command": "[4~3],4",
+        "damage": "16,25",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/51/Satellite_Moon_Roundhouse.gif/revision/latest/scale-to-width-down/350?cb=20220417155819&path-prefix=en"
+    },
+    {
+        "name": "Handslaps",
+        "detail": "https://tekken.fandom.com/wiki/Handslaps",
+        "command": "1+2",
+        "damage": "12,15",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1d/Handslaps.gif/revision/latest/scale-to-width-down/350?cb=20220629105645&path-prefix=en"
+    },
+    {
+        "name": "Handslaps Island Mirage",
+        "detail": "https://tekken.fandom.com/wiki/Handslaps_Island_Mirage",
+        "command": "1+2,N,3",
+        "damage": "12,15,20",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ac/Handslaps_Island_Mirage.gif/revision/latest/scale-to-width-down/350?cb=20221018212054&path-prefix=en"
+    },
+    {
+        "name": "Handslaps Island Mirage to Negativa",
+        "detail": "https://tekken.fandom.com/wiki/Handslaps_Island_Mirage_to_Negativa",
+        "command": "1+2,N,d",
+        "damage": "12,15,13",
+        "ranges": "hhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/89/Handslaps_Island_Mirage_to_Negativa.gif/revision/latest/scale-to-width-down/350?cb=20221024224351&path-prefix=en"
+    },
+    {
+        "name": "Handslaps Mirage",
+        "detail": "https://tekken.fandom.com/wiki/Handslaps_Mirage",
+        "command": "[1+2~3]",
+        "damage": "12,15,13",
+        "ranges": "hmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b9/Handslaps_Mirage.gif/revision/latest/scale-to-width-down/350?cb=20221024224648&path-prefix=en"
+    },
+    {
+        "name": "Back Handspring",
+        "detail": "https://tekken.fandom.com/wiki/Back_Handspring_(Eddy,_Christie_and_Tiger)",
+        "command": "3+4",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1c/Back_Handspring_Eddy.gif/revision/latest/scale-to-width-down/350?cb=20220628134844&path-prefix=en"
+    },
+    {
+        "name": "Back Handspring to Handstand Kick",
+        "detail": "https://tekken.fandom.com/wiki/Back_Handspring_to_Handstand_Kick",
+        "command": "3+4,3",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/13/Back_Handspring_to_Handstand_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221018212909&path-prefix=en"
+    },
+    {
+        "name": "Ki Charge",
+        "detail": "https://tekken.fandom.com/wiki/Supercharger",
+        "command": "1+2+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4f/E24Ks_Tekken_Tag_Tournament_-_Ganryu_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20201128143016&path-prefix=en"
+    },
+    {
+        "name": "Shin Cutter Combo",
+        "detail": "https://tekken.fandom.com/wiki/Shin_Cutter_Combo",
+        "command": "f+2,1,4",
+        "damage": "8,10,21",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/cd/Shin_Cutter_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220513162424&path-prefix=en"
+    },
+    {
+        "name": "Handstand Kick",
+        "detail": "https://tekken.fandom.com/wiki/Handstand_Kick_(Eddy,_Christie_and_Tiger)",
+        "command": "f+3",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d2/Handstand_Kick_Eddy.gif/revision/latest/scale-to-width-down/350?cb=20220514145734&path-prefix=en"
+    },
+    {
+        "name": "Samba",
+        "detail": "https://tekken.fandom.com/wiki/Samba",
+        "command": "f+4",
+        "damage": "10",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b7/Samba.gif/revision/latest/scale-to-width-down/350?cb=20220513165339&path-prefix=en"
+    },
+    {
+        "name": "Samba Handstand",
+        "detail": "https://tekken.fandom.com/wiki/Samba_Handstand",
+        "command": "f+4,b",
+        "damage": "10",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/75/Samba_Handstand.gif/revision/latest/scale-to-width-down/350?cb=20221024225303&path-prefix=en"
+    },
+    {
+        "name": "Samba Slippery Kick",
+        "detail": "https://tekken.fandom.com/wiki/Samba_Slippery_Kick",
+        "command": "f+4,3+4",
+        "damage": "10,10,10",
+        "ranges": "mll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8c/Samba_Slippery_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221024225314&path-prefix=en"
+    },
+    {
+        "name": "Handstand",
+        "detail": "https://tekken.fandom.com/wiki/Handstand",
+        "command": "f+1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e9/Handstand.gif/revision/latest/scale-to-width-down/350?cb=20210301204824&path-prefix=en"
+    },
+    {
+        "name": "Revers\u00e3o",
+        "detail": "https://tekken.fandom.com/wiki/Revers%C3%A3o",
+        "command": "f+3+4",
+        "damage": "8,10",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a7/Revers%C3%A3o.gif/revision/latest/scale-to-width-down/350?cb=20221003210902&path-prefix=en"
+    },
+    {
+        "name": "M\u00e3o Esquerda",
+        "detail": "https://tekken.fandom.com/wiki/M%C3%A3o_Esquerda",
+        "command": "d/f+1",
+        "damage": "10",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a1/M%C3%A3o_Esquerda.gif/revision/latest/scale-to-width-down/350?cb=20221018213728&path-prefix=en"
+    },
+    {
+        "name": "M\u00e3o Esquerda to Handstand",
+        "detail": "https://tekken.fandom.com/wiki/M%C3%A3o_Esquerda_to_Handstand",
+        "command": "d/f+1,f",
+        "damage": "10",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/dd/M%C3%A3o_Esquerda_to_Handstand.gif/revision/latest/scale-to-width-down/350?cb=20221018213716&path-prefix=en"
+    },
+    {
+        "name": "Conbinaso M\u00e3o",
+        "detail": "https://tekken.fandom.com/wiki/Combina%C3%A7%C3%A3o_M%C3%A3o",
+        "command": "d/f+1,1",
+        "damage": "10,6",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1a/Combina%C3%A7%C3%A3o_M%C3%A3o.gif/revision/latest/scale-to-width-down/350?cb=20220611143807&path-prefix=en"
+    },
+    {
+        "name": "Elbow Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Elbow_Uppercut",
+        "command": "d/f+2",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6d/Elbow_Uppercut.gif/revision/latest/scale-to-width-down/350?cb=20220417160323&path-prefix=en"
+    },
+    {
+        "name": "Island Mirage",
+        "detail": "https://tekken.fandom.com/wiki/Island_Mirage",
+        "command": "d/f+3",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/06/Island_Mirage.gif/revision/latest/scale-to-width-down/350?cb=20220513195341&path-prefix=en"
+    },
+    {
+        "name": "Island Mirage to Negativa",
+        "detail": "https://tekken.fandom.com/wiki/Island_Mirage_to_Negativa",
+        "command": "d/f+3,d",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/98/Island_Mirage_to_Negativa.gif/revision/latest/scale-to-width-down/350?cb=20220520162938&path-prefix=en"
+    },
+    {
+        "name": "Kneecap Crusher",
+        "detail": "https://tekken.fandom.com/wiki/Kneecap_Crusher",
+        "command": "d/f+4",
+        "damage": "12",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/21/Kneecap_Crusher.gif/revision/latest/scale-to-width-down/350?cb=20220417160933&path-prefix=en"
+    },
+    {
+        "name": "Mirage",
+        "detail": "https://tekken.fandom.com/wiki/Mirage",
+        "command": "d/f+3+4",
+        "damage": "20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/98/Mirage.gif/revision/latest/scale-to-width-down/350?cb=20220607103511&path-prefix=en"
+    },
+    {
+        "name": "Heran Bago",
+        "detail": "https://tekken.fandom.com/wiki/Heran_Bago",
+        "command": "d (or f,f)+[3~3]",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/36/Heran_Bago.gif/revision/latest/scale-to-width-down/350?cb=20220417194543&path-prefix=en"
+    },
+    {
+        "name": "Rel\u00f3gio",
+        "detail": "https://tekken.fandom.com/wiki/Rel%C3%B3gio",
+        "command": "d+[3~4]",
+        "damage": "12",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b7/Relogio.gif/revision/latest/scale-to-width-down/350?cb=20220520154452&path-prefix=en"
+    },
+    {
+        "name": "Negativa",
+        "detail": "https://tekken.fandom.com/wiki/Negativa",
+        "command": "d+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ad/Negativa.gif/revision/latest/scale-to-width-down/350?cb=20210301210429&path-prefix=en"
+    },
+    {
+        "name": "Rasteila",
+        "detail": "https://tekken.fandom.com/wiki/Rasteila",
+        "command": "d/b+3",
+        "damage": "12",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a4/Thong_Bikini.gif/revision/latest/scale-to-width-down/350?cb=20220514141128&path-prefix=en"
+    },
+    {
+        "name": "Rasteila to Handstand",
+        "detail": "https://tekken.fandom.com/wiki/Rasteila_to_Handstand",
+        "command": "d/b+3,b",
+        "damage": "12",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1f/Thong_Bikini_to_Handstand.gif/revision/latest/scale-to-width-down/350?cb=20220612153009&path-prefix=en"
+    },
+    {
+        "name": "Rasteila Chibata",
+        "detail": "https://tekken.fandom.com/wiki/Rasteila_Chibata",
+        "command": "d/b+3,3",
+        "damage": "12,25",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e3/Rasteila_Chibata.gif/revision/latest/scale-to-width-down/350?cb=20221011223451&path-prefix=en"
+    },
+    {
+        "name": "Rasteila Hot Plate Special",
+        "detail": "https://tekken.fandom.com/wiki/Rasteila_Hot_Plate_Special",
+        "command": "d/b+3,N,3",
+        "damage": "12,15",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/80/Rasteila_Hot_Plate_Special.gif/revision/latest/scale-to-width-down/350?cb=20221011223849&path-prefix=en"
+    },
+    {
+        "name": "Rasteila to Circle Kick",
+        "detail": "https://tekken.fandom.com/wiki/Rasteila_to_Circle_Kick",
+        "command": "d/b+3,N,4",
+        "damage": "12,15",
+        "ranges": "lh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c3/Rasteira_to_Circle_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220514151758&path-prefix=en"
+    },
+    {
+        "name": "Rasteila to Low Kick 2",
+        "detail": "https://tekken.fandom.com/wiki/Rasteila_to_Low_Kick_2",
+        "command": "d/b+3,4",
+        "damage": "12,15",
+        "ranges": "ll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/ff/Rasteila_to_Low_Kick_2.gif/revision/latest/scale-to-width-down/350?cb=20211010202835&path-prefix=en"
+    },
+    {
+        "name": "Thong Bikini to Low Kick 2",
+        "detail": "https://tekken.fandom.com/wiki/Thong_Bikini_to_Low_Kick_2",
+        "command": "d/b+3,4,4",
+        "damage": "12,15,15",
+        "ranges": "lll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b3/Thong_Bikini_to_Low_Kick_2.gif/revision/latest/scale-to-width-down/350?cb=20221011224914&path-prefix=en"
+    },
+    {
+        "name": "Rasteila to Crying Needle",
+        "detail": "https://tekken.fandom.com/wiki/Rasteila_to_Crying_Needle",
+        "command": "d/b+3,4,1+2",
+        "damage": "12,15,20",
+        "ranges": "llm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a2/Rasteila_to_Crying_Needle.gif/revision/latest/scale-to-width-down/350?cb=20221018211811&path-prefix=en"
+    },
+    {
+        "name": "Barbed Wire",
+        "detail": "https://tekken.fandom.com/wiki/Barbed_Wire",
+        "command": "d/b+4",
+        "damage": "22",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/ee/Barbed_Wire.gif/revision/latest/scale-to-width-down/350?cb=20220519213732&path-prefix=en"
+    },
+    {
+        "name": "Barbed Wire Infinite Upside Down Kick",
+        "detail": "https://tekken.fandom.com/wiki/Barbed_Wire_Infinite_Upside_Down_Kick",
+        "command": "d/b+4,b+4",
+        "damage": "22",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/66/Barbed_Wire_Infinite_Upside_Down_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221011225234&path-prefix=en"
+    },
+    {
+        "name": "Double Arm Stinger",
+        "detail": "https://tekken.fandom.com/wiki/Double_Arm_Stinger",
+        "command": "d/b+1+2",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/df/Double_Arm_Stinger.gif/revision/latest/scale-to-width-down/350?cb=20220629140518&path-prefix=en"
+    },
+    {
+        "name": "Fruit Picker",
+        "detail": "https://tekken.fandom.com/wiki/Fruit_Picker",
+        "command": "d/b+3+4 (b, b to cancel)",
+        "damage": "40,40",
+        "ranges": "!!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/45/320c91e525.gif/revision/latest/scale-to-width-down/350?cb=20221111092210&path-prefix=en"
+    },
+    {
+        "name": "Asfixiante",
+        "detail": "https://tekken.fandom.com/wiki/Asfixiante",
+        "command": "b+2",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/46/Asfixiante.gif/revision/latest/scale-to-width-down/350?cb=20220411123055&path-prefix=en"
+    },
+    {
+        "name": "Knee Thruster",
+        "detail": "https://tekken.fandom.com/wiki/Knee_Thruster",
+        "command": "b+3",
+        "damage": "10",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b8/Knee_Thruster.gif/revision/latest/scale-to-width-down/350?cb=20220417161510&path-prefix=en"
+    },
+    {
+        "name": "Knee Thruster to Heran Bago",
+        "detail": "https://tekken.fandom.com/wiki/Knee_Thruster_to_Heran_Bago",
+        "command": "b+3,3",
+        "damage": "10,21",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d3/Knee_Thruster_to_Heran_Bago.gif/revision/latest/scale-to-width-down/350?cb=20220514152215&path-prefix=en"
+    },
+    {
+        "name": "B\u00ean\u00e7\u00e3o Fake-out",
+        "detail": "https://tekken.fandom.com/wiki/B%C3%AAn%C3%A7%C3%A3o_Fake-out",
+        "command": "b+3,f",
+        "damage": "10,10",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/bd/Bencao_Fake-out.gif/revision/latest/scale-to-width-down/350?cb=20220513135401&path-prefix=en"
+    },
+    {
+        "name": "Armada",
+        "detail": "https://tekken.fandom.com/wiki/Armada",
+        "command": "b+4",
+        "damage": "15",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e7/Armada.gif/revision/latest/scale-to-width-down/350?cb=20220609112619&path-prefix=en"
+    },
+    {
+        "name": "Armada to Rasteila",
+        "detail": "https://tekken.fandom.com/wiki/Armada_to_Rasteila",
+        "command": "b+4,3",
+        "damage": "15,12",
+        "ranges": "hl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d0/Armada_to_Rastelia.gif/revision/latest/scale-to-width-down/350?cb=20220520163750&path-prefix=en"
+    },
+    {
+        "name": "Armada to Macaco",
+        "detail": "https://tekken.fandom.com/wiki/Armada_to_Macaco",
+        "command": "b+4,4",
+        "damage": "15,8,21",
+        "ranges": "hmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/aa/Leg_Whip_Mars_Attack_to_Macaco.gif/revision/latest/scale-to-width-down/350?cb=20220629141739&path-prefix=en"
+    },
+    {
+        "name": "Armada to Macaco to Negativa",
+        "detail": "https://tekken.fandom.com/wiki/Armada_to_Macaco_to_Negativa",
+        "command": "b+4,4,d",
+        "damage": "15,8,21",
+        "ranges": "hmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/70/Armada_to_Macaco_to_Negativa.gif/revision/latest/scale-to-width-down/350?cb=20220610214032&path-prefix=en"
+    },
+    {
+        "name": "Leg Whip Mars Attack Flip",
+        "detail": "https://tekken.fandom.com/wiki/Leg_Whip_Mars_Attack_Flip",
+        "command": "b+4,4,3+4",
+        "damage": "15,8,2,15",
+        "ranges": "hmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d6/Leg_Whip_Mars_Attack_Flip.gif/revision/latest/scale-to-width-down/350?cb=20220417162012&path-prefix=en"
+    },
+    {
+        "name": "Queixada",
+        "detail": "https://tekken.fandom.com/wiki/Queixada",
+        "command": "b+3+4",
+        "damage": "35",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d0/Queixada.gif/revision/latest/scale-to-width-down/350?cb=20220513204450&path-prefix=en"
+    },
+    {
+        "name": "Acrobacia",
+        "detail": "https://tekken.fandom.com/wiki/Acrobacia",
+        "command": "u+3",
+        "damage": "35",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f0/Acrobacia.gif/revision/latest/scale-to-width-down/350?cb=20211115185753&path-prefix=en"
+    },
+    {
+        "name": "Firekick",
+        "detail": "https://tekken.fandom.com/wiki/Firekick",
+        "command": "u (or u/b or u/f)+3+4",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/41/Firekick.gif/revision/latest/scale-to-width-down/350?cb=20211002153942&path-prefix=en"
+    },
+    {
+        "name": "Firekick to Negativa",
+        "detail": "https://tekken.fandom.com/wiki/Firekick_to_Negativa",
+        "command": "u (or u/b or u/f)+3+4,d",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2f/Firekick_to_Negativa.gif/revision/latest/scale-to-width-down/350?cb=20220611144417&path-prefix=en"
+    },
+    {
+        "name": "Jumping Jacks",
+        "detail": "https://tekken.fandom.com/wiki/Jumping_Jacks",
+        "command": "u/f+3",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/88/Jumping_Jacks.gif/revision/latest/scale-to-width-down/350?cb=20220611150555&path-prefix=en"
+    },
+    {
+        "name": "Jumping Jacks to Negativa",
+        "detail": "https://tekken.fandom.com/wiki/Jumping_Jacks_to_Negativa",
+        "command": "u/f+3,d",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/46/Jumping_Jacks_to_Negativa.gif/revision/latest/scale-to-width-down/350?cb=20220611150055&path-prefix=en"
+    },
+    {
+        "name": "Jumping Jacks Mirage",
+        "detail": "https://tekken.fandom.com/wiki/Jumping_Jacks_Mirage",
+        "command": "u/f+3,3",
+        "damage": "25,20",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e5/Jumping_Jacks_Mirage.gif/revision/latest/scale-to-width-down/350?cb=20211011182123&path-prefix=en"
+    },
+    {
+        "name": "Jumping Jacks Evil Stinger",
+        "detail": "https://tekken.fandom.com/wiki/Jumping_Jacks_Evil_Stinger",
+        "command": "u/f+3,3+4",
+        "damage": "25,15",
+        "ranges": "ml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1b/Jumping_Jacks_Evil_Stinger.gif/revision/latest/scale-to-width-down/350?cb=20211120120022&path-prefix=en"
+    },
+    {
+        "name": "Roundhouse",
+        "detail": "https://tekken.fandom.com/wiki/Roundhouse_(Eddy,_Tiger_and_Christie)",
+        "command": "u/f+4",
+        "damage": "28",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/36/Roundhouse_Christie.gif/revision/latest/scale-to-width-down/350?cb=20220607114924&path-prefix=en"
+    },
+    {
+        "name": "Vasuuna",
+        "detail": "https://tekken.fandom.com/wiki/Vasuuna",
+        "command": "u/f (or u or u/b)+1+2",
+        "damage": "21",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b7/Vasuuna.gif/revision/latest/scale-to-width-down/350?cb=20220426140625&path-prefix=en"
+    },
+    {
+        "name": "Lunging Brush Fire",
+        "detail": "https://tekken.fandom.com/wiki/Lunging_Brush_Fire",
+        "command": "f,f+3",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/ba/Lunging_Brush_Fire.gif/revision/latest/scale-to-width-down/350?cb=20211012142354&path-prefix=en"
+    },
+    {
+        "name": "Lunging Brush Fire to Negativa",
+        "detail": "https://tekken.fandom.com/wiki/Lunging_Brush_Fire_to_Negativa",
+        "command": "f,f+3,d",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/47/Lunging_Brush_Fire_to_Negativa.gif/revision/latest/scale-to-width-down/350?cb=20220513170900&path-prefix=en"
+    },
+    {
+        "name": "Lunging Brush Fire to Handstand",
+        "detail": "https://tekken.fandom.com/wiki/Lunging_Brush_Fire_to_Handstand",
+        "command": "f,f+3,b",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c4/Lunging_Brush_Fire_to_Handstand.gif/revision/latest/scale-to-width-down/350?cb=20220513170839&path-prefix=en"
+    },
+    {
+        "name": "Lunging Brush Fire to Perch Flop Kick",
+        "detail": "https://tekken.fandom.com/wiki/Lunging_Brush_Fire_to_Perch_Flop_Kick",
+        "command": "f,f+3,b+3+4",
+        "damage": "30,25",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/ce/Lunging_Brush_Fire_to_Perch_Flop_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220520164333&path-prefix=en"
+    },
+    {
+        "name": "Back Summy",
+        "detail": "https://tekken.fandom.com/wiki/Back_Summy",
+        "command": "f,f+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/79/Back_Summy.gif/revision/latest/scale-to-width-down/350?cb=20220513193455&path-prefix=en"
+    },
+    {
+        "name": "Back Summy to Firekick",
+        "detail": "https://tekken.fandom.com/wiki/Back_Summy_to_Firekick",
+        "command": "f,f+4,3",
+        "damage": "20",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/ff/Back_Summy_to_Firekick.gif/revision/latest/scale-to-width-down/350?cb=20220417191017&path-prefix=en"
+    },
+    {
+        "name": "Back Summy to Scoot Kick",
+        "detail": "https://tekken.fandom.com/wiki/Back_Summy_to_Scoot_Kick",
+        "command": "f,f+4,4",
+        "damage": "35",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6e/Back_Summy_to_Scoot_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220520165946&path-prefix=en"
+    },
+    {
+        "name": "Boomerang",
+        "detail": "https://tekken.fandom.com/wiki/Boomerang",
+        "command": "f,f+3+4",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/32/C6cd858e54fd.gif/revision/latest/scale-to-width-down/350?cb=20210127172246&path-prefix=en"
+    },
+    {
+        "name": "Cotovelo to Ponteira",
+        "detail": "https://tekken.fandom.com/wiki/Cotovelo_to_Ponteira",
+        "command": "WS+1,3",
+        "damage": "12,21",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4d/Cotovelo_to_Ponteira.gif/revision/latest/scale-to-width-down/350?cb=20220513191128&path-prefix=en"
+    },
+    {
+        "name": "Rising Batida",
+        "detail": "https://tekken.fandom.com/wiki/Rising_Batida",
+        "command": "WS+2",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f6/Rising_Batida.gif/revision/latest/scale-to-width-down/350?cb=20220610180230&path-prefix=en"
+    },
+    {
+        "name": "Face Jammer",
+        "detail": "https://tekken.fandom.com/wiki/Face_Jammer",
+        "command": "WS+3",
+        "damage": "25",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d9/Face_Jammer.gif/revision/latest/scale-to-width-down/350?cb=20220612145802&path-prefix=en"
+    },
+    {
+        "name": "Circle Kick",
+        "detail": "https://tekken.fandom.com/wiki/Circle_Kick",
+        "command": "WS+4",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a2/Circle_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220417191527&path-prefix=en"
+    },
+    {
+        "name": "Crying Needle",
+        "detail": "https://tekken.fandom.com/wiki/Crying_Needle",
+        "command": "FC+1+2",
+        "damage": "20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6d/Crying_Needle.gif/revision/latest/scale-to-width-down/350?cb=20220513193840&path-prefix=en"
+    },
+    {
+        "name": "Hammer Head",
+        "detail": "https://tekken.fandom.com/wiki/Hammer_Head",
+        "command": "FC+1+2,1,2",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/aa/Hammer_Head.gif/revision/latest/scale-to-width-down/350?cb=20220612150148&path-prefix=en"
+    },
+    {
+        "name": "Front Stinger",
+        "detail": "https://tekken.fandom.com/wiki/Front_Stinger",
+        "command": "FC+3+4",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/fd/Front_Stinger.gif/revision/latest/scale-to-width-down/350?cb=20220826125053&path-prefix=en"
+    },
+    {
+        "name": "Front Stinger to Negativa",
+        "detail": "https://tekken.fandom.com/wiki/Front_Stinger_to_Negativa",
+        "command": "FC+3+4,d",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2d/Front_Stinger_to_Negativa.gif/revision/latest/scale-to-width-down/350?cb=20220514151014&path-prefix=en"
+    },
+    {
+        "name": "Front Stinger to Handstand",
+        "detail": "https://tekken.fandom.com/wiki/Front_Stinger_to_Handstand",
+        "command": "FC+3+4,b",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/43/Front_Stinger_to_Relax.gif/revision/latest/scale-to-width-down/350?cb=20220611115744&path-prefix=en"
+    },
+    {
+        "name": "Martelo",
+        "detail": "https://tekken.fandom.com/wiki/Martelo",
+        "command": "FC+f+3",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0f/Martelo.gif/revision/latest/scale-to-width-down/350?cb=20220513191655&path-prefix=en"
+    },
+    {
+        "name": "Haule",
+        "detail": "https://tekken.fandom.com/wiki/Haule",
+        "command": "FC+d/b+4",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/30/Haule.gif/revision/latest/scale-to-width-down/350?cb=20220417193450&path-prefix=en"
+    },
+    {
+        "name": "Atras Passo",
+        "detail": "https://tekken.fandom.com/wiki/Passo_para_Tr%C3%A1s",
+        "command": "Back to opponent 3+4",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9d/Passo_para_Tr%C3%A1s.gif/revision/latest/scale-to-width-down/350?cb=20220826130245&path-prefix=en"
+    },
+    {
+        "name": "Cruncher",
+        "detail": "https://tekken.fandom.com/wiki/Cruncher",
+        "command": "During side step 2",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/41/Cruncher.gif/revision/latest/scale-to-width-down/350?cb=20220417194031&path-prefix=en"
+    },
+    {
+        "name": "Hot Plate Special",
+        "detail": "https://tekken.fandom.com/wiki/Hot_Plate_Special",
+        "command": "During side step 3",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e0/Hot_Plate_Special.gif/revision/latest/scale-to-width-down/350?cb=20220417192740&path-prefix=en"
+    },
+    {
+        "name": "Hot Plate Special Cancel to Negativa",
+        "detail": "https://tekken.fandom.com/wiki/Hot_Plate_Special_Cancel_to_Negativa",
+        "command": "During side step 3,d",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/95/Hot_Plate_Special_Cancel_to_Negativa.gif/revision/latest/scale-to-width-down/350?cb=20221018074744&path-prefix=en"
+    },
+    {
+        "name": "Hot Plate Special Cancel to Handstand",
+        "detail": "https://tekken.fandom.com/wiki/Hot_Plate_Special_Cancel_to_Handstand",
+        "command": "During side step 3,b",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/96/Hot_Plate_Special_Cancel_to_Handstand.gif/revision/latest/scale-to-width-down/350?cb=20221018074926&path-prefix=en"
+    },
+    {
+        "name": "Hot Plate Special to Handstand",
+        "detail": "https://tekken.fandom.com/wiki/Hot_Plate_Special_to_Handstand",
+        "command": "During side step 3,N,b",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/03/Hot_Plate_Special_to_Handstand.gif/revision/latest/scale-to-width-down/350?cb=20221018130056&path-prefix=en"
+    },
+    {
+        "name": "Hot Plate Special to Perch Flop Kick",
+        "detail": "https://tekken.fandom.com/wiki/Hot_Plate_Special_to_Perch_Flop_Kick",
+        "command": "During side step 3,N,b+3+4",
+        "damage": "15,25",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/bb/Hot_Plate_Special_to_Perch_Flop_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221018124718&path-prefix=en"
+    },
+    {
+        "name": "Twister",
+        "detail": "https://tekken.fandom.com/wiki/Twister",
+        "command": "During side step 4",
+        "damage": "10,7",
+        "ranges": "ll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4c/Twister.gif/revision/latest/scale-to-width-down/350?cb=20220629110433&path-prefix=en"
+    },
+    {
+        "name": "Twister to Handstand",
+        "detail": "https://tekken.fandom.com/wiki/Twister_to_Handstand",
+        "command": "During side step 4,b",
+        "damage": "10",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/56/Twister_to_Handstand.gif/revision/latest/scale-to-width-down/350?cb=20221018075145&path-prefix=en"
+    },
+    {
+        "name": "Twister Sweep",
+        "detail": "https://tekken.fandom.com/wiki/Twister_Sweep",
+        "command": "During side step 4,N,3",
+        "damage": "10,25",
+        "ranges": "ll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f1/Twister_Sweep.gif/revision/latest/scale-to-width-down/350?cb=20220514144843&path-prefix=en"
+    },
+    {
+        "name": "Twister Sweep to Handstand",
+        "detail": "https://tekken.fandom.com/wiki/Twister_Sweep_to_Handstand",
+        "command": "During side step 4,N,3,b",
+        "damage": "10",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f0/Twister_Sweep_to_Handstand.gif/revision/latest/scale-to-width-down/350?cb=20221018124637&path-prefix=en"
+    },
+    {
+        "name": "Dos Sole",
+        "detail": "https://tekken.fandom.com/wiki/Dos_Sole",
+        "command": "During side step [4~3]",
+        "damage": "50",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/29/Dos_Sole.gif/revision/latest/scale-to-width-down/350?cb=20211117183557&path-prefix=en"
+    },
+    {
+        "name": "Dos Sole to Handstand",
+        "detail": "https://tekken.fandom.com/wiki/Dos_Sole_to_Handstand",
+        "command": "During side step [4~3],b",
+        "damage": "50",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/63/Dos_Sole_to_Handstand.gif/revision/latest/scale-to-width-down/350?cb=20220628142542&path-prefix=en"
+    },
+    {
+        "name": "Twister Front Stinger",
+        "detail": "https://tekken.fandom.com/wiki/Twister_Front_Stinger",
+        "command": "During side step 4,3+4",
+        "damage": "10,20",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/77/Twister_Front_Stinger.gif/revision/latest/scale-to-width-down/350?cb=20221018120934&path-prefix=en"
+    },
+    {
+        "name": "Twister Front Stinger to Negativa",
+        "detail": "https://tekken.fandom.com/wiki/Twister_Front_Stinger_to_Negativa",
+        "command": "During side step 4,3+4,b",
+        "damage": "10,20",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d3/Twister_Front_Stinger_to_Negativa.gif/revision/latest/scale-to-width-down/350?cb=20221018122629&path-prefix=en"
+    },
+    {
+        "name": "Twister Front Stinger to Handstand",
+        "detail": "https://tekken.fandom.com/wiki/Twister_Front_Stinger_to_Handstand",
+        "command": "During side step 4,3+4,b",
+        "damage": "10,20",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c7/Twister_Front_Stinger_to_Handstand.gif/revision/latest/scale-to-width-down/350?cb=20221018122616&path-prefix=en"
+    },
+    {
+        "name": "Wheel Kicks",
+        "detail": "https://tekken.fandom.com/wiki/Wheel_Kicks",
+        "command": "During side step 3+4",
+        "damage": "6",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/81/Wheel_Kicks.gif/revision/latest/scale-to-width-down/350?cb=20220417162728&path-prefix=en"
+    },
+    {
+        "name": "Wheel Kicks S\u00e3o Paulo Special",
+        "detail": "https://tekken.fandom.com/wiki/Wheel_Kicks_S%C3%A3o_Paulo_Special",
+        "command": "During side step 3+4,3+4,3+4,u/f+3+4",
+        "damage": "6,25,12,25",
+        "ranges": "hmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/29/Wheel_Kicks_S%C3%A3o_Paulo_Special.gif/revision/latest/scale-to-width-down/350?cb=20220513200554&path-prefix=en"
+    },
+    {
+        "name": "Banda",
+        "detail": "https://tekken.fandom.com/wiki/Banda",
+        "command": "During side step 1+4",
+        "damage": "17",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/22/Banda.gif/revision/latest/scale-to-width-down/350?cb=20220417184653&path-prefix=en"
+    },
+    {
+        "name": "Handstand",
+        "detail": "https://tekken.fandom.com/wiki/Handstand",
+        "command": "f+1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e9/Handstand.gif/revision/latest/scale-to-width-down/350?cb=20210301204824&path-prefix=en"
+    },
+    {
+        "name": "Crouch to Handstand",
+        "detail": "https://tekken.fandom.com/wiki/Crouch_to_Handstand",
+        "command": "FC+d/f+1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d9/Crouch_to_Handstand.gif/revision/latest/scale-to-width-down/350?cb=20221011231208&path-prefix=en"
+    },
+    {
+        "name": "Flop Left",
+        "detail": "https://tekken.fandom.com/wiki/Flop_Left",
+        "command": "During Handstand 1",
+        "damage": "10",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/58/Flop_Left.gif/revision/latest/scale-to-width-down/350?cb=20221011231855&path-prefix=en"
+    },
+    {
+        "name": "Calypso",
+        "detail": "https://tekken.fandom.com/wiki/Calypso",
+        "command": "During Handstand 1,3",
+        "damage": "10,15",
+        "ranges": "ml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/36/Calypso.gif/revision/latest/scale-to-width-down/350?cb=20220610195208&path-prefix=en"
+    },
+    {
+        "name": "Flop Right",
+        "detail": "https://tekken.fandom.com/wiki/Flop_Right",
+        "command": "During Handstand 2",
+        "damage": "10",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/ed/Flop_Right.gif/revision/latest/scale-to-width-down/350?cb=20221011230408&path-prefix=en"
+    },
+    {
+        "name": "Circus",
+        "detail": "https://tekken.fandom.com/wiki/Circus",
+        "command": "During Handstand 2,4",
+        "damage": "10,7",
+        "ranges": "ml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3f/Circus.gif/revision/latest/scale-to-width-down/350?cb=20220606144230&path-prefix=en"
+    },
+    {
+        "name": "Hot Plate Special",
+        "detail": "https://tekken.fandom.com/wiki/Hot_Plate_Special",
+        "command": "During Handstand 3",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e0/Hot_Plate_Special.gif/revision/latest/scale-to-width-down/350?cb=20220417192740&path-prefix=en"
+    },
+    {
+        "name": "Slippery Kick",
+        "detail": "https://tekken.fandom.com/wiki/Slippery_Kick",
+        "command": "During Handstand [3~4]",
+        "damage": "10,10",
+        "ranges": "ll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9a/Slippery_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220417154343&path-prefix=en"
+    },
+    {
+        "name": "Slippery Kick to Handstand",
+        "detail": "https://tekken.fandom.com/wiki/Slippery_Kick_to_Handstand",
+        "command": "During Handstand [3~4],b",
+        "damage": "10,10",
+        "ranges": "ll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/73/Slippery_Kick_to_Handstand.gif/revision/latest/scale-to-width-down/350?cb=20221018210653&path-prefix=en"
+    },
+    {
+        "name": "Helicopter",
+        "detail": "https://tekken.fandom.com/wiki/Helicopter",
+        "command": "During Handstand 4",
+        "damage": "12,12",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2a/Helicopter.gif/revision/latest/scale-to-width-down/350?cb=20220514144050&path-prefix=en"
+    },
+    {
+        "name": "Helicopter to Slippery Kick",
+        "detail": "https://tekken.fandom.com/wiki/Helicopter_to_Slippery_Kick",
+        "command": "During Handstand 4,3+4",
+        "damage": "12,12,10,10",
+        "ranges": "mhll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0d/Helicopter_to_Slippery_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221011231425&path-prefix=en"
+    },
+    {
+        "name": "Quick Jab",
+        "detail": "https://tekken.fandom.com/wiki/Quick_Jab",
+        "command": "During Handstand f+1",
+        "damage": "6",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/13/Quick_Jab.gif/revision/latest/scale-to-width-down/350?cb=20220610212309&path-prefix=en"
+    },
+    {
+        "name": "Perch",
+        "detail": "https://tekken.fandom.com/wiki/Perch",
+        "command": "During Handstand d",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8c/Perch.gif/revision/latest/scale-to-width-down/350?cb=20220612153712&path-prefix=en"
+    },
+    {
+        "name": "Perch Flop Kick",
+        "detail": "https://tekken.fandom.com/wiki/Perch_Flop_Kick",
+        "command": "During Handstand d+3+4",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c1/Perch_Flop_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220417163230&path-prefix=en"
+    },
+    {
+        "name": "Scoot Kick",
+        "detail": "https://tekken.fandom.com/wiki/Scoot_Kick",
+        "command": "During Handstand b+3",
+        "damage": "15",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/43/Scoot_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221011232225&path-prefix=en"
+    },
+    {
+        "name": "Handstand Tilt",
+        "detail": "https://tekken.fandom.com/wiki/Handstand_Tilt",
+        "command": "During Handstand u,N (or d,N)",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/34/Handstand_Tilt.gif/revision/latest/scale-to-width-down/350?cb=20220629143229&path-prefix=en"
+    },
+    {
+        "name": "Drop Kick",
+        "detail": "https://tekken.fandom.com/wiki/Drop_Kick_(Eddy,_Christie_and_Tiger)",
+        "command": "During Handstand u,N,3 (or u,N,4)",
+        "damage": "25",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9d/Drop_Kick_Christie.gif/revision/latest/scale-to-width-down/350?cb=20221011232313&path-prefix=en"
+    },
+    {
+        "name": "Straight Flop",
+        "detail": "https://tekken.fandom.com/wiki/Straight_Flop",
+        "command": "During Handstand u+3 (or u+4)",
+        "damage": "10",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/03/Straight_Flop.gif/revision/latest/scale-to-width-down/350?cb=20220629143418&path-prefix=en"
+    },
+    {
+        "name": "Tilt Twist Sweep",
+        "detail": "https://tekken.fandom.com/wiki/Tilt_Twist_Sweep",
+        "command": "During Handstand u+3,d (or u+4,d)",
+        "damage": "10",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5f/Tilt_Twist_Sweep.gif/revision/latest/scale-to-width-down/350?cb=20220520170644&path-prefix=en"
+    },
+    {
+        "name": "Negativa",
+        "detail": "https://tekken.fandom.com/wiki/Negativa",
+        "command": "d+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ad/Negativa.gif/revision/latest/scale-to-width-down/350?cb=20210301210429&path-prefix=en"
+    },
+    {
+        "name": "Negativa to Meia-Iua Combo",
+        "detail": "https://tekken.fandom.com/wiki/Negativa_to_Meia-Iua_Combo",
+        "command": "During Negativa 1,3",
+        "damage": "10,15",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/ef/Negativa_to_Meia-lua_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220610181059&path-prefix=en"
+    },
+    {
+        "name": "Negativa to Armada Combo",
+        "detail": "https://tekken.fandom.com/wiki/Negativa_to_Armada_Combo",
+        "command": "During Negativa 1,4",
+        "damage": "10,15",
+        "ranges": "lh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9c/Negativa_to_Armada_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220417194813&path-prefix=en"
+    },
+    {
+        "name": "Negativa to Flare Combo",
+        "detail": "https://tekken.fandom.com/wiki/Negativa_to_Flare_Combo",
+        "command": "During Negativa 2,3",
+        "damage": "18,15",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/10/Negativa_to_Flare_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220611152111&path-prefix=en"
+    },
+    {
+        "name": "Negativa to Lunging Brush Fire Combo",
+        "detail": "https://tekken.fandom.com/wiki/Negativa_to_Lunging_Brush_Fire_Combo",
+        "command": "During Negativa 2,f+3",
+        "damage": "18,30",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/ea/Negativa_to_Lunging_Brush_Fire_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220910131449&path-prefix=en"
+    },
+    {
+        "name": "Negativa to Au Maladro",
+        "detail": "https://tekken.fandom.com/wiki/Negativa_to_Au_Batido",
+        "command": "During Negativa 2,4",
+        "damage": "18,10",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/95/Negativa_to_Au_Maladro.gif/revision/latest/scale-to-width-down/350?cb=20220910134152&path-prefix=en"
+    },
+    {
+        "name": "Rio Delight Knee Slicer",
+        "detail": "https://tekken.fandom.com/wiki/Rio_Delight_Knee_Slicer",
+        "command": "During Negativa 3,N,4",
+        "damage": "14,28",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e0/Rio_Delight_Knee_Slicer.gif/revision/latest/scale-to-width-down/350?cb=20220910131804&path-prefix=en"
+    },
+    {
+        "name": "S-Dobrado",
+        "detail": "https://tekken.fandom.com/wiki/S-Dobrado",
+        "command": "During Negativa [3~4]",
+        "damage": "20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/eb/S-Dobrado.gif/revision/latest/scale-to-width-down/350?cb=20220520170909&path-prefix=en"
+    },
+    {
+        "name": "Knee Slicer Low Front Stinger",
+        "detail": "https://tekken.fandom.com/wiki/Knee_Slicer_Low_Front_Stinger",
+        "command": "During Negativa 4,3+4",
+        "damage": "16,25",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/84/Knee_Slicer_Low_Front_Stinger.gif/revision/latest/scale-to-width-down/350?cb=20220611152422&path-prefix=en"
+    },
+    {
+        "name": "Ipanema Wings",
+        "detail": "https://tekken.fandom.com/wiki/Ipanema_Wings",
+        "command": "During Negativa [4~3]",
+        "damage": "12,10",
+        "ranges": "ll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d2/Ipanema_Wings_%28Christie%29.gif/revision/latest/scale-to-width-down/350?cb=20220315142814&path-prefix=en"
+    },
+    {
+        "name": "Ipanema Wings to Slippery Kick",
+        "detail": "https://tekken.fandom.com/wiki/Ipanema_Wings_to_Slippery_Kick",
+        "command": "During Negativa [4~3],3+4",
+        "damage": "12,10,10,10",
+        "ranges": "llll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/33/Ipanema_Wings_to_Slippery_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220514140350&path-prefix=en"
+    },
+    {
+        "name": "Low Front Stinger",
+        "detail": "https://tekken.fandom.com/wiki/Low_Front_Stinger",
+        "command": "During Negativa 3+4",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f8/Low_Front_Stinger.gif/revision/latest/scale-to-width-down/350?cb=20220910132731&path-prefix=en"
+    },
+    {
+        "name": "Low Front Stinger Cancel",
+        "detail": "https://tekken.fandom.com/wiki/Low_Front_Stinger_Cancel",
+        "command": "During Negativa 3+4,3",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/18/Low_Front_Stinger_Cancel.gif/revision/latest/scale-to-width-down/350?cb=20220610182329&path-prefix=en"
+    },
+    {
+        "name": "Quick Spring Kick",
+        "detail": "https://tekken.fandom.com/wiki/Mola_Vermelha",
+        "command": "During Negativa f+3+4",
+        "damage": "20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/ec/Quick_Spring_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220910140224&path-prefix=en"
+    }
+]

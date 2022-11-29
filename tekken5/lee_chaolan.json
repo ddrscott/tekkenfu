@@ -1,0 +1,578 @@
+[
+    {
+        "name": "Left Right Combo",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Combo",
+        "command": "1,2",
+        "damage": "5,10",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/96/Paul_Left_Right.gif/revision/latest/scale-to-width-down/350?cb=20201127133317&path-prefix=en"
+    },
+    {
+        "name": "Left Right Combo to Revolution Zwei",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Combo_to_Revolution_Zwei",
+        "command": "1,2,2,3",
+        "damage": "5,10,14,23",
+        "ranges": "hhmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/68/Left_Right_Combo_to_Revolution_Zwei.gif/revision/latest/scale-to-width-down/350?cb=20220321142442&path-prefix=en"
+    },
+    {
+        "name": "Left Right Mid Kick",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Mid_Kick",
+        "command": "1,2,4",
+        "damage": "5,10,10",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/41/Left_Right_Mid_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220105114259&path-prefix=en"
+    },
+    {
+        "name": "Left Right Max Mid",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Max_Mid",
+        "command": "1,2,4 Maintain",
+        "damage": "5,10,22",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1c/Left_Right_Max_Mid.gif/revision/latest/scale-to-width-down/350?cb=20220428220349&path-prefix=en"
+    },
+    {
+        "name": "Left Right Combo to Mist Step",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Combo_to_Mist_Step",
+        "command": "1,2,f,N",
+        "damage": "5,10",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a3/Left_Right_Combo_to_Mist_Step.gif/revision/latest/scale-to-width-down/350?cb=20220519214546&path-prefix=en"
+    },
+    {
+        "name": "Right Cross to Revolution Zwei",
+        "detail": "https://tekken.fandom.com/wiki/Right_Cross_to_Revolution_Zwei",
+        "command": "2,2,3",
+        "damage": "10,14,23",
+        "ranges": "hmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/ed/Right_Cross_to_Revolution_Zwei.gif/revision/latest/scale-to-width-down/350?cb=20220330214529&path-prefix=en"
+    },
+    {
+        "name": "Hammer Kick Combo",
+        "detail": "https://tekken.fandom.com/wiki/Hammer_Kick_Combo",
+        "command": "3,3",
+        "damage": "14,15",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9b/Hammer_Kick_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220428152007&path-prefix=en"
+    },
+    {
+        "name": "Spinning Hammer Kick",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_Hammer_Kick",
+        "command": "4,3,3",
+        "damage": "16,12,15",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/42/Spinning_Hammer_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220501172828&path-prefix=en"
+    },
+    {
+        "name": "Spin Kick Somersault Combo",
+        "detail": "https://tekken.fandom.com/wiki/Spin_Kick_Somersault_Combo",
+        "command": "4,3,4",
+        "damage": "16,12,25",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/55/Spin_Kick_Somersault_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220501173041&path-prefix=en"
+    },
+    {
+        "name": "Machinegun Kicks",
+        "detail": "https://tekken.fandom.com/wiki/Machinegun_Kicks_(Lee)",
+        "command": "4,4,4",
+        "damage": "16,8,8",
+        "ranges": "hhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/fa/Machinegun_Kicks.gif/revision/latest/scale-to-width-down/350?cb=20220210223316&path-prefix=en"
+    },
+    {
+        "name": "Lee Somersault",
+        "detail": "https://tekken.fandom.com/wiki/Lee_Somersault",
+        "command": "4,u+3",
+        "damage": "16,35",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/da/Lee_Somersault.gif/revision/latest/scale-to-width-down/350?cb=20211014122300&path-prefix=en"
+    },
+    {
+        "name": "Pirouette Punch",
+        "detail": "https://tekken.fandom.com/wiki/Pirouette_Punch",
+        "command": "1+2",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d4/83e867865ebe.gif/revision/latest/scale-to-width-down/350?cb=20201115184359&path-prefix=en"
+    },
+    {
+        "name": "Hitman",
+        "detail": "https://tekken.fandom.com/wiki/Hit_Man",
+        "command": "3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ad/6b75e3d7ea32.gif/revision/latest/scale-to-width-down/350?cb=20201207095537&path-prefix=en"
+    },
+    {
+        "name": "Freaker Jab",
+        "detail": "https://tekken.fandom.com/wiki/Freaker_Jab",
+        "command": "During Hitman 1",
+        "damage": "15",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2b/Freaker_Jab_TTT.gif/revision/latest/scale-to-width-down/350?cb=20210410135129&path-prefix=en"
+    },
+    {
+        "name": "Freaker Jab Rush",
+        "detail": "https://tekken.fandom.com/wiki/Freaker_Jab_Rush",
+        "command": "During Hitman 1,1,1,1",
+        "damage": "15,15,15,15",
+        "ranges": "hhhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/22/Freaker_Jab_Rush.gif/revision/latest/scale-to-width-down/350?cb=20210408001617&path-prefix=en"
+    },
+    {
+        "name": "Striker Kick",
+        "detail": "https://tekken.fandom.com/wiki/Striker_Kick",
+        "command": "During Hitman [1~4]",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/eb/Striker_Kick_TK4.gif/revision/latest/scale-to-width-down/350?cb=20210409230433&path-prefix=en"
+    },
+    {
+        "name": "Scatter Blow",
+        "detail": "https://tekken.fandom.com/wiki/Scatter_Blow",
+        "command": "During Hitman 2",
+        "damage": "23",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7b/Scatter_Bow_TTT.gif/revision/latest/scale-to-width-down/350?cb=20210410143627&path-prefix=en"
+    },
+    {
+        "name": "Scatter Kick",
+        "detail": "https://tekken.fandom.com/wiki/Scatter_Kick",
+        "command": "During Hitman 3",
+        "damage": "35",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9c/Scatter_Kick_%28TTT%29.gif/revision/latest/scale-to-width-down/350?cb=20220322224912&path-prefix=en"
+    },
+    {
+        "name": "Shin Slicer",
+        "detail": "https://tekken.fandom.com/wiki/Shin_Slicer",
+        "command": "During Hitman 4",
+        "damage": "22",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e7/Shin_Slicer_TTT.gif/revision/latest/scale-to-width-down/350?cb=20210410224501&path-prefix=en"
+    },
+    {
+        "name": "Mist Illusion",
+        "detail": "https://tekken.fandom.com/wiki/Mist_Illusion",
+        "command": "During Hitman 1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b4/Mist_Illusion.gif/revision/latest/scale-to-width-down/350?cb=20210408013725&path-prefix=en"
+    },
+    {
+        "name": "Mist Step",
+        "detail": "https://tekken.fandom.com/wiki/Mist_Step_(Lee)",
+        "command": "During Hitman f,N",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/23/Lee_Chaolan_Mist_Step_TTT2.gif/revision/latest/scale-to-width-down/350?cb=20201106142024&path-prefix=en"
+    },
+    {
+        "name": "Silver Slash",
+        "detail": "https://tekken.fandom.com/wiki/Silver_Slash",
+        "command": "During Hitman u/f+3",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b7/Silver_Slash_TK5.gif/revision/latest/scale-to-width-down/350?cb=20210410193729&path-prefix=en"
+    },
+    {
+        "name": "Hit Spark",
+        "detail": "https://tekken.fandom.com/wiki/Supercharger",
+        "command": "1+2+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4f/E24Ks_Tekken_Tag_Tournament_-_Ganryu_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20201128143016&path-prefix=en"
+    },
+    {
+        "name": "Revolution Zwei",
+        "detail": "https://tekken.fandom.com/wiki/Revolution_Zwei",
+        "command": "f+2,3",
+        "damage": "14,23",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/96/5ee0233718ff.gif/revision/latest/scale-to-width-down/350?cb=20201206133026&path-prefix=en"
+    },
+    {
+        "name": "Acid Storm",
+        "detail": "https://tekken.fandom.com/wiki/Acid_Storm",
+        "command": "f+3,3,3,3,3,4",
+        "damage": "4,4,6,8,14,28",
+        "ranges": "mmhhhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4c/Lee-tekken5-storybattle.gif/revision/latest/scale-to-width-down/350?cb=20201104210339&path-prefix=en"
+    },
+    {
+        "name": "Silver Whip",
+        "detail": "https://tekken.fandom.com/wiki/Silver_Whip",
+        "command": "f+4",
+        "damage": "13",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/18/Silver_Whip.gif/revision/latest/scale-to-width-down/350?cb=20220104231023&path-prefix=en"
+    },
+    {
+        "name": "Sway",
+        "detail": "https://tekken.fandom.com/wiki/Sway_(Lee)",
+        "command": "During Mist Step b,N",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/62/Sway_Lee.gif/revision/latest/scale-to-width-down/350?cb=20220430141320&path-prefix=en"
+    },
+    {
+        "name": "Shredder Kick Combo High",
+        "detail": "https://tekken.fandom.com/wiki/Shredder_Kick_Combo_High",
+        "command": "f,N,3,4,4",
+        "damage": "20,10,12",
+        "ranges": "mmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/13/8a15923a04a3.gif/revision/latest/scale-to-width-down/350?cb=20210110214315&path-prefix=en"
+    },
+    {
+        "name": "Shredder Kick Combo Mid",
+        "detail": "https://tekken.fandom.com/wiki/Shredder_Kick_Combo_Mid",
+        "command": "f,N,3,4,f+4",
+        "damage": "20,10,7",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7c/C748cf1431ae.gif/revision/latest/scale-to-width-down/350?cb=20210110221139&path-prefix=en"
+    },
+    {
+        "name": "Shredder Kick Combo Low",
+        "detail": "https://tekken.fandom.com/wiki/Shredder_Kick_Combo_Low",
+        "command": "f,N,3,4,d+4",
+        "damage": "20,10,7",
+        "ranges": "mml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b7/C366cfdf0582.gif/revision/latest/scale-to-width-down/350?cb=20210110221403&path-prefix=en"
+    },
+    {
+        "name": "Lee Left Middle Kick",
+        "detail": "https://tekken.fandom.com/wiki/Lee_Left_Middle_Kick",
+        "command": "d/f+3",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f1/Lee_Left_Middle_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220530223619&path-prefix=en"
+    },
+    {
+        "name": "Front Kick",
+        "detail": "https://tekken.fandom.com/wiki/Front_Kick_(Lee)",
+        "command": "d/f+4",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/87/Front_Kick_Lee.gif/revision/latest/scale-to-width-down/350?cb=20220530095229&path-prefix=en"
+    },
+    {
+        "name": "Silver Low",
+        "detail": "https://tekken.fandom.com/wiki/Silver_Low",
+        "command": "d+3",
+        "damage": "14",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/bf/Silver_Low.gif/revision/latest/scale-to-width-down/350?cb=20210707020723&path-prefix=en"
+    },
+    {
+        "name": "Shin to Head Kick",
+        "detail": "https://tekken.fandom.com/wiki/Shin_to_Head_Kick",
+        "command": "d+4,N,4",
+        "damage": "7,16",
+        "ranges": "lh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d9/Shin_to_Head_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220401145803&path-prefix=en"
+    },
+    {
+        "name": "Shin to Spinning Hammer Kick",
+        "detail": "https://tekken.fandom.com/wiki/Shin_to_Spinning_Hammer_Kick",
+        "command": "d+4,N,4,3,3",
+        "damage": "7,16,12,15",
+        "ranges": "lhhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/ff/Shin_to_Spinning_Hammer_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220519215503&path-prefix=en"
+    },
+    {
+        "name": "Shin to Spin Kick Somersault Combo",
+        "detail": "https://tekken.fandom.com/wiki/Shin_to_Spin_Kick_Somersault_Combo",
+        "command": "d+4,N,4,3,4",
+        "damage": "7,16,12,25",
+        "ranges": "lhhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/82/Shin_to_Spin_Kick_Somersault_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220501173549&path-prefix=en"
+    },
+    {
+        "name": "Laser Edge Machine Gun Kick",
+        "detail": "https://tekken.fandom.com/wiki/Laser_Edge_Machine_Gun_Kick",
+        "command": "d+4,N,4,4,4",
+        "damage": "7,16,12,8",
+        "ranges": "lhhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e2/Laser_Edge_Machinegun_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220428152726&path-prefix=en"
+    },
+    {
+        "name": "Laser Edge Lee Somersault",
+        "detail": "https://tekken.fandom.com/wiki/Laser_Edge_Lee_Somersault",
+        "command": "d+4,N,4,u+3",
+        "damage": "7,16,30",
+        "ranges": "lhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/50/Laser_Edge_Lee_Somersault.gif/revision/latest/scale-to-width-down/350?cb=20220401173032&path-prefix=en"
+    },
+    {
+        "name": "Laser Edge Kick Combo",
+        "detail": "https://tekken.fandom.com/wiki/Laser_Edge_Kick_Combo",
+        "command": "d+4,4,4,4",
+        "damage": "7,8,5,21",
+        "ranges": "lllm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0b/7f2cf93a64e7.gif/revision/latest/scale-to-width-down/350?cb=20210703163705&path-prefix=en"
+    },
+    {
+        "name": "Silver Cyclone",
+        "detail": "https://tekken.fandom.com/wiki/Silver_Cyclone",
+        "command": "d+3+4",
+        "damage": "80",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/17/Silver_Cyclone.gif/revision/latest/scale-to-width-down/350?cb=20211019150215&path-prefix=en"
+    },
+    {
+        "name": "Bump Kick",
+        "detail": "https://tekken.fandom.com/wiki/Bump_Kick",
+        "command": "d/b+3",
+        "damage": "16",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8e/Bump_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220211170025&path-prefix=en"
+    },
+    {
+        "name": "Death Touch",
+        "detail": "https://tekken.fandom.com/wiki/Death_Touch",
+        "command": "d/b+1+2 (u, u to cancel)",
+        "damage": "80",
+        "ranges": "!!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/28/Death_Touch_TK2.gif/revision/latest/scale-to-width-down/350?cb=20211022125315&path-prefix=en"
+    },
+    {
+        "name": "Triple Fang",
+        "detail": "https://tekken.fandom.com/wiki/Triple_Fang",
+        "command": "b+1,1,2",
+        "damage": "8,8,15",
+        "ranges": "hmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/25/Triple_Fang_%281%29.gif/revision/latest/scale-to-width-down/350?cb=20211014125010&path-prefix=en"
+    },
+    {
+        "name": "Triple Fang to Hitman",
+        "detail": "https://tekken.fandom.com/wiki/Triple_Fang_to_Hitman",
+        "command": "b+1,1,3+4",
+        "damage": "8,8",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5d/Triple_Fang_to_Hitman.gif/revision/latest/scale-to-width-down/350?cb=20210923110418&path-prefix=en"
+    },
+    {
+        "name": "Triple Fang to Mist Step",
+        "detail": "https://tekken.fandom.com/wiki/Triple_Fang_to_Mist_Step",
+        "command": "b+1,1,f,N",
+        "damage": "8",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/89/Triple_Fang_to_Mist_Step.gif/revision/latest/scale-to-width-down/350?cb=20220530095751&path-prefix=en"
+    },
+    {
+        "name": "Mist Kick",
+        "detail": "https://tekken.fandom.com/wiki/Mist_Kick",
+        "command": "b+3",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/30/Mist_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220519215051&path-prefix=en"
+    },
+    {
+        "name": "Mist Wolf Combination",
+        "detail": "https://tekken.fandom.com/wiki/Mist_Wolf_Combination",
+        "command": "b+3,3",
+        "damage": "18,18",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/21/Mist_Wolf_Combination.gif/revision/latest/scale-to-width-down/350?cb=20220324143030&path-prefix=en"
+    },
+    {
+        "name": "Trick Kick",
+        "detail": "https://tekken.fandom.com/wiki/Trick_Kick",
+        "command": "b+[3~3]",
+        "damage": "18",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2f/Trick_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220430134847&path-prefix=en"
+    },
+    {
+        "name": "Silver Heel",
+        "detail": "https://tekken.fandom.com/wiki/Silver_Heel",
+        "command": "b+4",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a2/Silver_Heel.gif/revision/latest/scale-to-width-down/350?cb=20210913100857&path-prefix=en"
+    },
+    {
+        "name": "Quick Silver Sting",
+        "detail": "https://tekken.fandom.com/wiki/Quick_Silver_Sting",
+        "command": "u/f+3",
+        "damage": "20",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f0/Quick_Silver_Sting.gif/revision/latest/scale-to-width-down/350?cb=20220323162121&path-prefix=en"
+    },
+    {
+        "name": "Silver Arrow",
+        "detail": "https://tekken.fandom.com/wiki/Silver_Arrow",
+        "command": "u/f+4",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/fa/Silver_Arrow.gif/revision/latest/scale-to-width-down/350?cb=20220403145232&path-prefix=en"
+    },
+    {
+        "name": "Silver Sting",
+        "detail": "https://tekken.fandom.com/wiki/Silver_Bullet",
+        "command": "u/f+3+4",
+        "damage": "30",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f5/Silver_Sting.gif/revision/latest/scale-to-width-down/350?cb=20210315191522&path-prefix=en"
+    },
+    {
+        "name": "Pulse Blast",
+        "detail": "https://tekken.fandom.com/wiki/Pulse_Blast",
+        "command": "f,f+3",
+        "damage": "28",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8c/Pulse_Blast.gif/revision/latest/scale-to-width-down/350?cb=20210912152033&path-prefix=en"
+    },
+    {
+        "name": "Deadly Edge",
+        "detail": "https://tekken.fandom.com/wiki/Deadly_Edge",
+        "command": "f,f+4",
+        "damage": "22",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d9/Deadly_Edge.gif/revision/latest/scale-to-width-down/350?cb=20220404194815&path-prefix=en"
+    },
+    {
+        "name": "Blazing Kick",
+        "detail": "https://tekken.fandom.com/wiki/Blazing_Kick",
+        "command": "d,d/b+4",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/cf/Lee%27s_Blazing_Kick.gif/revision/latest/scale-to-width-down/350?cb=20201027140804&path-prefix=en"
+    },
+    {
+        "name": "Lee Cutter",
+        "detail": "https://tekken.fandom.com/wiki/Lee_Cutter",
+        "command": "b,b+4",
+        "damage": "23",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7a/Lee_Cutter.gif/revision/latest/scale-to-width-down/350?cb=20220428220733&path-prefix=en"
+    },
+    {
+        "name": "Lee Sliding",
+        "detail": "https://tekken.fandom.com/wiki/Lee_Sliding",
+        "command": "f,f,N,3+4",
+        "damage": "15",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3a/Lee_Sliding.gif/revision/latest/scale-to-width-down/350?cb=20210412012955&path-prefix=en"
+    },
+    {
+        "name": "Back Handspring to Hitman",
+        "detail": "https://tekken.fandom.com/wiki/Back_Handspring_to_Hitman",
+        "command": "b,b,N,3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/65/Back_Handspring_to_Hitman.gif/revision/latest/scale-to-width-down/350?cb=20220430141723&path-prefix=en"
+    },
+    {
+        "name": "Infinite Kick Chain 1",
+        "detail": "https://tekken.fandom.com/wiki/Infinite_Kick_Chain",
+        "command": "WS+3,3,d+3,N,3,3,...",
+        "damage": "10,17,8,10,10...",
+        "ranges": "mmlmh...",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/87/0dbbdf561804.gif/revision/latest/scale-to-width-down/350?cb=20201210132128&path-prefix=en"
+    },
+    {
+        "name": "Infinite Kick Chain 2",
+        "detail": "https://tekken.fandom.com/wiki/Infinite_Kick_Chain",
+        "command": "WS+3,3,d/f+3,N,3,3,...",
+        "damage": "10,17,10,10,10...",
+        "ranges": "mmmhm...",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/87/0dbbdf561804.gif/revision/latest/scale-to-width-down/350?cb=20201210132128&path-prefix=en"
+    },
+    {
+        "name": "Low Variation",
+        "detail": "https://tekken.fandom.com/wiki/Low_Variation",
+        "command": "During Infinite Chain d+3,3,...",
+        "damage": "10,17,8,10,10,10...",
+        "ranges": "lmh...",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7a/Low_Variation.gif/revision/latest/scale-to-width-down/350?cb=20220427134522&path-prefix=en"
+    },
+    {
+        "name": "High Variation",
+        "detail": "https://tekken.fandom.com/wiki/High_Variation",
+        "command": "During Infinite Chain u+3,3,...",
+        "damage": "10,17,8,10,15,10...",
+        "ranges": "mmh...",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f7/High_Variation.gif/revision/latest/scale-to-width-down/350?cb=20220427134508&path-prefix=en"
+    },
+    {
+        "name": "Silver Tail",
+        "detail": "https://tekken.fandom.com/wiki/Silver_Tail",
+        "command": "FC+d/f+4",
+        "damage": "18",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7c/Silver_Tail.gif/revision/latest/scale-to-width-down/350?cb=20210914091505&path-prefix=en"
+    },
+    {
+        "name": "Fake",
+        "detail": "https://tekken.fandom.com/wiki/Somersault",
+        "command": "FC+U/F (ou U ou U/B)+3",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f9/Somersault.gif/revision/latest/scale-to-width-down/350?cb=20220511133729&path-prefix=en"
+    },
+    {
+        "name": "Catapult Kick Low",
+        "detail": "https://tekken.fandom.com/wiki/Somersault_Flip",
+        "command": "FC+u/f (or u or u/b)+4",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/48/Somersault_Flip.gif/revision/latest/scale-to-width-down/350?cb=20210217144106&path-prefix=en"
+    },
+    {
+        "name": "Catapult Kick High",
+        "detail": "https://tekken.fandom.com/wiki/High_Somersault_Kick",
+        "command": "FC+U/F (or U or U/B)+4",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f0/Catapult_Kick_High.gif/revision/latest/scale-to-width-down/350?cb=20220521171017&path-prefix=en"
+    },
+    {
+        "name": "Catapult Drop",
+        "detail": "https://tekken.fandom.com/wiki/Rainbow_Kick",
+        "command": "FC+u/f (or U or U/B)+3+4",
+        "damage": "30",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/ca/Tekken_1_-_Marshall_Law_Move_List_%28Quick_Video_Showcase%29.gif/revision/latest/scale-to-width-down/350?cb=20201205205218&path-prefix=en"
+    },
+    {
+        "name": "Sliding",
+        "detail": "https://tekken.fandom.com/wiki/Slide_Kick",
+        "command": "FC+d/f,d,d/f+3",
+        "damage": "17",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/64/Slide_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220530115814&path-prefix=en"
+    },
+    {
+        "name": "Rear Cross Punch",
+        "detail": "https://tekken.fandom.com/wiki/Rear_Cross_Punch",
+        "command": "During side step 2",
+        "damage": "17",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/20/Rear_Cross_Punch.gif/revision/latest/scale-to-width-down/350?cb=20220519220105&path-prefix=en"
+    },
+    {
+        "name": "Rear Cross to Mist Step",
+        "detail": "https://tekken.fandom.com/wiki/Right_Cross_to_Mist_Step",
+        "command": "During side step 2,f,N",
+        "damage": "17",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ae/Right_Cross_to_Mist_Step.gif/revision/latest/scale-to-width-down/350?cb=20220530224030&path-prefix=en"
+    },
+    {
+        "name": "Lee Screw Left",
+        "detail": "https://tekken.fandom.com/wiki/Lee_Screw_Left",
+        "command": "During side step (right) 3",
+        "damage": "35",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/02/Lee_Screw_Left.gif/revision/latest/scale-to-width-down/350?cb=20220530222342&path-prefix=en"
+    },
+    {
+        "name": "Lee Screw Right",
+        "detail": "https://tekken.fandom.com/wiki/Lee_Screw_Right",
+        "command": "During side step (Left) 4",
+        "damage": "30",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6a/Lee_Screw_Right.gif/revision/latest/scale-to-width-down/350?cb=20220519220635&path-prefix=en"
+    }
+]

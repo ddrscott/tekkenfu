@@ -1,0 +1,506 @@
+[
+    {
+        "name": "Double Jab",
+        "detail": "https://tekken.fandom.com/wiki/Double_Jab_(Baek_Doo_San)",
+        "command": "1,1",
+        "damage": "5,5",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/27/Double_Jab_Baek.gif/revision/latest/scale-to-width-down/350?cb=20220503171815&path-prefix=en"
+    },
+    {
+        "name": "One Two Combo",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Combo",
+        "command": "1,2",
+        "damage": "5,10",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/96/Paul_Left_Right.gif/revision/latest/scale-to-width-down/350?cb=20201127133317&path-prefix=en"
+    },
+    {
+        "name": "One Two Flamingo Step",
+        "detail": "https://tekken.fandom.com/wiki/One_Two_Flamingo_Step",
+        "command": "1,2,3,f (or b)",
+        "damage": "5,10",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/fd/One_Two_Flamingo_Step.gif/revision/latest/scale-to-width-down/350?cb=20221017195706&path-prefix=en"
+    },
+    {
+        "name": "One Two Butterfly Kicks",
+        "detail": "https://tekken.fandom.com/wiki/One_Two_Butterfly_Kicks",
+        "command": "1,2,3,3,3,4",
+        "damage": "5,10,15,12,12,25",
+        "ranges": "hhhhmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/eb/One_Two_Butterfly_Kicks.gif/revision/latest/scale-to-width-down/350?cb=20221001225601&path-prefix=en"
+    },
+    {
+        "name": "One Two Butterfly Needle",
+        "detail": "https://tekken.fandom.com/wiki/One_Two_Butterfly_Needle",
+        "command": "1,2,3,3,3,d+4",
+        "damage": "5,10,15,12,12,10",
+        "ranges": "hhhhml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4d/One_Two_Butterfly_Needle.gif/revision/latest/scale-to-width-down/350?cb=20221023174624&path-prefix=en"
+    },
+    {
+        "name": "One Two Black Widow",
+        "detail": "https://tekken.fandom.com/wiki/One_Two_Black_Widow",
+        "command": "1,2,3,3,4,4,3",
+        "damage": "5,10,15,12,15,18,17",
+        "ranges": "hhhhhmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/ca/One_Two_Black_Widow.gif/revision/latest/scale-to-width-down/350?cb=20220131222033&path-prefix=en"
+    },
+    {
+        "name": "One Two Maelstrom",
+        "detail": "https://tekken.fandom.com/wiki/One_Two_Maelstrom",
+        "command": "1,2,3,3,4,4,4",
+        "damage": "5,10,15,12,15,18,15",
+        "ranges": "hhhhhml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8e/One_Two_Maelstrom.gif/revision/latest/scale-to-width-down/350?cb=20221023175112&path-prefix=en"
+    },
+    {
+        "name": "One Two Butterfly Blade",
+        "detail": "https://tekken.fandom.com/wiki/One_Two_Butterfly_Blade",
+        "command": "1,2,3,4,3",
+        "damage": "5,10,15,8,25",
+        "ranges": "hhhlm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0a/One_Two_Butterfly_Blade.gif/revision/latest/scale-to-width-down/350?cb=20221023175501&path-prefix=en"
+    },
+    {
+        "name": "Butterfly Kicks",
+        "detail": "https://tekken.fandom.com/wiki/Butterfly_Kicks",
+        "command": "3,3,3,4",
+        "damage": "15,12,12,25",
+        "ranges": "hhmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/67/Butterfly_Kicks.gif/revision/latest/scale-to-width-down/350?cb=20220601071510&path-prefix=en"
+    },
+    {
+        "name": "Butterfly Kicks to Low Kick",
+        "detail": "https://tekken.fandom.com/wiki/Butterfly_Kicks_to_Low_Kick",
+        "command": "3,3,3,d+4",
+        "damage": "15,12,12,10",
+        "ranges": "hhml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/44/Butterfly_Kicks_to_Low_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221030125513&path-prefix=en"
+    },
+    {
+        "name": "Black Widow",
+        "detail": "https://tekken.fandom.com/wiki/Black_Widow",
+        "command": "3,3,4,4,3",
+        "damage": "15,12,15,18,17",
+        "ranges": "hhhmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/03/Black_Widow.gif/revision/latest/scale-to-width-down/350?cb=20220627183850&path-prefix=en"
+    },
+    {
+        "name": "Maelstrom",
+        "detail": "https://tekken.fandom.com/wiki/Maelstrom_(Baek)",
+        "command": "3,3,4,4,4",
+        "damage": "15,12,15,18,15",
+        "ranges": "hhhml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/25/Maelstrom_Baek.gif/revision/latest/scale-to-width-down/350?cb=20221011211514&path-prefix=en"
+    },
+    {
+        "name": "Launching Rocket",
+        "detail": "https://tekken.fandom.com/wiki/Launching_Rocket",
+        "command": "3,4,3",
+        "damage": "15,8,25",
+        "ranges": "hlm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5b/Launching_Rocket.gif/revision/latest/scale-to-width-down/350?cb=20220503165818&path-prefix=en"
+    },
+    {
+        "name": "Falling Axe",
+        "detail": "https://tekken.fandom.com/wiki/Falling_Axe",
+        "command": "4,4",
+        "damage": "15,18",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/bc/Falling_Axe.gif/revision/latest/scale-to-width-down/350?cb=20220601114447&path-prefix=en"
+    },
+    {
+        "name": "Spinning Axe Combo",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_Axe_Combo",
+        "command": "1+2,4",
+        "damage": "18,9",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d0/Spinning_Axe_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220412122339&path-prefix=en"
+    },
+    {
+        "name": "Lightning Halberd",
+        "detail": "https://tekken.fandom.com/wiki/Lightning_Halberd",
+        "command": "3+4",
+        "damage": "10,10",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1a/Lightning_Halberd.gif/revision/latest/scale-to-width-down/350?cb=20210926105931&path-prefix=en"
+    },
+    {
+        "name": "Ki Charge",
+        "detail": "https://tekken.fandom.com/wiki/Supercharger",
+        "command": "1+2+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4f/E24Ks_Tekken_Tag_Tournament_-_Ganryu_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20201128143016&path-prefix=en"
+    },
+    {
+        "name": "Body Elbow",
+        "detail": "https://tekken.fandom.com/wiki/Body_Elbow_(Baek)",
+        "command": "f+2",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/00/Body_Elbow_Baek.gif/revision/latest/scale-to-width-down/350?cb=20221030130717&path-prefix=en"
+    },
+    {
+        "name": "Trident Rush",
+        "detail": "https://tekken.fandom.com/wiki/Trident_Rush",
+        "command": "f+3,3,2",
+        "damage": "10,10,12",
+        "ranges": "hlm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/47/Trident_Rush.gif/revision/latest/scale-to-width-down/350?cb=20220505210128&path-prefix=en"
+    },
+    {
+        "name": "Heel Drop to Middle Kick",
+        "detail": "https://tekken.fandom.com/wiki/Heel_Drop_to_Middle_Kick",
+        "command": "f+4,3",
+        "damage": "22,17",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e5/Heel_Drop_to_Middle_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220505155942&path-prefix=en"
+    },
+    {
+        "name": "Heel Drop to Low Kick",
+        "detail": "https://tekken.fandom.com/wiki/Heel_Drop_to_Low_Kick",
+        "command": "f+4,4",
+        "damage": "22,15",
+        "ranges": "ml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/53/Heel_Drop_to_Low_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220601113849&path-prefix=en"
+    },
+    {
+        "name": "Double Claymore",
+        "detail": "https://tekken.fandom.com/wiki/Double_Claymore",
+        "command": "d/f+3,4",
+        "damage": "21,15",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e6/Double_Claymore.gif/revision/latest/scale-to-width-down/350?cb=20210521191032&path-prefix=en"
+    },
+    {
+        "name": "Snake Rocket",
+        "detail": "https://tekken.fandom.com/wiki/Snake_Rocket",
+        "command": "d+3,3,3",
+        "damage": "12,7,22",
+        "ranges": "llm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e1/Snake_Rocket.gif/revision/latest/scale-to-width-down/350?cb=20220411231309&path-prefix=en"
+    },
+    {
+        "name": "Snake Kick",
+        "detail": "https://tekken.fandom.com/wiki/Snake_Kick",
+        "command": "d+3,3,d+3",
+        "damage": "12,7,7",
+        "ranges": "lll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/37/Snake_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220412111044&path-prefix=en"
+    },
+    {
+        "name": "Baek's Rush",
+        "detail": "https://tekken.fandom.com/wiki/Baek%27s_Rush",
+        "command": "d+4,3,3,3",
+        "damage": "7,10,15,25",
+        "ranges": "lmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/67/Baek%27s_Rush.gif/revision/latest/scale-to-width-down/350?cb=20220504131848&path-prefix=en"
+    },
+    {
+        "name": "Baek's Rush Low",
+        "detail": "https://tekken.fandom.com/wiki/Baek%27s_Rush_Low",
+        "command": "d+4,3,3,d+3",
+        "damage": "7,10,15,15",
+        "ranges": "lmml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/26/Baek%27s_Rush_Low.gif/revision/latest/scale-to-width-down/350?cb=20220518142610&path-prefix=en"
+    },
+    {
+        "name": "Sliding Knee Snap",
+        "detail": "https://tekken.fandom.com/wiki/Sliding_Knee_Snap",
+        "command": "d/b+3",
+        "damage": "12",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/68/Sliding_Knee_Snap.gif/revision/latest/scale-to-width-down/350?cb=20220518142431&path-prefix=en"
+    },
+    {
+        "name": "Dark Halberd",
+        "detail": "https://tekken.fandom.com/wiki/Dark_Halberd",
+        "command": "d/b+4",
+        "damage": "21",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0d/Dark_Halberd.gif/revision/latest/scale-to-width-down/350?cb=20220504130317&path-prefix=en"
+    },
+    {
+        "name": "Dynamite Heel",
+        "detail": "https://tekken.fandom.com/wiki/Dynamite_Heel",
+        "command": "d/b+3+4 (b, b cancel)",
+        "damage": "40",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3e/Dynamite_Heel_TK2.gif/revision/latest/scale-to-width-down/350?cb=20211019145205&path-prefix=en"
+    },
+    {
+        "name": "Stealth Needle",
+        "detail": "https://tekken.fandom.com/wiki/Stealth_Needle",
+        "command": "b+1",
+        "damage": "17",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/cf/Stealth_Needle.gif/revision/latest/scale-to-width-down/350?cb=20220504144715&path-prefix=en"
+    },
+    {
+        "name": "Bolt Cut",
+        "detail": "https://tekken.fandom.com/wiki/Bolt_Cut",
+        "command": "b+2",
+        "damage": "15",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/db/Bolt_Cut.gif/revision/latest/scale-to-width-down/350?cb=20220417125337&path-prefix=en"
+    },
+    {
+        "name": "Flamingo",
+        "detail": "https://tekken.fandom.com/wiki/Flamingo",
+        "command": "b+3",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/74/Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20210910103707&path-prefix=en"
+    },
+    {
+        "name": "Flamingo to High Low Kick",
+        "detail": "https://tekken.fandom.com/wiki/Flamingo_to_High_Low_Kick",
+        "command": "During Flamingo 3,3,4",
+        "damage": "15,15,10",
+        "ranges": "mml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/33/Flamingo_to_High_Low_Kick.gif/revision/latest/scale-to-width-down/350?cb=20210906134804&path-prefix=en"
+    },
+    {
+        "name": "Flamingo Eliminator",
+        "detail": "https://tekken.fandom.com/wiki/Flamingo_Eliminator",
+        "command": "During Flamingo 3,4,4,3",
+        "damage": "15,10,18,17",
+        "ranges": "mhmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/04/Flamingo_Eliminator.gif/revision/latest/scale-to-width-down/350?cb=20220415155826&path-prefix=en"
+    },
+    {
+        "name": "Flamingo Maelstrom",
+        "detail": "https://tekken.fandom.com/wiki/Flamingo_Maelstrom",
+        "command": "During Flamingo 3,4,4,4",
+        "damage": "15,10,18,15",
+        "ranges": "mhml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7e/Flamingo_Maelstrom.gif/revision/latest/scale-to-width-down/350?cb=20220601115841&path-prefix=en"
+    },
+    {
+        "name": "Flamingo Rocket",
+        "detail": "https://tekken.fandom.com/wiki/Flamingo_Rocket",
+        "command": "During Flamingo f+3",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/14/Flamingo_Rocket.gif/revision/latest/scale-to-width-down/350?cb=20210924094401&path-prefix=en"
+    },
+    {
+        "name": "Flamingo Pick",
+        "detail": "https://tekken.fandom.com/wiki/Flamingo_Pick",
+        "command": "During Flamingo d+3",
+        "damage": "7",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/49/Flamingo_Pick.gif/revision/latest/scale-to-width-down/350?cb=20221030130428&path-prefix=en"
+    },
+    {
+        "name": "Head Crusher",
+        "detail": "https://tekken.fandom.com/wiki/Head_Crusher",
+        "command": "During Flamingo b+3",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/40/Head_Crusher.gif/revision/latest/scale-to-width-down/350?cb=20220916130023&path-prefix=en"
+    },
+    {
+        "name": "Heel Lance",
+        "detail": "https://tekken.fandom.com/wiki/Heel_Lance",
+        "command": "b+4",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e1/Heel_Lance.gif/revision/latest/scale-to-width-down/350?cb=20220415160440&path-prefix=en"
+    },
+    {
+        "name": "Destruction",
+        "detail": "https://tekken.fandom.com/wiki/Destruction",
+        "command": "u+4,3",
+        "damage": "10,15",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c4/Destruction.gif/revision/latest/scale-to-width-down/350?cb=20221030130954&path-prefix=en"
+    },
+    {
+        "name": "Bone Stinger",
+        "detail": "https://tekken.fandom.com/wiki/Bone_Stinger",
+        "command": "u/f+2",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d8/Bone_Stinger.gif/revision/latest/scale-to-width-down/350?cb=20220507182655&path-prefix=en"
+    },
+    {
+        "name": "Hunting Hawk",
+        "detail": "https://tekken.fandom.com/wiki/Hunting_Hawk",
+        "command": "u/f+3,4,3",
+        "damage": "15,9,12",
+        "ranges": "mmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/de/Dc12fc75e9f2.gif/revision/latest/scale-to-width-down/350?cb=20201106234329&path-prefix=en"
+    },
+    {
+        "name": "Leaping Snap Kick",
+        "detail": "https://tekken.fandom.com/wiki/Leaping_Snap_Kick",
+        "command": "u/f+4",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/ef/Leaping_Snap_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221030131015&path-prefix=en"
+    },
+    {
+        "name": "Trick Butterfly Kicks",
+        "detail": "https://tekken.fandom.com/wiki/Trick_Butterfly_Kicks",
+        "command": "u/f,N,3,3,3,4",
+        "damage": "25,12,12,25",
+        "ranges": "mhmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ae/Trick_Butterfly_Kicks.gif/revision/latest/scale-to-width-down/350?cb=20221017200228&path-prefix=en"
+    },
+    {
+        "name": "Trick Butterfly Needle",
+        "detail": "https://tekken.fandom.com/wiki/Trick_Butterfly_Needle",
+        "command": "u/f,N,3,3,3,d+4",
+        "damage": "25,12,12,10",
+        "ranges": "mhml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4a/Trick_Butterfly_Needle.gif/revision/latest/scale-to-width-down/350?cb=20221017201510&path-prefix=en"
+    },
+    {
+        "name": "Trick Black Widow",
+        "detail": "https://tekken.fandom.com/wiki/Trick_Black_Widow",
+        "command": "u/f,N,3,3,4,4,3",
+        "damage": "25,12,15,18,17",
+        "ranges": "mhhmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/91/Trick_Black_Widow.gif/revision/latest/scale-to-width-down/350?cb=20221017210944&path-prefix=en"
+    },
+    {
+        "name": "Trick Maelstrom",
+        "detail": "https://tekken.fandom.com/wiki/Trick_Maelstrom",
+        "command": "u/f,N,3,3,4,4,4",
+        "damage": "25,12,15,18,15",
+        "ranges": "mhhml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/30/Trick_Maelstrom.gif/revision/latest/scale-to-width-down/350?cb=20221017202616&path-prefix=en"
+    },
+    {
+        "name": "Hopping Double Kick",
+        "detail": "https://tekken.fandom.com/wiki/Hopping_Double_Kick",
+        "command": "u/f,N,3,4",
+        "damage": "25,20",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b7/Hopping_Double_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221017203325&path-prefix=en"
+    },
+    {
+        "name": "Rocket Lifter",
+        "detail": "https://tekken.fandom.com/wiki/Rocket_Lifter",
+        "command": "u/f,N,3,d+4,3",
+        "damage": "25,15,20",
+        "ranges": "mlm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/de/Rocket_Lifter.gif/revision/latest/scale-to-width-down/350?cb=20220627185721&path-prefix=en"
+    },
+    {
+        "name": "Left Heel Drop",
+        "detail": "https://tekken.fandom.com/wiki/Left_Splits_Kick",
+        "command": "f,f+3",
+        "damage": "23",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/55/G86zh.gif/revision/latest?cb=20150110132200&path-prefix=en"
+    },
+    {
+        "name": "Hammer Heel",
+        "detail": "https://tekken.fandom.com/wiki/Hammer_Heel",
+        "command": "f,f+4",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8e/Hammer_Heel.gif/revision/latest/scale-to-width-down/350?cb=20211222191209&path-prefix=en"
+    },
+    {
+        "name": "Spinning Backfist",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_Backfist_(Baek)",
+        "command": "b,b+2",
+        "damage": "12",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/92/Spinning_Backfist_Baek.gif/revision/latest/scale-to-width-down/350?cb=20220505160711&path-prefix=en"
+    },
+    {
+        "name": "Last Resort",
+        "detail": "https://tekken.fandom.com/wiki/Last_Resort",
+        "command": "b,b+3+4",
+        "damage": "60",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/35/Last_Resort.gif/revision/latest/scale-to-width-down/350?cb=20210126133746&path-prefix=en"
+    },
+    {
+        "name": "Cyclone Launcher",
+        "detail": "https://tekken.fandom.com/wiki/Cyclone_Launcher",
+        "command": "f,f,N,3",
+        "damage": "21",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/ba/Cyclone_Launcher_TK5.gif/revision/latest/scale-to-width-down/350?cb=20220419035548&path-prefix=en"
+    },
+    {
+        "name": "Rocket Shooter",
+        "detail": "https://tekken.fandom.com/wiki/Rocket_Shooter",
+        "command": "f,N,d,d/f+3",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/fb/Rocket_Shooter.gif/revision/latest/scale-to-width-down/350?cb=20220601115210&path-prefix=en"
+    },
+    {
+        "name": "Killing Blade",
+        "detail": "https://tekken.fandom.com/wiki/Leaping_Sidekick",
+        "command": "f,f,f+3",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/db/Slash3.gif/revision/latest?cb=20140714022617&path-prefix=en"
+    },
+    {
+        "name": "Double High to Low Kick",
+        "detail": "https://tekken.fandom.com/wiki/Double_High_to_Low_Kick",
+        "command": "WS+3,3,4",
+        "damage": "12,10,10",
+        "ranges": "hml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/41/Double_High_to_Low_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221011211016&path-prefix=en"
+    },
+    {
+        "name": "Eliminator",
+        "detail": "https://tekken.fandom.com/wiki/Eliminator",
+        "command": "WS+3,4,4,3",
+        "damage": "12,15,18,17",
+        "ranges": "hhmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/63/Eliminator.gif/revision/latest/scale-to-width-down/350?cb=20221023175932&path-prefix=en"
+    },
+    {
+        "name": "Knee Javelin",
+        "detail": "https://tekken.fandom.com/wiki/Knee_Javelin",
+        "command": "WS+3,4,4,4",
+        "damage": "12,15,18,15",
+        "ranges": "hhml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3c/Knee_Javelin.gif/revision/latest/scale-to-width-down/350?cb=20220627190125&path-prefix=en"
+    },
+    {
+        "name": "Albatross",
+        "detail": "https://tekken.fandom.com/wiki/Albatross",
+        "command": "WS+4,4,3",
+        "damage": "13,16,17",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d6/4d1c8d166dc7.gif/revision/latest/scale-to-width-down/350?cb=20210313000030&path-prefix=en"
+    },
+    {
+        "name": "Javelin",
+        "detail": "https://tekken.fandom.com/wiki/Javelin",
+        "command": "WS+4,4,4",
+        "damage": "13,16,15",
+        "ranges": "mml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/76/Javelin.gif/revision/latest/scale-to-width-down/350?cb=20211027164213&path-prefix=en"
+    },
+    {
+        "name": "Race Hammer",
+        "detail": "https://tekken.fandom.com/wiki/Race_Hammer",
+        "command": "During side step 1",
+        "damage": "17",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2b/Race_Hammer.gif/revision/latest/scale-to-width-down/350?cb=20220111151000&path-prefix=en"
+    },
+    {
+        "name": "Reverse Middle Kick",
+        "detail": "https://tekken.fandom.com/wiki/Reverse_Middle_Kick",
+        "command": "Back to opponent 4",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1c/Reverse_Middle_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220503171344&path-prefix=en"
+    }
+]

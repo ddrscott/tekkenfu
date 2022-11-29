@@ -1,0 +1,1226 @@
+[
+    {
+        "name": "Migraine",
+        "detail": "https://tekken.fandom.com/wiki/Migraine_(Left_Stance)",
+        "command": "1,1",
+        "damage": "5,8",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/42/85ac4d9b8cd9.gif/revision/latest/scale-to-width-down/350?cb=20201208140536&path-prefix=en"
+    },
+    {
+        "name": "Double Jab Low Kick",
+        "detail": "https://tekken.fandom.com/wiki/Double_Jab_Low_Kick",
+        "command": "1,1,3",
+        "damage": "5,8,10",
+        "ranges": "hhl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/06/Double_Jab_Low_Kick.gif/revision/latest/scale-to-width-down/350?cb=20211012012757&path-prefix=en"
+    },
+    {
+        "name": "Home Surgery",
+        "detail": "https://tekken.fandom.com/wiki/Home_Surgery",
+        "command": "1,1,3,3",
+        "damage": "5,8,10,18",
+        "ranges": "hhlh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7a/Tekken_4_-_Hwoarang_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20201217135431&path-prefix=en"
+    },
+    {
+        "name": "One Two Punch",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Combo",
+        "command": "1,2",
+        "damage": "5,10",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/96/Paul_Left_Right.gif/revision/latest/scale-to-width-down/350?cb=20201127133317&path-prefix=en"
+    },
+    {
+        "name": "Left Right to Left Flamingo",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_to_Left_Flamingo",
+        "command": "1,2,3",
+        "damage": "5,10",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/56/Left_Right_to_Left_Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20221022230552&path-prefix=en"
+    },
+    {
+        "name": "Left Right to Right Flamingo",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_to_Right_Flamingo",
+        "command": "1,2,4",
+        "damage": "5,10",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4d/Left_Right_to_Right_Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20221114102826&path-prefix=en"
+    },
+    {
+        "name": "Rejector",
+        "detail": "https://tekken.fandom.com/wiki/Rejector",
+        "command": "1,2,f+3",
+        "damage": "5,10,16",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/77/Rejector.gif/revision/latest/scale-to-width-down/350?cb=20220117164635&path-prefix=en"
+    },
+    {
+        "name": "Rejection",
+        "detail": "https://tekken.fandom.com/wiki/Rejection_(Hwoarang)",
+        "command": "1,2,f+4",
+        "damage": "5,10,25",
+        "ranges": "hhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/11/Tekken_Tag_Tournament_2_-_Hwoarang_Video_Movelist.gif/revision/latest/scale-to-width-down/350?cb=20210126155215&path-prefix=en"
+    },
+    {
+        "name": "Right Jab to Left Flamingo",
+        "detail": "https://tekken.fandom.com/wiki/Right_Jab_to_Left_Flamingo",
+        "command": "2,3",
+        "damage": "12",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3b/Right_Jab_to_Left_Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20221028110903&path-prefix=en"
+    },
+    {
+        "name": "Right Jab to Right Flamingo",
+        "detail": "https://tekken.fandom.com/wiki/Right_Jab_to_Right_Flamingo",
+        "command": "2,4",
+        "damage": "12",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/aa/Right_Jab_to_Right_Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20221028110928&path-prefix=en"
+    },
+    {
+        "name": "Right Jab Side Kick",
+        "detail": "https://tekken.fandom.com/wiki/Right_Jab_Side_Kick",
+        "command": "2,f+3",
+        "damage": "12,16",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/ca/Right_Jab_Side_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220610170837&path-prefix=en"
+    },
+    {
+        "name": "Right Jab to Spinning Back Kick",
+        "detail": "https://tekken.fandom.com/wiki/Right_Jab_to_Spinning_Back_Kick",
+        "command": "2,f+4",
+        "damage": "12,25",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/91/Right_Jab_to_Spinning_Back_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220610171436&path-prefix=en"
+    },
+    {
+        "name": "Machine Gun Kicks to Left Flamingo",
+        "detail": "https://tekken.fandom.com/wiki/Machine_Gun_Kicks_to_Left_Flamingo",
+        "command": "3,3,3,F",
+        "damage": "15,12",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3b/Machine_Gun_Kicks_to_Left_Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20221115210932&path-prefix=en"
+    },
+    {
+        "name": "Machine Gun Kicks",
+        "detail": "https://tekken.fandom.com/wiki/Machinegun_Kicks_(Hwoarang)",
+        "command": "3,3,3,3",
+        "damage": "15,12,10,25",
+        "ranges": "hmmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a6/Machine_Gun_Kicks_Hwoarang.gif/revision/latest/scale-to-width-down/350?cb=20220507183556&path-prefix=en"
+    },
+    {
+        "name": "Left Kick Combo to Right Hook Kick",
+        "detail": "https://tekken.fandom.com/wiki/Left_Kick_Combo_to_Right_Hook_Kick",
+        "command": "3,3,3,4",
+        "damage": "15,12,20,15",
+        "ranges": "hmmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ac/Left_Kick_Combo_to_Right_Hook_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220926223638&path-prefix=en"
+    },
+    {
+        "name": "Left Kicks to Right Hook Kick",
+        "detail": "https://tekken.fandom.com/wiki/Left_Kicks_to_Right_Hook_Kick",
+        "command": "3,3,4",
+        "damage": "15,12,20",
+        "ranges": "hmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/67/Left_Kicks_to_Right_Hook_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220505213131&path-prefix=en"
+    },
+    {
+        "name": "Left Kicks to Right Middle Kick",
+        "detail": "https://tekken.fandom.com/wiki/Left_Kicks_to_Right_Middle_Kick",
+        "command": "3,3,4,4",
+        "damage": "15,12,10,20",
+        "ranges": "hmhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f7/Left_Kicks_to_Right_Middle_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220926223824&path-prefix=en"
+    },
+    {
+        "name": "Total Outrage",
+        "detail": "https://tekken.fandom.com/wiki/Total_Outrage",
+        "command": "3,3,3,4,4",
+        "damage": "15,12,10,20,15",
+        "ranges": "hmmhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c2/Total_Outrage.gif/revision/latest/scale-to-width-down/350?cb=20220416214838&path-prefix=en"
+    },
+    {
+        "name": "Left Kick Combo Low",
+        "detail": "https://tekken.fandom.com/wiki/Left_Kick_Combo_Low",
+        "command": "3,3,d+3",
+        "damage": "15,12,7",
+        "ranges": "hml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6f/Left_Kick_Combo_Low.gif/revision/latest/scale-to-width-down/350?cb=20220926222919&path-prefix=en"
+    },
+    {
+        "name": "Left Kick Combo Low to Right Hook Kick",
+        "detail": "https://tekken.fandom.com/wiki/Left_Kick_Combo_Low_to_Right_Hook_Kick",
+        "command": "3,3,d+3,4",
+        "damage": "15,12,7,10",
+        "ranges": "hmlh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/92/Left_Kick_Combo_Low_to_Right_Hook_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220926223354&path-prefix=en"
+    },
+    {
+        "name": "Menace to Society",
+        "detail": "https://tekken.fandom.com/wiki/Menace_to_Society",
+        "command": "3,3,d+3,4,4",
+        "damage": "15,12,7,10,15",
+        "ranges": "hmlhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f6/Menace_to_Society.gif/revision/latest/scale-to-width-down/350?cb=20220416215227&path-prefix=en"
+    },
+    {
+        "name": "Flying Eagle",
+        "detail": "https://tekken.fandom.com/wiki/Flying_Eagle",
+        "command": "[3~4]",
+        "damage": "15,25",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2e/Flying_Eagle.gif/revision/latest/scale-to-width-down/350?cb=20220201141908&path-prefix=en"
+    },
+    {
+        "name": "Axe Murderer",
+        "detail": "https://tekken.fandom.com/wiki/Axe_Murderer",
+        "command": "4,3",
+        "damage": "14,20",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/dd/Axe_Murderer.gif/revision/latest/scale-to-width-down/350?cb=20220605223644&path-prefix=en"
+    },
+    {
+        "name": "Right Kicks",
+        "detail": "https://tekken.fandom.com/wiki/Right_Kicks",
+        "command": "4,4",
+        "damage": "14,10",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/47/Right_Kicks_to_Left_Stance.gif/revision/latest/scale-to-width-down/350?cb=20220630154027&path-prefix=en"
+    },
+    {
+        "name": "Rude Boy",
+        "detail": "https://tekken.fandom.com/wiki/Rude_Boy",
+        "command": "4,f+3",
+        "damage": "14,17",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/86/Rude_Boy.gif/revision/latest/scale-to-width-down/350?cb=20220504172349&path-prefix=en"
+    },
+    {
+        "name": "Hard Rocker",
+        "detail": "https://tekken.fandom.com/wiki/Hard_Rocker",
+        "command": "4,f+4",
+        "damage": "14,10",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/98/Hard_Rocker.gif/revision/latest/scale-to-width-down/350?cb=20220504150414&path-prefix=en"
+    },
+    {
+        "name": "Right Kick Combo to Right Flamingo",
+        "detail": "https://tekken.fandom.com/wiki/Right_Kick_Combo_to_Right_Flamingo",
+        "command": "4,4,4",
+        "damage": "14,10,10,",
+        "ranges": "hhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/af/Righ_Kick_Combo_to_Right_Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20220630170341&path-prefix=en"
+    },
+    {
+        "name": "Da Bomb",
+        "detail": "https://tekken.fandom.com/wiki/Da_Bomb",
+        "command": "4,4,f+4",
+        "damage": "14,10,25",
+        "ranges": "hhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f5/Da_Bomb.gif/revision/latest/scale-to-width-down/350?cb=20220416215710&path-prefix=en"
+    },
+    {
+        "name": "Right Kick Combo to Left Stance",
+        "detail": "https://tekken.fandom.com/wiki/Right_Kick_Combo_to_Left_Stance",
+        "command": "4,4,b+4",
+        "damage": "14,10",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/43/Righ_Kick_Combo_to_Left_Stance.gif/revision/latest/scale-to-width-down/350?cb=20220630170048&path-prefix=en"
+    },
+    {
+        "name": "Blizzard Kicks",
+        "detail": "https://tekken.fandom.com/wiki/Blizzard_Kicks",
+        "command": "4,4,4,3",
+        "damage": "14,10,10,10",
+        "ranges": "hhhl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/62/Blizzard_Kicks.gif/revision/latest/scale-to-width-down/350?cb=20210127131436&path-prefix=en"
+    },
+    {
+        "name": "Hot Feet",
+        "detail": "https://tekken.fandom.com/wiki/Hot_Feet",
+        "command": "4,4,4,4",
+        "damage": "14,10,10,20",
+        "ranges": "hhhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/68/Hot_Feet.gif/revision/latest/scale-to-width-down/350?cb=20220521160144&path-prefix=en"
+    },
+    {
+        "name": "Disrespect",
+        "detail": "https://tekken.fandom.com/wiki/Disrespect",
+        "command": "1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/cd/Disrespect.gif/revision/latest/scale-to-width-down/350?cb=20220506202456&path-prefix=en"
+    },
+    {
+        "name": "Motion Switch",
+        "detail": "https://tekken.fandom.com/wiki/Motion_Switch",
+        "command": "3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/18/Motion_Switch.gif/revision/latest/scale-to-width-down/350?cb=20220606152026&path-prefix=en"
+    },
+    {
+        "name": "Ki Charge",
+        "detail": "https://tekken.fandom.com/wiki/Supercharger",
+        "command": "1+2+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4f/E24Ks_Tekken_Tag_Tournament_-_Ganryu_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20201128143016&path-prefix=en"
+    },
+    {
+        "name": "Rusty Knife",
+        "detail": "https://tekken.fandom.com/wiki/Rusty_Knife",
+        "command": "f+2",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/61/Rusty_Knife.gif/revision/latest/scale-to-width-down/350?cb=20220416220206&path-prefix=en"
+    },
+    {
+        "name": "Middle Back Blow to Left Stance",
+        "detail": "https://tekken.fandom.com/wiki/Middle_Back_Blow_to_Left_Stance",
+        "command": "F+2",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d4/Middle_Back_Blow_to_Left_Stance.gif/revision/latest/scale-to-width-down/350?cb=20220610163420&path-prefix=en"
+    },
+    {
+        "name": "Left Flamingo Feint",
+        "detail": "https://tekken.fandom.com/wiki/Left_Flamingo_Feint",
+        "command": "f+3",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/ee/Left_Flamingo_Feint.gif/revision/latest/scale-to-width-down/350?cb=20220607161130&path-prefix=en"
+    },
+    {
+        "name": "Cheap Shot Snap Kick",
+        "detail": "https://tekken.fandom.com/wiki/Cheap_Shot_Snap_Kick",
+        "command": "f+[3~3]",
+        "damage": "28",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c3/D00fba602060.gif/revision/latest/scale-to-width-down/350?cb=20210711212935&path-prefix=en"
+    },
+    {
+        "name": "Right Flamingo Feint",
+        "detail": "https://tekken.fandom.com/wiki/Right_Flamingo_Feint",
+        "command": "f,N,4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/79/Right_Flamingo_Feint.gif/revision/latest/scale-to-width-down/350?cb=20220607161631&path-prefix=en"
+    },
+    {
+        "name": "Doggie Lift",
+        "detail": "https://tekken.fandom.com/wiki/Doggie_Lift",
+        "command": "f+4",
+        "damage": "21",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/02/Doggie_Lift.gif/revision/latest/scale-to-width-down/350?cb=20220505130220&path-prefix=en"
+    },
+    {
+        "name": "Right Hook Kick to Left Stance",
+        "detail": "https://tekken.fandom.com/wiki/Right_Hook_Kick_to_Left_Stance",
+        "command": "f+4,b",
+        "damage": "21",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/43/Right_Hook_Kick_to_Left_Stance.gif/revision/latest/scale-to-width-down/350?cb=20221022231212&path-prefix=en"
+    },
+    {
+        "name": "Grand Theft",
+        "detail": "https://tekken.fandom.com/wiki/Grand_Theft_(Left_Stance)",
+        "command": "f+4,4",
+        "damage": "21,15",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/24/Grand_Theft.gif/revision/latest/scale-to-width-down/350?cb=20220506194221&path-prefix=en"
+    },
+    {
+        "name": "Push Hands",
+        "detail": "https://tekken.fandom.com/wiki/Push_Hands_(Hwoarang)",
+        "command": "f+1+2",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c5/Push_Hands.gif/revision/latest/scale-to-width-down/350?cb=20220416220633&path-prefix=en"
+    },
+    {
+        "name": "Blasting Kick Combo",
+        "detail": "https://tekken.fandom.com/wiki/Blasting_Kick_Combo",
+        "command": "d/f+3,3",
+        "damage": "17,15",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d6/Blasting_Kick_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220415123956&path-prefix=en"
+    },
+    {
+        "name": "Public Enemy",
+        "detail": "https://tekken.fandom.com/wiki/Public_Enemy",
+        "command": "d/f+3,4",
+        "damage": "17,21",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/37/Public_Enemy.gif/revision/latest/scale-to-width-down/350?cb=20220416221015&path-prefix=en"
+    },
+    {
+        "name": "Body Blow",
+        "detail": "https://tekken.fandom.com/wiki/Body_Blow_(Hwoarang)",
+        "command": "d/f+1+2",
+        "damage": "10",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/26/Body_Blow_Hwoarang.gif/revision/latest/scale-to-width-down/350?cb=20220507185533&path-prefix=en"
+    },
+    {
+        "name": "Overhead Kick",
+        "detail": "https://tekken.fandom.com/wiki/Overhead_Kick",
+        "command": "d/f+3+4",
+        "damage": "10",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8d/Tekken_5_-_Hwoarang_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20210109135016&path-prefix=en"
+    },
+    {
+        "name": "Smash Low Right",
+        "detail": "https://tekken.fandom.com/wiki/Smash_Low_Right",
+        "command": "d+3,4",
+        "damage": "12,10",
+        "ranges": "lh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8d/Smash_Low_Right.gif/revision/latest/scale-to-width-down/350?cb=20220521161438&path-prefix=en"
+    },
+    {
+        "name": "Low Kick",
+        "detail": "https://tekken.fandom.com/wiki/Low_Kick_(Hwoarang)",
+        "command": "d+3+4",
+        "damage": "7",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/05/Low_Kick_Hwoarang.gif/revision/latest/scale-to-width-down/350?cb=20221011221030&path-prefix=en"
+    },
+    {
+        "name": "Sweep Kick",
+        "detail": "https://tekken.fandom.com/wiki/Sweep_Kick_(Hwoarang)",
+        "command": "d/b+3",
+        "damage": "12",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c4/Sweep_Kick_Hwoarang.gif/revision/latest/scale-to-width-down/350?cb=20220919112021&path-prefix=en"
+    },
+    {
+        "name": "Ankle Biter",
+        "detail": "https://tekken.fandom.com/wiki/Ankle_Biter",
+        "command": "d/b+4",
+        "damage": "12",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/67/1ce316a91993.gif/revision/latest/scale-to-width-down/350?cb=20210711211922&path-prefix=en"
+    },
+    {
+        "name": "Ankle Biter to Right Flamingo",
+        "detail": "https://tekken.fandom.com/wiki/Ankle_Biter_to_Right_Flamingo",
+        "command": "d/b+4,f",
+        "damage": "12",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d3/Ankle_Biter_to_Right_Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20220825225051&path-prefix=en"
+    },
+    {
+        "name": "Ankle Biter to Crescent Kick",
+        "detail": "https://tekken.fandom.com/wiki/Ankle_Biter_to_Crescent_Kick",
+        "command": "d/b+4,4",
+        "damage": "12,21",
+        "ranges": "lh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/eb/Ankle_Biter_to_Crescent_Kick.gif/revision/latest/scale-to-width-down/350?cb=20211120122611&path-prefix=en"
+    },
+    {
+        "name": "Dynamite Heel",
+        "detail": "https://tekken.fandom.com/wiki/Dynamite_Heel",
+        "command": "d/b+3+4 (b, b to cancel)",
+        "damage": "40",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3e/Dynamite_Heel_TK2.gif/revision/latest/scale-to-width-down/350?cb=20211019145205&path-prefix=en"
+    },
+    {
+        "name": "Bolt Cut",
+        "detail": "https://tekken.fandom.com/wiki/Bolt_Cut",
+        "command": "b+2",
+        "damage": "18",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/db/Bolt_Cut.gif/revision/latest/scale-to-width-down/350?cb=20220417125337&path-prefix=en"
+    },
+    {
+        "name": "Left Plasma Blade",
+        "detail": "https://tekken.fandom.com/wiki/Left_Plasma_Blade",
+        "command": "b+3",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2d/C64269e63ff2.gif/revision/latest/scale-to-width-down/350?cb=20201122111624&path-prefix=en"
+    },
+    {
+        "name": "Nose Bleeder",
+        "detail": "https://tekken.fandom.com/wiki/Nose_Bleeder",
+        "command": "b+4",
+        "damage": "27",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8d/Nose_Bleeder.gif/revision/latest/scale-to-width-down/350?cb=20220417123622&path-prefix=en"
+    },
+    {
+        "name": "Fade-Away Kick",
+        "detail": "https://tekken.fandom.com/wiki/Fade-Away_Kick",
+        "command": "u/b+4",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/94/Fade-Away_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220505130847&path-prefix=en"
+    },
+    {
+        "name": "Jump Kick",
+        "detail": "https://tekken.fandom.com/wiki/Jump_Kick",
+        "command": "u (or u/b)+3",
+        "damage": "25",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5d/Cf63d6900fc6.gif/revision/latest/scale-to-width-down/350?cb=20210127213937&path-prefix=en"
+    },
+    {
+        "name": "Scorpion Side Kick to Right Flamingo",
+        "detail": "https://tekken.fandom.com/wiki/Scorpion_Side_Kick_to_Right_Flamingo",
+        "command": "u+4",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/ba/Scorpion_Side_Kick_to_Right_Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20220919112340&path-prefix=en"
+    },
+    {
+        "name": "Bloody Guillotine",
+        "detail": "https://tekken.fandom.com/wiki/Bloody_Guillotine",
+        "command": "u+3+4",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/11/Bloody_Guillotine.gif/revision/latest/scale-to-width-down/350?cb=20220519142247&path-prefix=en"
+    },
+    {
+        "name": "Bone Stinger",
+        "detail": "https://tekken.fandom.com/wiki/Bone_Stinger",
+        "command": "u/f+2",
+        "damage": "22",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d8/Bone_Stinger.gif/revision/latest/scale-to-width-down/350?cb=20220507182655&path-prefix=en"
+    },
+    {
+        "name": "Hunting Hawk",
+        "detail": "https://tekken.fandom.com/wiki/Hunting_Hawk",
+        "command": "u/f+3,4,3",
+        "damage": "15,9,12",
+        "ranges": "mmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/de/Dc12fc75e9f2.gif/revision/latest/scale-to-width-down/350?cb=20201106234329&path-prefix=en"
+    },
+    {
+        "name": "Air Raid",
+        "detail": "https://tekken.fandom.com/wiki/Air_Raid",
+        "command": "u/f+4,4,4",
+        "damage": "12,12,15",
+        "ranges": "hml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1b/Air_Raid.gif/revision/latest/scale-to-width-down/350?cb=20220519143734&path-prefix=en"
+    },
+    {
+        "name": "Air Raid (1st Kick) to Right Flamingo",
+        "detail": "https://tekken.fandom.com/wiki/Air_Raid_(1st_Kick)_to_Right_Flamingo",
+        "command": "u/f+4",
+        "damage": "12",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/12/Air_Raid_%281st_Kick%29_to_Right_Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20221115211056&path-prefix=en"
+    },
+    {
+        "name": "Air Raid (2nd Kick) to Right Flamingo",
+        "detail": "https://tekken.fandom.com/wiki/Air_Raid_(2nd_Kick)_to_Right_Flamingo",
+        "command": "u/f+4,4",
+        "damage": "12,12",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/60/Air_Raid_%282nd_Kick%29_to_Right_Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20221115211247&path-prefix=en"
+    },
+    {
+        "name": "Air Raid (3rd Kick) to Right Flamingo",
+        "detail": "https://tekken.fandom.com/wiki/Air_Raid_(3rd_Kick)_to_Right_Flamingo",
+        "command": "u/f+4,4,4",
+        "damage": "12,12,15",
+        "ranges": "hml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/be/Air_Raid_%283rd_Kick%29_to_Right_Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20221115211256&path-prefix=en"
+    },
+    {
+        "name": "Circular Saw",
+        "detail": "https://tekken.fandom.com/wiki/Circular_Saw",
+        "command": "u/f+3+4",
+        "damage": "37",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/70/Spinning_Back_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220507184344&path-prefix=en"
+    },
+    {
+        "name": "Spinning Axe Kick to Right Stance",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_Axe_Kick_to_Right_Stance",
+        "command": "f,f+3",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/42/Spinning_Axe_Kick_to_Right_Stance.gif/revision/latest/scale-to-width-down/350?cb=20210926111928&path-prefix=en"
+    },
+    {
+        "name": "Torpedo Kick",
+        "detail": "https://tekken.fandom.com/wiki/Torpedo_Kick",
+        "command": "f,f+4",
+        "damage": "30",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/29/Torpedo_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220416221435&path-prefix=en"
+    },
+    {
+        "name": "Double Thrust",
+        "detail": "https://tekken.fandom.com/wiki/Double_Thrust",
+        "command": "b,b+4,3",
+        "damage": "14,28",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f7/Double_Thrust.gif/revision/latest/scale-to-width-down/350?cb=20220610173821&path-prefix=en"
+    },
+    {
+        "name": "Triple Spin Kick",
+        "detail": "https://tekken.fandom.com/wiki/Triple_Spin_Kick_(Hwoarang)",
+        "command": "b,b+4,4,4",
+        "damage": "14,14,14",
+        "ranges": "hhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e1/Triple_Spin_Kick_Hwoarang.gif/revision/latest/scale-to-width-down/350?cb=20220919112749&path-prefix=en"
+    },
+    {
+        "name": "Sky Rocket",
+        "detail": "https://tekken.fandom.com/wiki/Sky_Rocket",
+        "command": "f,N,d,d/f+4",
+        "damage": "23",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0d/Bc56ec6839f5.gif/revision/latest/scale-to-width-down/350?cb=20201122202822&path-prefix=en"
+    },
+    {
+        "name": "Spinning Scythe to Axe Kick",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_Scythe_to_Axe_Kick",
+        "command": "f,N,d,d/f+3+4,3",
+        "damage": "18,18",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f9/Spinning_Scythe_to_Axe_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220507190014&path-prefix=en"
+    },
+    {
+        "name": "Killing Blade",
+        "detail": "https://tekken.fandom.com/wiki/Leaping_Sidekick",
+        "command": "f,f,f+3",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/db/Slash3.gif/revision/latest?cb=20140714022617&path-prefix=en"
+    },
+    {
+        "name": "Iron Heel",
+        "detail": "https://tekken.fandom.com/wiki/Iron_Heel",
+        "command": "WS+3",
+        "damage": "28",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/fb/Iron_Heel.gif/revision/latest/scale-to-width-down/350?cb=20210127141245&path-prefix=en"
+    },
+    {
+        "name": "Eruption to Left Flamingo",
+        "detail": "https://tekken.fandom.com/wiki/Eruption_to_Left_Flamingo",
+        "command": "During side step 3,3",
+        "damage": "15,18",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9f/Eruption_to_Left_Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20220607162921&path-prefix=en"
+    },
+    {
+        "name": "Eruption to Left Stance",
+        "detail": "https://tekken.fandom.com/wiki/Eruption_to_Left_Stance",
+        "command": "During side step 3,3,b",
+        "damage": "15,18",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/fc/Eruption_to_Left_Stance.gif/revision/latest/scale-to-width-down/350?cb=20221022231338&path-prefix=en"
+    },
+    {
+        "name": "Spinning Trip Kick",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_Trip_Kick",
+        "command": "During side step 4",
+        "damage": "15",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b3/Spinning_Trip_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220823230332&path-prefix=en"
+    },
+    {
+        "name": "Plasma Blade",
+        "detail": "https://tekken.fandom.com/wiki/Plasma_Blade",
+        "command": "Left Stance, back to the opponent 4",
+        "damage": "20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7c/Plasma_Blade.gif/revision/latest/scale-to-width-down/350?cb=20220630170702&path-prefix=en"
+    },
+    {
+        "name": "Right Stance",
+        "detail": "https://tekken.fandom.com/wiki/Right_Stance",
+        "command": "Left Stance, back to the opponent 1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/15/Right_Stance.gif/revision/latest/scale-to-width-down/350?cb=20210210144724&path-prefix=en"
+    },
+    {
+        "name": "Disrespect",
+        "detail": "https://tekken.fandom.com/wiki/Disrespect",
+        "command": "1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/cd/Disrespect.gif/revision/latest/scale-to-width-down/350?cb=20220506202456&path-prefix=en"
+    },
+    {
+        "name": "Motion Switch",
+        "detail": "https://tekken.fandom.com/wiki/Motion_Switch",
+        "command": "3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/18/Motion_Switch.gif/revision/latest/scale-to-width-down/350?cb=20220606152026&path-prefix=en"
+    },
+    {
+        "name": "Migraine",
+        "detail": "https://tekken.fandom.com/wiki/Migraine_(Right_Stance)",
+        "command": "1,1",
+        "damage": "10,12",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c6/Migraine_Right_Stance.gif/revision/latest/scale-to-width-down/350?cb=20220630144008&path-prefix=en"
+    },
+    {
+        "name": "Big Fists",
+        "detail": "https://tekken.fandom.com/wiki/Big_Fists",
+        "command": "2,1,1",
+        "damage": "6,10,12",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ac/Big_Fists.gif/revision/latest/scale-to-width-down/350?cb=20211029133309&path-prefix=en"
+    },
+    {
+        "name": "Right PK Combo",
+        "detail": "https://tekken.fandom.com/wiki/Right_PK_Combo",
+        "command": "2,3",
+        "damage": "6,27",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/69/Right_PK_Combo.gif/revision/latest/scale-to-width-down/350?cb=20221022233447&path-prefix=en"
+    },
+    {
+        "name": "Chainsaw Kick Combo",
+        "detail": "https://tekken.fandom.com/wiki/Chainsaw_Kick_Combo",
+        "command": "2,4,3",
+        "damage": "6,15,20",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/44/Chainsaw_Kick_Combo.gif/revision/latest/scale-to-width-down/350?cb=20210702122156&path-prefix=en"
+    },
+    {
+        "name": "Right Reverse Kick Combo",
+        "detail": "https://tekken.fandom.com/wiki/Right_Reverse_Kick_Combo",
+        "command": "2,4,4",
+        "damage": "6,15,27",
+        "ranges": "hhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0c/Right_Reverse_Kick_Combo.gif/revision/latest/scale-to-width-down/350?cb=20221022231840&path-prefix=en"
+    },
+    {
+        "name": "Right Jab Spin Kick",
+        "detail": "https://tekken.fandom.com/wiki/Right_Jab_Spin_Kick",
+        "command": "2,b+4",
+        "damage": "6,27",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d4/Right_Jab_Spin_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221030172915&path-prefix=en"
+    },
+    {
+        "name": "Volcannon to Right Flamingo",
+        "detail": "https://tekken.fandom.com/wiki/Volcannon_to_Right_Flamingo",
+        "command": "3,4",
+        "damage": "18,16",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e1/Volcannon_to_Right_Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20221030171055&path-prefix=en"
+    },
+    {
+        "name": "Volcannon to Right Stance",
+        "detail": "https://tekken.fandom.com/wiki/Volcannon_to_Right_Stance",
+        "command": "3,f+4",
+        "damage": "18,16",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4e/Volcannon_to_Right_Stance.gif/revision/latest/scale-to-width-down/350?cb=20221030171440&path-prefix=en"
+    },
+    {
+        "name": "Backlash",
+        "detail": "https://tekken.fandom.com/wiki/Backlash",
+        "command": "[3~4]",
+        "damage": "54",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a8/4d4d0935416e.gif/revision/latest/scale-to-width-down/350?cb=20210711212149&path-prefix=en"
+    },
+    {
+        "name": "Backlash to Right Flamingo",
+        "detail": "https://tekken.fandom.com/wiki/Backlash_to_Right_Flamingo",
+        "command": "[3~4],f (or b)",
+        "damage": "30",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/56/Backlash_to_Right_Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20221115212032&path-prefix=en"
+    },
+    {
+        "name": "Chainsaw Kick",
+        "detail": "https://tekken.fandom.com/wiki/Chainsaw_Kick",
+        "command": "4,3",
+        "damage": "15,20",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1c/Chainsaw_Kick.gif/revision/latest/scale-to-width-down/350?cb=20210701220728&path-prefix=en"
+    },
+    {
+        "name": "Right Reverse Kick",
+        "detail": "https://tekken.fandom.com/wiki/Right_Reverse_Kick",
+        "command": "4,4",
+        "damage": "15,27",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a5/Right_Reverse_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220630144339&path-prefix=en"
+    },
+    {
+        "name": "Right Flamingo Feint",
+        "detail": "https://tekken.fandom.com/wiki/Right_Flamingo_Feint",
+        "command": "f+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/79/Right_Flamingo_Feint.gif/revision/latest/scale-to-width-down/350?cb=20220607161631&path-prefix=en"
+    },
+    {
+        "name": "Grand Theft",
+        "detail": "https://tekken.fandom.com/wiki/Grand_Theft_(Right_Stance)",
+        "command": "f+[4~4]",
+        "damage": "20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/39/Grand_Theft_%28Right%29.gif/revision/latest/scale-to-width-down/350?cb=20220609080544&path-prefix=en"
+    },
+    {
+        "name": "Cheap Shot",
+        "detail": "https://tekken.fandom.com/wiki/Cheap_Shot",
+        "command": "f+3",
+        "damage": "21",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/96/Cheap_Shot.gif/revision/latest/scale-to-width-down/350?cb=20221022233906&path-prefix=en"
+    },
+    {
+        "name": "Cheap Shot to Disrespect",
+        "detail": "https://tekken.fandom.com/wiki/Cheap_Shot_to_Disrespect",
+        "command": "f+3,b",
+        "damage": "21",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5a/Cheap_Shot_to_Disrespect.gif/revision/latest/scale-to-width-down/350?cb=20221022234335&path-prefix=en"
+    },
+    {
+        "name": "Cheap Shot Low Spin",
+        "detail": "https://tekken.fandom.com/wiki/Cheap_Shot_Low_Spin",
+        "command": "f+3,4",
+        "damage": "21,20",
+        "ranges": "hl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f7/Cheap_Shot_Low_Spin.gif/revision/latest/scale-to-width-down/350?cb=20221022234119&path-prefix=en"
+    },
+    {
+        "name": "Right Sidekick",
+        "detail": "https://tekken.fandom.com/wiki/Right_Sidekick",
+        "command": "d/f+4",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0d/Right_Sidekick.gif/revision/latest/scale-to-width-down/350?cb=20220825225924&path-prefix=en"
+    },
+    {
+        "name": "Teaser",
+        "detail": "https://tekken.fandom.com/wiki/Teaser",
+        "command": "d/b+3,3",
+        "damage": "15,40",
+        "ranges": "lh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/69/Teaser.gif/revision/latest/scale-to-width-down/350?cb=20210125005148&path-prefix=en"
+    },
+    {
+        "name": "Nose Bleeder",
+        "detail": "https://tekken.fandom.com/wiki/Nose_Bleeder",
+        "command": "b+3",
+        "damage": "27",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8d/Nose_Bleeder.gif/revision/latest/scale-to-width-down/350?cb=20220417123622&path-prefix=en"
+    },
+    {
+        "name": "Misdemeanor",
+        "detail": "https://tekken.fandom.com/wiki/Misdemeanor",
+        "command": "b+4",
+        "damage": "27",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6b/Misdeamor.gif/revision/latest/scale-to-width-down/350?cb=20221022234854&path-prefix=en"
+    },
+    {
+        "name": "Hunting Heel",
+        "detail": "https://tekken.fandom.com/wiki/Hunting_Heel",
+        "command": "f,f+3",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/83/Hunting_Heel.gif/revision/latest/scale-to-width-down/350?cb=20221003210618&path-prefix=en"
+    },
+    {
+        "name": "Screw Kick",
+        "detail": "https://tekken.fandom.com/wiki/Screw_Kick_(ff%2B4)",
+        "command": "f,f+4,3",
+        "damage": "18,20",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b0/Screw_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220417124003&path-prefix=en"
+    },
+    {
+        "name": "Left Plasma Blade",
+        "detail": "https://tekken.fandom.com/wiki/Left_Plasma_Blade",
+        "command": "Right Stance, back to the opponent 3",
+        "damage": "20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2d/C64269e63ff2.gif/revision/latest/scale-to-width-down/350?cb=20201122111624&path-prefix=en"
+    },
+    {
+        "name": "Spinning Scythe to Axe Heel",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_Scythe_to_Axe_Heel",
+        "command": "Right Stance, back to the opponent 4,3",
+        "damage": "18,18",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6d/Spinning_Scythe_to_Axe_Heel.gif/revision/latest/scale-to-width-down/350?cb=20221026103845&path-prefix=en"
+    },
+    {
+        "name": "Left Stance",
+        "detail": "https://tekken.fandom.com/wiki/Left_Stance",
+        "command": "Right Stance, back to the opponent 1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e9/Hwo_Left_Stance.gif/revision/latest/scale-to-width-down/350?cb=20210709040957&path-prefix=en"
+    },
+    {
+        "name": "Flamingo Switch",
+        "detail": "https://tekken.fandom.com/wiki/Flamingo_Switch",
+        "command": "During Left Flamingo 3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/64/Flamingo_Switch.gif/revision/latest/scale-to-width-down/350?cb=20221114105404&path-prefix=en"
+    },
+    {
+        "name": "Trick Jab",
+        "detail": "https://tekken.fandom.com/wiki/Trick_Jab",
+        "command": "During Left Flamingo 1",
+        "damage": "7",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2a/Trick_Jab.gif/revision/latest/scale-to-width-down/350?cb=20220926230516&path-prefix=en"
+    },
+    {
+        "name": "Right Backhand",
+        "detail": "https://tekken.fandom.com/wiki/Right_Backhand",
+        "command": "During Left Flamingo 2",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/97/Right_Backhand.gif/revision/latest/scale-to-width-down/350?cb=20221101203928&path-prefix=en"
+    },
+    {
+        "name": "Flamingo Sidekick Combo",
+        "detail": "https://tekken.fandom.com/wiki/Flamingo_Sidekick_Combo",
+        "command": "During Left Flamingo 3,4",
+        "damage": "12,21",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/ff/Flamingo_Sidekick_Combo.gif/revision/latest/scale-to-width-down/350?cb=20221028104935&path-prefix=en"
+    },
+    {
+        "name": "Rocket Launcher",
+        "detail": "https://tekken.fandom.com/wiki/Rocket_Launcher_(Hwoarang)",
+        "command": "During Left Flamingo 3,3,3",
+        "damage": "12,10,25",
+        "ranges": "mmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7b/Rocket_Launcher_Hwoarang.gif/revision/latest/scale-to-width-down/350?cb=20221022235240&path-prefix=en"
+    },
+    {
+        "name": "Rocket Launcher to Left Flamingo",
+        "detail": "https://tekken.fandom.com/wiki/Rocket_Launcher_to_Left_Flamingo",
+        "command": "During Left Flamingo 3,3,F",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c4/Rocket_Launcher_to_Left_Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20221115212315&path-prefix=en"
+    },
+    {
+        "name": "Flamingo Kick Combo to Right Hook Kick",
+        "detail": "https://tekken.fandom.com/wiki/Flamingo_Kick_Combo_to_Right_Hook_Kick",
+        "command": "During Left Flamingo 3,3,4",
+        "damage": "12,10,20",
+        "ranges": "mmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/da/Flamingo_Kick_Combo_to_Right_Hook_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221101203136&path-prefix=en"
+    },
+    {
+        "name": "Cannon Kicks",
+        "detail": "https://tekken.fandom.com/wiki/Cannon_Kicks",
+        "command": "During Left Flamingo 3,3,4,4",
+        "damage": "12,10,20,15",
+        "ranges": "mmhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d0/Cannon_Kicks.gif/revision/latest/scale-to-width-down/350?cb=20221101195700&path-prefix=en"
+    },
+    {
+        "name": "Step Kick",
+        "detail": "https://tekken.fandom.com/wiki/Step_Kick_(Hwoarang)",
+        "command": "During Left Flamingo 4",
+        "damage": "28",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/22/Step_Kick_%28Hwoarang%29.gif/revision/latest/scale-to-width-down/350?cb=20211018133920&path-prefix=en"
+    },
+    {
+        "name": "Power Blast",
+        "detail": "https://tekken.fandom.com/wiki/Power_Blast",
+        "command": "During Left Flamingo 1+4 (b, b to cancel)",
+        "damage": "80",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d8/Power_Blast_TK3.gif/revision/latest/scale-to-width-down/350?cb=20211021140925&path-prefix=en"
+    },
+    {
+        "name": "Left Viper Combo",
+        "detail": "https://tekken.fandom.com/wiki/Left_Viper_Combo",
+        "command": "During Left Flamingo f+3",
+        "damage": "8,10",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7e/Left_Viper_Combo.gif/revision/latest/scale-to-width-down/350?cb=20221022235526&path-prefix=en"
+    },
+    {
+        "name": "Snap Kick",
+        "detail": "https://tekken.fandom.com/wiki/Snap_Kick",
+        "command": "During Left Flamingo d/f+3",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/23/Snap_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220415154804&path-prefix=en"
+    },
+    {
+        "name": "Cutter Left",
+        "detail": "https://tekken.fandom.com/wiki/Cutter_Left_(Left_Flamingo)",
+        "command": "During Left Flamingo d/b+3",
+        "damage": "8",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c1/Cutter_Left_Left_Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20221114224044&path-prefix=en"
+    },
+    {
+        "name": "Flamingo Low to Right Hook Kick",
+        "detail": "https://tekken.fandom.com/wiki/Flamingo_Low_to_Right_Hook_Kick",
+        "command": "During Left Flamingo d/b+3,4",
+        "damage": "8,10",
+        "ranges": "lh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a7/Flamingo_Low_to_Right_Hook_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220405143016&path-prefix=en"
+    },
+    {
+        "name": "Cutter Right",
+        "detail": "https://tekken.fandom.com/wiki/Cutter_Right_(Left_Flamingo)",
+        "command": "During Left Flamingo d/b+4",
+        "damage": "15",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b3/Cutter_Right_Left_Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20221101204317&path-prefix=en"
+    },
+    {
+        "name": "Snap Spin Kick",
+        "detail": "https://tekken.fandom.com/wiki/Snap_Spin_Kick",
+        "command": "During Left Flamingo b+3",
+        "damage": "27",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/14/Snap_Spin_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220926233312&path-prefix=en"
+    },
+    {
+        "name": "Right Heel Lance",
+        "detail": "https://tekken.fandom.com/wiki/Right_Heel_Lance",
+        "command": "During Left Flamingo b+4",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/64/Right_Heel_Lance.gif/revision/latest/scale-to-width-down/350?cb=20221114224724&path-prefix=en"
+    },
+    {
+        "name": "Flamingo Hunting Hawk",
+        "detail": "https://tekken.fandom.com/wiki/Flamingo_Hunting_Hawk",
+        "command": "During Left Flamingo u/f+3,4,3",
+        "damage": "10,7,10",
+        "ranges": "mmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d1/Flamingo_Hunting_Hawk.gif/revision/latest/scale-to-width-down/350?cb=20210405013612&path-prefix=en"
+    },
+    {
+        "name": "Left Flamingo Step-In",
+        "detail": "https://tekken.fandom.com/wiki/Left_Flamingo_Step-In",
+        "command": "During Left Flamingo f",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/ed/Left_Flamingo_Step-In.gif/revision/latest/scale-to-width-down/350?cb=20220630115847&path-prefix=en"
+    },
+    {
+        "name": "Left Flamingo Back Dash",
+        "detail": "https://tekken.fandom.com/wiki/Left_Flamingo_Back_Dash",
+        "command": "During Left Flamingo b",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d2/Left_Flamingo_Back_Dash.gif/revision/latest/scale-to-width-down/350?cb=20220926231855&path-prefix=en"
+    },
+    {
+        "name": "Left Flamingo Sidestep",
+        "detail": "https://tekken.fandom.com/wiki/Left_Flamingo_Sidestep",
+        "command": "During Left Flamingo  u (or d)",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/22/Left_Flamingo_Sidestep.gif/revision/latest/scale-to-width-down/350?cb=20220926231904&path-prefix=en"
+    },
+    {
+        "name": "Flamingo Switch",
+        "detail": "https://tekken.fandom.com/wiki/Flamingo_Switch",
+        "command": "During Right Flamingo 3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/64/Flamingo_Switch.gif/revision/latest/scale-to-width-down/350?cb=20221114105404&path-prefix=en"
+    },
+    {
+        "name": "Left Punch",
+        "detail": "https://tekken.fandom.com/wiki/Left_Punch",
+        "command": "During Right Flamingo 1",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/ca/Left_Punch.gif/revision/latest/scale-to-width-down/350?cb=20221114231045&path-prefix=en"
+    },
+    {
+        "name": "Right Punch",
+        "detail": "https://tekken.fandom.com/wiki/Right_Punch",
+        "command": "During Right Flamingo 2",
+        "damage": "7",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/00/Right_Punch.gif/revision/latest/scale-to-width-down/350?cb=20221114225238&path-prefix=en"
+    },
+    {
+        "name": "Big Fists",
+        "detail": "https://tekken.fandom.com/wiki/Big_Fists",
+        "command": "During Right Flamingo 2,1,1",
+        "damage": "7,10,12",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ac/Big_Fists.gif/revision/latest/scale-to-width-down/350?cb=20211029133309&path-prefix=en"
+    },
+    {
+        "name": "Right PK Combo",
+        "detail": "https://tekken.fandom.com/wiki/Right_PK_Combo",
+        "command": "During Right Flamingo 2,3",
+        "damage": "7,27",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/69/Right_PK_Combo.gif/revision/latest/scale-to-width-down/350?cb=20221022233447&path-prefix=en"
+    },
+    {
+        "name": "Chainsaw Kick Combo",
+        "detail": "https://tekken.fandom.com/wiki/Chainsaw_Kick_Combo",
+        "command": "During Right Flamingo 2,4,3",
+        "damage": "7,15,20",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/44/Chainsaw_Kick_Combo.gif/revision/latest/scale-to-width-down/350?cb=20210702122156&path-prefix=en"
+    },
+    {
+        "name": "Right Reverse Kick Combo",
+        "detail": "https://tekken.fandom.com/wiki/Right_Reverse_Kick_Combo",
+        "command": "During Right Flamingo 2,4,4",
+        "damage": "7,15,27",
+        "ranges": "hhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0c/Right_Reverse_Kick_Combo.gif/revision/latest/scale-to-width-down/350?cb=20221022231840&path-prefix=en"
+    },
+    {
+        "name": "Right Jab Spin Kick",
+        "detail": "https://tekken.fandom.com/wiki/Right_Jab_Spin_Kick",
+        "command": "During Right Flamingo 2,b+4",
+        "damage": "7,27",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d4/Right_Jab_Spin_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221030172915&path-prefix=en"
+    },
+    {
+        "name": "Step Kick",
+        "detail": "https://tekken.fandom.com/wiki/Step_Kick_(Hwoarang)",
+        "command": "During Right Flamingo 3",
+        "damage": "25",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/22/Step_Kick_%28Hwoarang%29.gif/revision/latest/scale-to-width-down/350?cb=20211018133920&path-prefix=en"
+    },
+    {
+        "name": "Right Kick",
+        "detail": "https://tekken.fandom.com/wiki/Right_Kick",
+        "command": "During Right Flamingo 4",
+        "damage": "20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e7/Right_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221101204933&path-prefix=en"
+    },
+    {
+        "name": "Right Viper Combo",
+        "detail": "https://tekken.fandom.com/wiki/Right_Viper_Combo",
+        "command": "During Right Flamingo f+4",
+        "damage": "8,10",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/fc/Right_Viper_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220630171126&path-prefix=en"
+    },
+    {
+        "name": "Snap Kick",
+        "detail": "https://tekken.fandom.com/wiki/Snap_Kick",
+        "command": "During Right Flamingo d/f+4",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/23/Snap_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220415154804&path-prefix=en"
+    },
+    {
+        "name": "Cutter Left",
+        "detail": "https://tekken.fandom.com/wiki/Cutter_Left_(Right_Flamingo)",
+        "command": "During Right Flamingo d/b+3",
+        "damage": "15",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c5/Cutter_Left_Right_Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20221028111722&path-prefix=en"
+    },
+    {
+        "name": "Cutter Right",
+        "detail": "https://tekken.fandom.com/wiki/Cutter_Right_(Right_Flamingo)",
+        "command": "During Right Flamingo d/b+4",
+        "damage": "13",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/75/Cutter_Right_Right_Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20221028111956&path-prefix=en"
+    },
+    {
+        "name": "Left Heel Lance",
+        "detail": "https://tekken.fandom.com/wiki/Left_Heel_Lance",
+        "command": "During Right Flamingo b+3",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6c/Left_Heel_Lance.gif/revision/latest/scale-to-width-down/350?cb=20221114231236&path-prefix=en"
+    },
+    {
+        "name": "Snap Spin Kick",
+        "detail": "https://tekken.fandom.com/wiki/Snap_Spin_Kick_(Right_Flamingo)",
+        "command": "During Right Flamingo b+4",
+        "damage": "27",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/11/Snap_Spin_Kick_Right_Flamingo.gif/revision/latest/scale-to-width-down/350?cb=20221101205136&path-prefix=en"
+    },
+    {
+        "name": "Right Flamingo Step-in",
+        "detail": "https://tekken.fandom.com/wiki/Right_Flamingo_Step-In",
+        "command": "During Right Flamingo f",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9f/Right_Flamingo_Step-in.gif/revision/latest/scale-to-width-down/350?cb=20221030173733&path-prefix=en"
+    },
+    {
+        "name": "Right Flamingo Back Dash",
+        "detail": "https://tekken.fandom.com/wiki/Right_Flamingo_Back_Dash",
+        "command": "During Right Flamingo b",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2a/Right_Flamingo_Back_Dash.gif/revision/latest/scale-to-width-down/350?cb=20221030173837&path-prefix=en"
+    },
+    {
+        "name": "Right Flamingo Sidestep",
+        "detail": "https://tekken.fandom.com/wiki/Right_Flamingo_Sidestep",
+        "command": "During Right Flamingo u (or d)",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f7/Right_Flamingo_Sidestep.gif/revision/latest/scale-to-width-down/350?cb=20221030173951&path-prefix=en"
+    },
+    {
+        "name": "During Left Flamingo 2, 2, 3, 4, 3, 4, 4, 4, 4, 3",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_1_(Hwoarang)",
+        "command": "During Left Flamingo 2, 2, 3, 4, 3, 4, 4, 4, 4, 3",
+        "damage": "106",
+        "ranges": "mhhlmmlhmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/55/6f8e9df8e7.gif/revision/latest/scale-to-width-down/350?cb=20221109103402&path-prefix=en"
+    },
+    {
+        "name": "During Left Flamingo 2, 2, 3, 4, 4",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_2_(Hwoarang)",
+        "command": "During Left Flamingo 2, 2, 3, 4, 4",
+        "damage": "49",
+        "ranges": "mhhlh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/73/10_Hit_Combo_2_Hwoarang.gif/revision/latest/scale-to-width-down/350?cb=20210926113514&path-prefix=en"
+    },
+    {
+        "name": "During Right Flamingo 1, 2, 3, 4, 3, 4, 4, 4, 4, 3",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_3_(Hwoarang)",
+        "command": "During Right Flamingo 1, 2, 3, 4, 3, 4, 4, 4, 4, 3",
+        "damage": "106",
+        "ranges": "mhhlmmlhmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/75/10_Hit_Combo_3_Hwoarang.gif/revision/latest/scale-to-width-down/350?cb=20210904190211&path-prefix=en"
+    },
+    {
+        "name": "During Right Flamingo 1, 2, 3, 4, 4",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_4_(Hwoarang)",
+        "command": "During Right Flamingo 1, 2, 3, 4, 4",
+        "damage": "49",
+        "ranges": "mhhlh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0b/10_Hit_Combo_4_Hwoarang.gif/revision/latest/scale-to-width-down/350?cb=20211118134949&path-prefix=en"
+    }
+]

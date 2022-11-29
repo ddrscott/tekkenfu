@@ -1,0 +1,466 @@
+[
+    {
+        "name": "Left Right Combo",
+        "detail": "https://tekken.fandom.com/wiki/Palm_Attack",
+        "command": "1,2",
+        "damage": "6,10",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4c/E9eb07ee56e4.gif/revision/latest/scale-to-width-down/350?cb=20201213164514&path-prefix=en"
+    },
+    {
+        "name": "One Two Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Palm_Attack_to_Uppercut",
+        "command": "1,2,1",
+        "damage": "6,10,10",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b8/Tekken_2_-_Alex_Roger_Video_Move_List_%28Quick_Showcase%29.gif/revision/latest/scale-to-width-down/350?cb=20201016132014&path-prefix=en"
+    },
+    {
+        "name": "One Two Kangaroo Combo",
+        "detail": "https://tekken.fandom.com/wiki/One_Two_Kangaroo_Combo",
+        "command": "1,2,3",
+        "damage": "6,10,20",
+        "ranges": "hhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/95/One_Two_Kangaroo_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220624225856&path-prefix=en"
+    },
+    {
+        "name": "Jab Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Jab_Uppercut",
+        "command": "2,1",
+        "damage": "12,12",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/93/Jab_Uppercut.gif/revision/latest/scale-to-width-down/350?cb=20201128142314&path-prefix=en"
+    },
+    {
+        "name": "Spinning Tail Whip",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_Tail_Whip",
+        "command": "[3~4]",
+        "damage": "8,12",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/18/Spinning_Tail_Whip.gif/revision/latest/scale-to-width-down/350?cb=20220803141145&path-prefix=en"
+    },
+    {
+        "name": "Double Spin Castanet Kick",
+        "detail": "https://tekken.fandom.com/wiki/Double_Spin_Castanet_Kick",
+        "command": "1+2,3+4",
+        "damage": "8,13,21",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b3/Double_Spin_Castanet_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221017092615&path-prefix=en"
+    },
+    {
+        "name": "Double Spin Animal Sweep",
+        "detail": "https://tekken.fandom.com/wiki/Double_Spin_Animal_Sweep",
+        "command": "1+2,u+3+4",
+        "damage": "8,13,17",
+        "ranges": "hhl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4c/Double_Spin_Animal_Sweep.gif/revision/latest/scale-to-width-down/350?cb=20221017092604&path-prefix=en"
+    },
+    {
+        "name": "Castanet Kick",
+        "detail": "https://tekken.fandom.com/wiki/Castanet_Kick",
+        "command": "3+4",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2c/Castanet_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221005183118&path-prefix=en"
+    },
+    {
+        "name": "Ki Charge",
+        "detail": "https://tekken.fandom.com/wiki/Supercharger",
+        "command": "1+2+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4f/E24Ks_Tekken_Tag_Tournament_-_Ganryu_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20201128143016&path-prefix=en"
+    },
+    {
+        "name": "Animal Rush to Windmill Punch",
+        "detail": "https://tekken.fandom.com/wiki/Animal_Rush_to_Windmill_Punch",
+        "command": "f+1,2,1,2,1",
+        "damage": "7,10,5,10,21",
+        "ranges": "hhhhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3e/F936e2b837df.gif/revision/latest/scale-to-width-down/350?cb=20210615221049&path-prefix=en"
+    },
+    {
+        "name": "Windmill Punch",
+        "detail": "https://tekken.fandom.com/wiki/Windmill_Punch_(Roger)",
+        "command": "f,N,1",
+        "damage": "30",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1b/B5836dcaf51b.gif/revision/latest/scale-to-width-down/350?cb=20201215084006&path-prefix=en"
+    },
+    {
+        "name": "Outback Stomp",
+        "detail": "https://tekken.fandom.com/wiki/Outback_Stomp",
+        "command": "f+3",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c4/Outback_Stomp.gif/revision/latest/scale-to-width-down/350?cb=20220117202534&path-prefix=en"
+    },
+    {
+        "name": "Ayer's Rock",
+        "detail": "https://tekken.fandom.com/wiki/Ayer%27s_Rock",
+        "command": "f+4,3,2",
+        "damage": "10,22,16",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/47/Ayer%27s_Rock.gif/revision/latest/scale-to-width-down/350?cb=20220405121027&path-prefix=en"
+    },
+    {
+        "name": "Animal Gigaton Punch",
+        "detail": "https://tekken.fandom.com/wiki/Animal_Gigaton_Punch",
+        "command": "f+1+2",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ac/Animal_Gigaton_Punch.gif/revision/latest/scale-to-width-down/350?cb=20220406163632&path-prefix=en"
+    },
+    {
+        "name": "Exploder",
+        "detail": "https://tekken.fandom.com/wiki/Exploder",
+        "command": "f+3+4",
+        "damage": "25",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f0/F5a07659b06a.gif/revision/latest/scale-to-width-down/350?cb=20201123150850&path-prefix=en"
+    },
+    {
+        "name": "Elbow Slap Combo",
+        "detail": "https://tekken.fandom.com/wiki/Elbow_Slap_Combo",
+        "command": "d/f+1,2",
+        "damage": "15,12",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/ef/Elbow_Slap_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220603214148&path-prefix=en"
+    },
+    {
+        "name": "Animal Slap",
+        "detail": "https://tekken.fandom.com/wiki/Animal_Slap",
+        "command": "d/f+2",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/43/Animal_Slap.gif/revision/latest/scale-to-width-down/350?cb=20221017093253&path-prefix=en"
+    },
+    {
+        "name": "Right Cross Kick",
+        "detail": "https://tekken.fandom.com/wiki/Right_Cross_Kick",
+        "command": "d/f+4",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a2/Right_Cross_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220916220738&path-prefix=en"
+    },
+    {
+        "name": "Animal Headbutt",
+        "detail": "https://tekken.fandom.com/wiki/Animal_Headbutt",
+        "command": "d/f+1+2",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/79/Bear_Headbutt.gif/revision/latest/scale-to-width-down/350?cb=20220406165358&path-prefix=en"
+    },
+    {
+        "name": "Animal Rampage",
+        "detail": "https://tekken.fandom.com/wiki/Animal_Rampage",
+        "command": "d/f+3+4",
+        "damage": "45",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0d/Fe7f988e2a8b.gif/revision/latest/scale-to-width-down/350?cb=20201218113702&path-prefix=en"
+    },
+    {
+        "name": "Jab Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Jab_Uppercut",
+        "command": "d+1,N,2",
+        "damage": "5,13",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/93/Jab_Uppercut.gif/revision/latest/scale-to-width-down/350?cb=20201128142314&path-prefix=en"
+    },
+    {
+        "name": "Diving Low Punch",
+        "detail": "https://tekken.fandom.com/wiki/Diving_Low_Punch",
+        "command": "d+2",
+        "damage": "10",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c9/Diving_Low_Punch.gif/revision/latest/scale-to-width-down/350?cb=20220603102217&path-prefix=en"
+    },
+    {
+        "name": "Stagger Kicks",
+        "detail": "https://tekken.fandom.com/wiki/Stagger_Kick",
+        "command": "d+3+4,4,4",
+        "damage": "14,7,7",
+        "ranges": "lll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/22/Tekken_6_-_King_II_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20201125190410&path-prefix=en"
+    },
+    {
+        "name": "Spinning Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Stagger_Kick_Spinning_Uppercut",
+        "command": "d+3+4,2",
+        "damage": "10,10",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7e/26cda21a354a.gif/revision/latest/scale-to-width-down/350?cb=20210801163729&path-prefix=en"
+    },
+    {
+        "name": "Tail Tripper",
+        "detail": "https://tekken.fandom.com/wiki/Tail_Tripper",
+        "command": "d/b+3",
+        "damage": "17",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7d/1d706715e761.gif/revision/latest/scale-to-width-down/350?cb=20210110225625&path-prefix=en"
+    },
+    {
+        "name": "Animal Kick Rush",
+        "detail": "https://tekken.fandom.com/wiki/Animal_Kick_Rush",
+        "command": "d/b+4,3,4,3,4",
+        "damage": "14,14,14,14,14",
+        "ranges": "mmmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7f/Animal_Kick_Rush.gif/revision/latest/scale-to-width-down/350?cb=20220406150302&path-prefix=en"
+    },
+    {
+        "name": "Kangaroo Attack",
+        "detail": "https://tekken.fandom.com/wiki/Kangaroo_Attack",
+        "command": "d/b+1+2",
+        "damage": "28",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/67/Kangaroo_Attack.gif/revision/latest/scale-to-width-down/350?cb=20220429150121&path-prefix=en"
+    },
+    {
+        "name": "Spinning Snap Kick",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_Snap_Kick",
+        "command": "b+4",
+        "damage": "18",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7d/Spinning_Snap_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220624230358&path-prefix=en"
+    },
+    {
+        "name": "Rocket Stance",
+        "detail": "https://tekken.fandom.com/wiki/Rocket_Stance",
+        "command": "b+1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2f/Rocket_Stance.gif/revision/latest/scale-to-width-down/350?cb=20210519113320&path-prefix=en"
+    },
+    {
+        "name": "Road Runner",
+        "detail": "https://tekken.fandom.com/wiki/Road_Runner",
+        "command": "b+1+2,F",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9f/Road_Runner.gif/revision/latest/scale-to-width-down/350?cb=20210518204201&path-prefix=en"
+    },
+    {
+        "name": "Wind-up Straight",
+        "detail": "https://tekken.fandom.com/wiki/Wind-up_Straight",
+        "command": "b+1+2,2",
+        "damage": "22",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/19/Wind-up_Straight.gif/revision/latest/scale-to-width-down/350?cb=20220629215012&path-prefix=en"
+    },
+    {
+        "name": "Wind-up Low Kick",
+        "detail": "https://tekken.fandom.com/wiki/Wind-up_Low_Kick",
+        "command": "b+1+2,3",
+        "damage": "12",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9b/Wind-up_Low_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221017093634&path-prefix=en"
+    },
+    {
+        "name": "Wind-up Middle Kick",
+        "detail": "https://tekken.fandom.com/wiki/Wind-up_Middle_Kick",
+        "command": "b+1+2,4",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/Wind-up_Middle_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221005182048&path-prefix=en"
+    },
+    {
+        "name": "Wind-up Hip Press",
+        "detail": "https://tekken.fandom.com/wiki/Wind-up_Hip_Press",
+        "command": "b+1+2,3+4",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a4/Wind-up_Hip_Press.gif/revision/latest/scale-to-width-down/350?cb=20221005182017&path-prefix=en"
+    },
+    {
+        "name": "Animal Drop Kick",
+        "detail": "https://tekken.fandom.com/wiki/Animal_Drop_Kick",
+        "command": "b+3+4",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/18/Animal_Drop_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220429175222&path-prefix=en"
+    },
+    {
+        "name": "Wind Up Punch",
+        "detail": "https://tekken.fandom.com/wiki/Windup_Punch",
+        "command": "b+1+4",
+        "damage": "100",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a7/Wind_up_Punch_TK2.gif/revision/latest/scale-to-width-down/350?cb=20211019143559&path-prefix=en"
+    },
+    {
+        "name": "Helicopter Kick",
+        "detail": "https://tekken.fandom.com/wiki/Helicopter_Kick",
+        "command": "u/f (or u or u/b)+3,3",
+        "damage": "25,25",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f1/Helicopter_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220429180037&path-prefix=en"
+    },
+    {
+        "name": "Rising Toe Kick",
+        "detail": "https://tekken.fandom.com/wiki/Rising_Toe_Kick",
+        "command": "u/f (or u or u/b)+4",
+        "damage": "13",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d9/Rising_Toe_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220326102039&path-prefix=en"
+    },
+    {
+        "name": "Capital Punishment",
+        "detail": "https://tekken.fandom.com/wiki/Capital_Punishment",
+        "command": "u/f+1+2",
+        "damage": "35",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/71/Jumping_double_axe_handle.gif/revision/latest/scale-to-width-down/350?cb=20201003142446&path-prefix=en"
+    },
+    {
+        "name": "Kangaroo Stomp",
+        "detail": "https://tekken.fandom.com/wiki/Kangaroo_Stomp",
+        "command": "u/f (or u or u/b)+3+4",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0a/Kangaroo_Stomp.gif/revision/latest/scale-to-width-down/350?cb=20220603103304&path-prefix=en"
+    },
+    {
+        "name": "Elbow Drop",
+        "detail": "https://tekken.fandom.com/wiki/Elbow_Drop",
+        "command": "U/F+2+4",
+        "damage": "35",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4d/59ab3ca7e2a9.gif/revision/latest/scale-to-width-down/350?cb=20210115115630&path-prefix=en"
+    },
+    {
+        "name": "Sliding Hook",
+        "detail": "https://tekken.fandom.com/wiki/Sliding_Hook",
+        "command": "f,f+2",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d5/Sliding_Hook.gif/revision/latest/scale-to-width-down/350?cb=20220429182424&path-prefix=en"
+    },
+    {
+        "name": "Konvict Kick",
+        "detail": "https://tekken.fandom.com/wiki/Konvict_Kick",
+        "command": "f,f+4",
+        "damage": "24",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/86/Konvict_Kick.gif/revision/latest/scale-to-width-down/350?cb=20210224143800&path-prefix=en"
+    },
+    {
+        "name": "Head First Lunge",
+        "detail": "https://tekken.fandom.com/wiki/Flying_Cross_Chop_(King)",
+        "command": "f,f+1+2",
+        "damage": "15",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/63/Flying_Cross_Chop.gif/revision/latest/scale-to-width-down/350?cb=20201221003202&path-prefix=en"
+    },
+    {
+        "name": "Rolling Toe Drop",
+        "detail": "https://tekken.fandom.com/wiki/Rolling_Toe_Drop",
+        "command": "b,b+4",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/96/Rolling_Toe_Drop.gif/revision/latest/scale-to-width-down/350?cb=20220429182611&path-prefix=en"
+    },
+    {
+        "name": "Animal Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Animal_Uppercut",
+        "command": "f,N,d,d/f+1",
+        "damage": "50",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/00/Animal_Uppercut_alex.gif/revision/latest/scale-to-width-down/350?cb=20210128191045&path-prefix=en"
+    },
+    {
+        "name": "Animal Smash",
+        "detail": "https://tekken.fandom.com/wiki/Animal_Smash",
+        "command": "f,N,d,d/f+1+2",
+        "damage": "23",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c4/F053384fa1f0.gif/revision/latest/scale-to-width-down/350?cb=20210522225532&path-prefix=en"
+    },
+    {
+        "name": "Running Exploder",
+        "detail": "https://tekken.fandom.com/wiki/Running_Exploder",
+        "command": "f,f,f+3+4",
+        "damage": "40",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/33/Running_Exploder.gif/revision/latest/scale-to-width-down/350?cb=20210322184941&path-prefix=en"
+    },
+    {
+        "name": "Spinning Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Stagger_Kick_Spinning_Uppercut",
+        "command": "Run more than three steps 4,2",
+        "damage": "10,10",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7e/26cda21a354a.gif/revision/latest/scale-to-width-down/350?cb=20210801163729&path-prefix=en"
+    },
+    {
+        "name": "Stagger Kicks",
+        "detail": "https://tekken.fandom.com/wiki/Stagger_Kick",
+        "command": "Run more than three steps 4,4,4",
+        "damage": "10,10,10",
+        "ranges": "lll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/22/Tekken_6_-_King_II_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20201125190410&path-prefix=en"
+    },
+    {
+        "name": "Spring Stomp Kick",
+        "detail": "https://tekken.fandom.com/wiki/Spring_Stomp_Kick",
+        "command": "WS+3,3",
+        "damage": "18,12",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/aa/Spring_Stomp_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220603213745&path-prefix=en"
+    },
+    {
+        "name": "Charge Stomp Kick",
+        "detail": "https://tekken.fandom.com/wiki/Charge_Stomp_Kick",
+        "command": "WS+3,3 Mantain",
+        "damage": "18,21",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/bc/Charge_Stomp_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220212163956&path-prefix=en"
+    },
+    {
+        "name": "Toe Smash",
+        "detail": "https://tekken.fandom.com/wiki/Toe_Smash",
+        "command": "WS+4",
+        "damage": "20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/73/Toe_Smash.gif/revision/latest/scale-to-width-down/350?cb=20220519145515&path-prefix=en"
+    },
+    {
+        "name": "Crouching Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Crouching_Uppercut_(King)",
+        "command": "FC+d/f+2",
+        "damage": "23",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e7/490dbb539c32.gif/revision/latest/scale-to-width-down/350?cb=20210115121457&path-prefix=en"
+    },
+    {
+        "name": "Animal Sweep",
+        "detail": "https://tekken.fandom.com/wiki/Animal_Sweep",
+        "command": "During side step 4",
+        "damage": "17",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/13/Animal_Sweep.gif/revision/latest/scale-to-width-down/350?cb=20210903212136&path-prefix=en"
+    },
+    {
+        "name": "Shrimp Kick",
+        "detail": "https://tekken.fandom.com/wiki/Shrimp_Kick",
+        "command": "Back to opponent 3+4",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/70/Shrimp_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220519145148&path-prefix=en"
+    },
+    {
+        "name": "1, 2, 1, 4, 3, 3, 3, 4, 3, 2",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_1_(Roger_Jr_and_Alex)",
+        "command": "1, 2, 1, 4, 3, 3, 3, 4, 3, 2",
+        "damage": "89",
+        "ranges": "hhmhmhlmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c7/911b4f5600.gif/revision/latest/scale-to-width-down/350?cb=20221009175546&path-prefix=en"
+    },
+    {
+        "name": "1, 2, 1, 4, 3, 3, 3+4, 2, 1+2",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_2_(Roger_Jr_and_Alex)",
+        "command": "1, 2, 1, 4, 3, 3, 3+4, 2, 1+2",
+        "damage": "99",
+        "ranges": "hhmhmhmmlm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c1/2532d8e9aa.gif/revision/latest?cb=20221030175011&path-prefix=en"
+    }
+]

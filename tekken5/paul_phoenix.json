@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Left Right Combo",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Combo",
+        "command": "1,2",
+        "damage": "5,12",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/96/Paul_Left_Right.gif/revision/latest/scale-to-width-down/350?cb=20201127133317&path-prefix=en"
+    },
+    {
+        "name": "Reverse PDK Combo",
+        "detail": "https://tekken.fandom.com/wiki/Reverse_PDK_Combo",
+        "command": "1,4",
+        "damage": "5,8",
+        "ranges": "hl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/Reverse_PDK_Combo.gif/revision/latest/scale-to-width-down/350?cb=20210312172438&path-prefix=en"
+    },
+    {
+        "name": "Jab Sweep",
+        "detail": "https://tekken.fandom.com/wiki/Jab_Sweep",
+        "command": "2,d+3",
+        "damage": "12,11",
+        "ranges": "hl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/ca/Jab_Sweep%281%29.gif/revision/latest/scale-to-width-down/350?cb=20210312201146&path-prefix=en"
+    },
+    {
+        "name": "KI Charge",
+        "detail": "https://tekken.fandom.com/wiki/Supercharger",
+        "command": "1+2+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4f/E24Ks_Tekken_Tag_Tournament_-_Ganryu_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20201128143016&path-prefix=en"
+    },
+    {
+        "name": "Quick PK Combo",
+        "detail": "https://tekken.fandom.com/wiki/Quick_PK_Combo",
+        "command": "f+2,3",
+        "damage": "12,20",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f5/Quick_PK_Combo.gif/revision/latest/scale-to-width-down/350?cb=20210313135353&path-prefix=en"
+    },
+    {
+        "name": "Quick PDK Combo",
+        "detail": "https://tekken.fandom.com/wiki/Quick_PDK_Combo",
+        "command": "f+2,d+3",
+        "damage": "12,15",
+        "ranges": "hl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/bf/Quick_PDK_Combo_TK2.gif/revision/latest/scale-to-width-down/350?cb=20210317191504&path-prefix=en"
+    },
+    {
+        "name": "Hammer of the Gods",
+        "detail": "https://tekken.fandom.com/wiki/Hammer_of_the_Gods",
+        "command": "f+1+2",
+        "damage": "27",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0e/Tekken_3_-_Paul_Phoenix_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20210201135535&path-prefix=en"
+    },
+    {
+        "name": "Shoulder Tackle",
+        "detail": "https://tekken.fandom.com/wiki/Shoulder_Tackle_(Paul)",
+        "command": "f+1+4",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8d/B95e97889104.gif/revision/latest/scale-to-width-down/350?cb=20210728113716&path-prefix=en"
+    },
+    {
+        "name": "Body Blow to Sway",
+        "detail": "https://tekken.fandom.com/wiki/Body_Blow_(Paul_Phoenix)",
+        "command": "d/f+1,b",
+        "damage": "10",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/51/Body_Blow.gif/revision/latest/scale-to-width-down/350?cb=20210326231117&path-prefix=en"
+    },
+    {
+        "name": "The Boot",
+        "detail": "https://tekken.fandom.com/wiki/The_Boot",
+        "command": "d/f+4",
+        "damage": "23",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/ff/The_Boot.gif/revision/latest/scale-to-width-down/350?cb=20210824131958&path-prefix=en"
+    },
+    {
+        "name": "Hammer Punch",
+        "detail": "https://tekken.fandom.com/wiki/Hammer_Punch",
+        "command": "d+1",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e9/Ggi6s.gif/revision/latest?cb=20150118120745&path-prefix=en"
+    },
+    {
+        "name": "Hammer Punch to Power Punch",
+        "detail": "https://tekken.fandom.com/wiki/Hammer_Punch_to_Power_Punch",
+        "command": "d+1,2",
+        "damage": "15,26",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/36/Hammer_Punch_to_Power_Punch.gif/revision/latest/scale-to-width-down/350?cb=20201212152345&path-prefix=en"
+    },
+    {
+        "name": "Hang Over",
+        "detail": "https://tekken.fandom.com/wiki/Hang_Over",
+        "command": "d+1,4,2",
+        "damage": "15,14",
+        "ranges": "mlm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e6/C6e5b14c28fc.gif/revision/latest/scale-to-width-down/350?cb=20210115114608&path-prefix=en"
+    },
+    {
+        "name": "Bone Breaker",
+        "detail": "https://tekken.fandom.com/wiki/Bone_Breaker",
+        "command": "d+4,2",
+        "damage": "15,14",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6c/8f90c5203bce.gif/revision/latest/scale-to-width-down/350?cb=20210110195239&path-prefix=en"
+    },
+    {
+        "name": "Demolition Man",
+        "detail": "https://tekken.fandom.com/wiki/Demolition_Man",
+        "command": "d+4,2,1+2",
+        "damage": "15,14,15",
+        "ranges": "lmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d4/E60c4f9e1ccf.gif/revision/latest/scale-to-width-down/350?cb=20210604112831&path-prefix=en"
+    },
+    {
+        "name": "Shoulder Smash",
+        "detail": "https://tekken.fandom.com/wiki/Shoulder_Smash_(Paul)",
+        "command": "d+1+2",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2a/Fd882099fa07.gif/revision/latest/scale-to-width-down/350?cb=20210314190600&path-prefix=en"
+    },
+    {
+        "name": "Sweep Kick",
+        "detail": "https://tekken.fandom.com/wiki/Sweep_Kick",
+        "command": "d/b+3",
+        "damage": "12",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/64/4baa89a1b47b.gif/revision/latest/scale-to-width-down/350?cb=20210315111943&path-prefix=en"
+    },
+    {
+        "name": "Wrecking Ball",
+        "detail": "https://tekken.fandom.com/wiki/Wrecking_Ball",
+        "command": "b+2",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f2/Wrecking_Ball.gif/revision/latest/scale-to-width-down/350?cb=20210301141324&path-prefix=en"
+    },
+    {
+        "name": "Lights Out",
+        "detail": "https://tekken.fandom.com/wiki/Lights_Out",
+        "command": "b+3",
+        "damage": "18",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d4/Lights_Out.gif/revision/latest/scale-to-width-down/350?cb=20210824133844&path-prefix=en"
+    },
+    {
+        "name": "Burning Fist",
+        "detail": "https://tekken.fandom.com/wiki/Burning_Fist",
+        "command": "b+1+2",
+        "damage": "100",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0b/B_F_TK2.gif/revision/latest/scale-to-width-down/350?cb=20211019124504&path-prefix=en"
+    },
+    {
+        "name": "Flash Elbow",
+        "detail": "https://tekken.fandom.com/wiki/Flash_Elbow",
+        "command": "f,f (or while crouching d / f) +2",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4a/7a85062f09e7.gif/revision/latest/scale-to-width-down/350?cb=20201218173414&path-prefix=en"
+    },
+    {
+        "name": "Juggernaut",
+        "detail": "https://tekken.fandom.com/wiki/Juggernaut",
+        "command": "f,f (or while crouching d / f) +2,1",
+        "damage": "15,18",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/72/Juggernaut.gif/revision/latest/scale-to-width-down/350?cb=20210312204938&path-prefix=en"
+    },
+    {
+        "name": "Phoenix Bone Breaker",
+        "detail": "https://tekken.fandom.com/wiki/Phoenix_Bone_Breaker",
+        "command": "f, f (or while crouching d / f) +2, during attack 1",
+        "damage": "15,26",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6c/7a9e24584ea7.gif/revision/latest/scale-to-width-down/350?cb=20210313234958&path-prefix=en"
+    },
+    {
+        "name": "Bulldozer",
+        "detail": "https://tekken.fandom.com/wiki/Bulldozer",
+        "command": "f,f (or while crouching d / f) +2,2",
+        "damage": "15,21",
+        "ranges": "ml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0b/Bulldozer.gif/revision/latest/scale-to-width-down/350?cb=20210301125232&path-prefix=en"
+    },
+    {
+        "name": "Double Hop Kick High",
+        "detail": "https://tekken.fandom.com/wiki/Double_Hop_Kick_High",
+        "command": "f,f+3,4,4",
+        "damage": "20,10,12",
+        "ranges": "mmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/13/8a15923a04a3.gif/revision/latest/scale-to-width-down/350?cb=20210110214315&path-prefix=en"
+    },
+    {
+        "name": "Triple Kick Combo",
+        "detail": "https://tekken.fandom.com/wiki/Triple_Kick_Combo_(Paul)",
+        "command": "f,f+3,4,f+4",
+        "damage": "20,10,7",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7c/C748cf1431ae.gif/revision/latest/scale-to-width-down/350?cb=20210110221139&path-prefix=en"
+    },
+    {
+        "name": "Double Hop Kick Low",
+        "detail": "https://tekken.fandom.com/wiki/Double_Hop_Kick_Low",
+        "command": "f,f+3,4,d+4",
+        "damage": "20,10,6",
+        "ranges": "mml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b7/C366cfdf0582.gif/revision/latest/scale-to-width-down/350?cb=20210110221403&path-prefix=en"
+    },
+    {
+        "name": "Neutron Bomb",
+        "detail": "https://tekken.fandom.com/wiki/Neutron_Bomb",
+        "command": "f,f+4",
+        "damage": "20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/04/1b963dac4057.gif/revision/latest/scale-to-width-down/350?cb=20210206221206&path-prefix=en"
+    },
+    {
+        "name": "Burning Spear",
+        "detail": "https://tekken.fandom.com/wiki/Burning_Spear",
+        "command": "b,f+1",
+        "damage": "30",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/ed/D65a20e12170.gif/revision/latest/scale-to-width-down/350?cb=20210204124252&path-prefix=en"
+    },
+    {
+        "name": "Thruster",
+        "detail": "https://tekken.fandom.com/wiki/Thruster",
+        "command": "qcf+1",
+        "damage": "21",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/af/Thruster_TK3.gif/revision/latest/scale-to-width-down/350?cb=20210317132641&path-prefix=en"
+    },
+    {
+        "name": "Phoenix Smasher",
+        "detail": "https://tekken.fandom.com/wiki/Heavy_Power_Punch",
+        "command": "qcf+2",
+        "damage": "33",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7c/4d413a00ca38.gif/revision/latest/scale-to-width-down/350?cb=20201123171117&path-prefix=en"
+    },
+    {
+        "name": "Riptide",
+        "detail": "https://tekken.fandom.com/wiki/Riptide",
+        "command": "qcf+1+2",
+        "damage": "21",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e6/B6c6c88d323e.gif/revision/latest/scale-to-width-down/350?cb=20210205180911&path-prefix=en"
+    },
+    {
+        "name": "Sway",
+        "detail": "https://tekken.fandom.com/wiki/Sway_(Paul_Phoenix)",
+        "command": "qcb",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3d/Sway_%28Paul%29.gif/revision/latest/scale-to-width-down/350?cb=20210202222719&path-prefix=en"
+    },
+    {
+        "name": "God Hammer Punch",
+        "detail": "https://tekken.fandom.com/wiki/God_Hammer_Punch",
+        "command": "qcb+1",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/A5ad955ec87b.gif/revision/latest/scale-to-width-down/350?cb=20201122140414&path-prefix=en"
+    },
+    {
+        "name": "Rubber Band Attack",
+        "detail": "https://tekken.fandom.com/wiki/Rubber_Band_Attack",
+        "command": "qcb+2",
+        "damage": "20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/33/0254099149c9.gif/revision/latest/scale-to-width-down/350?cb=20210122121307&path-prefix=en"
+    },
+    {
+        "name": "Sway and Low Kick",
+        "detail": "https://tekken.fandom.com/wiki/Sway_and_Low_Kick",
+        "command": "qcb+3",
+        "damage": "14",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/80/32b7807d2e.gif/revision/latest/scale-to-width-down/350?cb=20210314192941&path-prefix=en"
+    },
+    {
+        "name": "Rapid Fire",
+        "detail": "https://tekken.fandom.com/wiki/Rapid_Fire",
+        "command": "qcb+3,2",
+        "damage": "14,21",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ad/6129f8b45548.gif/revision/latest/scale-to-width-down/350?cb=20210806205737&path-prefix=en"
+    },
+    {
+        "name": "Rapid Fire to Phoenix Smasher",
+        "detail": "https://tekken.fandom.com/wiki/Rapid_Fire_to_Phoenix_Smasher",
+        "command": "qcb+3,2,1",
+        "damage": "14,21,21",
+        "ranges": "lmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2f/9fba275745c9.gif/revision/latest/scale-to-width-down/350?cb=20210117230801&path-prefix=en"
+    },
+    {
+        "name": "Rapid Fire to Stone Breaker",
+        "detail": "https://tekken.fandom.com/wiki/Rapid_Fire_to_Stone_Breaker",
+        "command": "qcb+3,2,2",
+        "damage": "14,21,21",
+        "ranges": "lml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b1/06956e1fa894.gif/revision/latest/scale-to-width-down/350?cb=20210708121652&path-prefix=en"
+    },
+    {
+        "name": "Thunder Palm",
+        "detail": "https://tekken.fandom.com/wiki/Thunder_Palm_(Paul)",
+        "command": "WS+2",
+        "damage": "20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/24/Thunder_Palm.gif/revision/latest/scale-to-width-down/350?cb=20210810081853&path-prefix=en"
+    },
+    {
+        "name": "Jaw Breaker",
+        "detail": "https://tekken.fandom.com/wiki/Jaw_Breaker_(Paul)",
+        "command": "FC+d/f+2",
+        "damage": "20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/37/Jaw_Breaker.gif/revision/latest/scale-to-width-down/350?cb=20210305150540&path-prefix=en"
+    },
+    {
+        "name": "Gut Buster",
+        "detail": "https://tekken.fandom.com/wiki/Gut_Buster",
+        "command": "FC+d/f+2,1",
+        "damage": "20,30",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3e/Gut_Buster_TTT.gif/revision/latest/scale-to-width-down/350?cb=20220424055135&path-prefix=en"
+    },
+    {
+        "name": "Stone Breaker",
+        "detail": "https://tekken.fandom.com/wiki/Stone_Breaker",
+        "command": "FC+d/f+2,2",
+        "damage": "20,21",
+        "ranges": "ml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2e/B31644e8112a.gif/revision/latest/scale-to-width-down/350?cb=20210510095623&path-prefix=en"
+    },
+    {
+        "name": "Incomplete Somersault",
+        "detail": "https://tekken.fandom.com/wiki/Incomplete_Somersault",
+        "command": "FC+d, (1 sec.) u + 2+3+4",
+        "damage": "54,48",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3e/08afcd2cf85a.gif/revision/latest?cb=20201105090531&path-prefix=en"
+    },
+    {
+        "name": "Turn Thruster",
+        "detail": "https://tekken.fandom.com/wiki/Turn_Thruster",
+        "command": "During side step 1",
+        "damage": "23",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/83/F0b756c4e64d.gif/revision/latest/scale-to-width-down/350?cb=20210510174023&path-prefix=en"
+    },
+    {
+        "name": "Pump in Pedal",
+        "detail": "https://tekken.fandom.com/wiki/Pump_in_Pedal",
+        "command": "During side step 3",
+        "damage": "22",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/92/1bb0667feef0.gif/revision/latest/scale-to-width-down/350?cb=20210206000721&path-prefix=en"
+    },
+    {
+        "name": "Down Strike",
+        "detail": "https://tekken.fandom.com/wiki/Down_Strike",
+        "command": "(With opponent down) d+2",
+        "damage": "21",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/ba/Down_Strike_TK1.gif/revision/latest/scale-to-width-down/350?cb=20210228154827&path-prefix=en"
+    },
+    {
+        "name": "1, 2, 3, 2, 1, 2, 1, 4, 2, 1",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_1_(Paul_Phoenix)",
+        "command": "1, 2, 3, 2, 1, 2, 1, 4, 2, 1",
+        "damage": "90",
+        "ranges": "hhmhmhhlmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/70/566GXrar987j.gif/revision/latest/scale-to-width-down/350?cb=20221118231750&path-prefix=en"
+    },
+    {
+        "name": "1, 2, 3, 1, 4, 2, 1, 4, 2, 1",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_2_(Paul_Phoenix)",
+        "command": "1, 2, 3, 1, 4, 2, 1, 4, 2, 1",
+        "damage": "89",
+        "ranges": "hhmmlmhmlm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b5/89be2e6bb9.gif/revision/latest/scale-to-width-down/350?cb=20221009211609&path-prefix=en"
+    },
+    {
+        "name": "1, 2, 3, 1, 2",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_3_(Paul_Phoenix)",
+        "command": "1, 2, 3, 1, 2",
+        "damage": "60",
+        "ranges": "hhmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/de/708a13606750.gif/revision/latest/scale-to-width-down/350?cb=20210722174145&path-prefix=en"
+    }
+]

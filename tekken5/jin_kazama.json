@@ -1,0 +1,514 @@
+[
+    {
+        "name": "Left Right Combo",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Combo",
+        "command": "1,2",
+        "damage": "7,12",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/96/Paul_Left_Right.gif/revision/latest/scale-to-width-down/350?cb=20201127133317&path-prefix=en"
+    },
+    {
+        "name": "Left Right Axe Kick",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Axe_Kick",
+        "command": "1,2,3",
+        "damage": "7,11,25",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6e/Left_Right_Axe_Kick.gif/revision/latest/scale-to-width-down/350?cb=20201129142026&path-prefix=en"
+    },
+    {
+        "name": "Left Right to Spinning Hook Kick",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_to_Spinning_Hook_Kick",
+        "command": "1,2,4",
+        "damage": "7,12,22",
+        "ranges": "hhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/50/Tekken_7_-_Jin_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20210212220752&path-prefix=en"
+    },
+    {
+        "name": "Kazama Style 5 Hit Combo",
+        "detail": "https://tekken.fandom.com/wiki/Kazama_Style_5_Hit_Combo",
+        "command": "1,3,2,1,4",
+        "damage": "6,10,10,10,10",
+        "ranges": "hhmml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/47/Kazama_5_Style_Hit_Combo.gif/revision/latest/scale-to-width-down/350?cb=20210202004319&path-prefix=en"
+    },
+    {
+        "name": "Feint Kick Combo",
+        "detail": "https://tekken.fandom.com/wiki/Feint_Kick_Combo",
+        "command": "1,[3~3],d/f+3",
+        "damage": "6,22,13",
+        "ranges": "hmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4e/Feint_Kick_Combo.gif/revision/latest/scale-to-width-down/350?cb=20211228235427&path-prefix=en"
+    },
+    {
+        "name": "Left Jab to Left Low Kick",
+        "detail": "https://tekken.fandom.com/wiki/Left_Jab_to_Left_Low_Kick",
+        "command": "1,d+3",
+        "damage": "7,7",
+        "ranges": "hl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/ca/Left_Jab_to_Left_Low_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220331144205&path-prefix=en"
+    },
+    {
+        "name": "Double Thrust Roundhouse",
+        "detail": "https://tekken.fandom.com/wiki/Double_Thrust_Roundhouse",
+        "command": "2,1,4",
+        "damage": "9,10,18",
+        "ranges": "hmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3d/Double_Thrust_Roundhouse.gif/revision/latest/scale-to-width-down/350?cb=20210818134740&path-prefix=en"
+    },
+    {
+        "name": "Double Thrust Low Trick Kick",
+        "detail": "https://tekken.fandom.com/wiki/Double_Thrust_Low_Trick_Kick",
+        "command": "2,1,[4~4]",
+        "damage": "9,10,15",
+        "ranges": "hml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6f/Double_Thrust_Low_Trick_Kick.gif/revision/latest/scale-to-width-down/350?cb=20211106182418&path-prefix=en"
+    },
+    {
+        "name": "Switch Blade",
+        "detail": "https://tekken.fandom.com/wiki/Switch_Blade",
+        "command": "2,4",
+        "damage": "9,14",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/41/Switch_Blade_Jin.gif/revision/latest/scale-to-width-down/350?cb=20210915161856&path-prefix=en"
+    },
+    {
+        "name": "Spinning Flare Kick",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_Flare_Kick",
+        "command": "[4~3]",
+        "damage": "28",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/50/Spinning_Flare_Kick_TK4.gif/revision/latest/scale-to-width-down/350?cb=20210304193657&path-prefix=en"
+    },
+    {
+        "name": "Median Line Destruction",
+        "detail": "https://tekken.fandom.com/wiki/Median_Line_Destruction",
+        "command": "1+2",
+        "damage": "5,5,5,7",
+        "ranges": "mmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/41/Median_Line_Destruction_TK5.gif/revision/latest/scale-to-width-down/350?cb=20210304201705&path-prefix=en"
+    },
+    {
+        "name": "Ki Charge",
+        "detail": "https://tekken.fandom.com/wiki/Supercharger",
+        "command": "1+2+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4f/E24Ks_Tekken_Tag_Tournament_-_Ganryu_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20201128143016&path-prefix=en"
+    },
+    {
+        "name": "Right Elbow",
+        "detail": "https://tekken.fandom.com/wiki/Right_Elbow",
+        "command": "f+2",
+        "damage": "12",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2b/Right_Elbow.gif/revision/latest/scale-to-width-down/350?cb=20210602143422&path-prefix=en"
+    },
+    {
+        "name": "Left Roundhouse",
+        "detail": "https://tekken.fandom.com/wiki/Left_Roundhouse",
+        "command": "f+3",
+        "damage": "16",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/73/Left_Roundhouse.gif/revision/latest/scale-to-width-down/350?cb=20220129004031&path-prefix=en"
+    },
+    {
+        "name": "Stinger",
+        "detail": "https://tekken.fandom.com/wiki/Stinger",
+        "command": "f+[3~3]",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/90/Stinger.gif/revision/latest/scale-to-width-down/350?cb=20211228152527&path-prefix=en"
+    },
+    {
+        "name": "Heat Seeker",
+        "detail": "https://tekken.fandom.com/wiki/Heat_Seeker",
+        "command": "f+[3~3],d/f+3",
+        "damage": "22,13",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f3/Heat_Seeker_TK4.gif/revision/latest/scale-to-width-down/350?cb=20210304195536&path-prefix=en"
+    },
+    {
+        "name": "Front Thrust Kick",
+        "detail": "https://tekken.fandom.com/wiki/Front_Thrust_Kick",
+        "command": "f+4",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b1/Cc67dacc59fb.gif/revision/latest/scale-to-width-down/350?cb=20201205191500&path-prefix=en"
+    },
+    {
+        "name": "Double Chamber Punch",
+        "detail": "https://tekken.fandom.com/wiki/Double_Chamber_Punch",
+        "command": "f+1+2",
+        "damage": "10,21",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d1/Ad3eae10dffa.gif/revision/latest/scale-to-width-down/350?cb=20201201100434&path-prefix=en"
+    },
+    {
+        "name": "Thrust to Roundhouse",
+        "detail": "https://tekken.fandom.com/wiki/Thrust_to_Roundhouse",
+        "command": "d/f+1,4",
+        "damage": "12,18",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/80/Thrust_to_Roundhouse.gif/revision/latest/scale-to-width-down/350?cb=20220331144235&path-prefix=en"
+    },
+    {
+        "name": "Thrust to Low Trick Kick",
+        "detail": "https://tekken.fandom.com/wiki/Thrust_to_Low_Trick_Kick",
+        "command": "d/f+1,[4~4]",
+        "damage": "12,15",
+        "ranges": "ml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ab/Thrust_to_Low_Trick_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220419153827&path-prefix=en"
+    },
+    {
+        "name": "Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Uppercut_(Jin)",
+        "command": "d/f+2",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b8/Uppercut_%28Jin%29.gif/revision/latest/scale-to-width-down/350?cb=20220212180615&path-prefix=en"
+    },
+    {
+        "name": "Left Sidekick",
+        "detail": "https://tekken.fandom.com/wiki/Left_Sidekick",
+        "command": "d/f+3",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/15/Left_Sidekick.gif/revision/latest/scale-to-width-down/350?cb=20220419154507&path-prefix=en"
+    },
+    {
+        "name": "Blade Kick",
+        "detail": "https://tekken.fandom.com/wiki/Blade_Kick",
+        "command": "d/f+4",
+        "damage": "33",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4a/Blade_Kick.gif/revision/latest/scale-to-width-down/350?cb=20210612133148&path-prefix=en"
+    },
+    {
+        "name": "Corpse Thrust",
+        "detail": "https://tekken.fandom.com/wiki/Corpse_Thrust",
+        "command": "d+1",
+        "damage": "24",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/62/C0fdd9918e28.gif/revision/latest/scale-to-width-down/350?cb=20201129181055&path-prefix=en"
+    },
+    {
+        "name": "Knee Popper to Sidekick",
+        "detail": "https://tekken.fandom.com/wiki/Knee_Popper_to_Sidekick",
+        "command": "d+3,3",
+        "damage": "7,10",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c5/19547d185c15.gif/revision/latest/scale-to-width-down/350?cb=20210726214821&path-prefix=en"
+    },
+    {
+        "name": "Right Sweep",
+        "detail": "https://tekken.fandom.com/wiki/Right_Sweep",
+        "command": "d+4",
+        "damage": "15",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e1/Right_Sweep.gif/revision/latest/scale-to-width-down/350?cb=20210913201420&path-prefix=en"
+    },
+    {
+        "name": "Double Lift Kick",
+        "detail": "https://tekken.fandom.com/wiki/Double_Lift_Kick_(Kazama)",
+        "command": "d+3+4",
+        "damage": "5,15",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a8/E24Ks_Tekken_Tag_Tournament_-_Jin_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20210201133953&path-prefix=en"
+    },
+    {
+        "name": "Savage Sword",
+        "detail": "https://tekken.fandom.com/wiki/Savage_Sword",
+        "command": "d/b+2,2,3",
+        "damage": "12,15,21",
+        "ranges": "mhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7e/339c20cb9a3c.gif/revision/latest/scale-to-width-down/350?cb=20201125223846&path-prefix=en"
+    },
+    {
+        "name": "Left Spinning Back Kick 2",
+        "detail": "https://tekken.fandom.com/wiki/Left_Spinning_Back_Kick_2",
+        "command": "d/b+3",
+        "damage": "21",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/15/Left_Spinning_Back_Kick2.gif/revision/latest/scale-to-width-down/350?cb=20211231111800&path-prefix=en"
+    },
+    {
+        "name": "Right Low Roundhouse",
+        "detail": "https://tekken.fandom.com/wiki/Right_Low_Roundhouse",
+        "command": "d/b+4",
+        "damage": "15",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/fc/Right_Low_Roundhouse.gif/revision/latest/scale-to-width-down/350?cb=20220129002845&path-prefix=en"
+    },
+    {
+        "name": "Mental Alertness 2",
+        "detail": "https://tekken.fandom.com/wiki/Mental_Alertness_(2)",
+        "command": "b+1",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e0/Metal_Alertness_%282%29.gif/revision/latest/scale-to-width-down/350?cb=20210130142000&path-prefix=en"
+    },
+    {
+        "name": "Left Drill Punch",
+        "detail": "https://tekken.fandom.com/wiki/Left_Drill_Punch",
+        "command": "During Mental Alertness 2, 1",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/88/Left_Roundhouse_Punch.gif/revision/latest/scale-to-width-down/350?cb=20201215134647&path-prefix=en"
+    },
+    {
+        "name": "Suigetsu Strike",
+        "detail": "https://tekken.fandom.com/wiki/Suigetsu_Strike",
+        "command": "During Mental Alertness 2, 2",
+        "damage": "24",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7a/Suigetsu_Strike_TK5.gif/revision/latest/scale-to-width-down/350?cb=20210304185145&path-prefix=en"
+    },
+    {
+        "name": "Spinning High Kick",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_High_Kick",
+        "command": "During Mental Alertness 2, 3",
+        "damage": "30",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5f/High_Spinning_Kick.gif/revision/latest/scale-to-width-down/350?cb=20180309212822&path-prefix=en"
+    },
+    {
+        "name": "Right Sweep 2",
+        "detail": "https://tekken.fandom.com/wiki/Right_Sweep_(2)",
+        "command": "During Mental Alertness 2, 4",
+        "damage": "15",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a4/47eae170fc2d.gif/revision/latest/scale-to-width-down/350?cb=20210313122554&path-prefix=en"
+    },
+    {
+        "name": "Right Backfist to Left Roundhouse",
+        "detail": "https://tekken.fandom.com/wiki/Right_Backfist_to_Left_Roundhouse",
+        "command": "b+2,3",
+        "damage": "12,21",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a5/425b5aca88118.gif/revision/latest/scale-to-width-down/350?cb=20210602094213&path-prefix=en"
+    },
+    {
+        "name": "Left Crescent to Low Roundhouse",
+        "detail": "https://tekken.fandom.com/wiki/Left_Crescent_to_Low_Roundhouse",
+        "command": "b+3,4",
+        "damage": "15,15",
+        "ranges": "hl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/35/Left_Crescent_to_Low_Roundhouse.gif/revision/latest/scale-to-width-down/350?cb=20220212095454&path-prefix=en"
+    },
+    {
+        "name": "Spinning Sidekick",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_Sidekick",
+        "command": "b+4",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/46/Spinning_Sidekick.gif/revision/latest/scale-to-width-down/350?cb=20220419155626&path-prefix=en"
+    },
+    {
+        "name": "Power Stance",
+        "detail": "https://tekken.fandom.com/wiki/Power_Stance",
+        "command": "b+1+2",
+        "damage": "0",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c8/Daaee122028e.gif/revision/latest/scale-to-width-down/350?cb=20201129180103&path-prefix=en"
+    },
+    {
+        "name": "Lingering Soul Omen",
+        "detail": "https://tekken.fandom.com/wiki/Lingering_Soul_Omen",
+        "command": "b+1+2,d,u,b,f",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/62/2f5f4d0501d3.gif/revision/latest?cb=20201203154756&path-prefix=en"
+    },
+    {
+        "name": "Soul Rage Wind Hook Fist",
+        "detail": "https://tekken.fandom.com/wiki/Soul_Rage_Right_Roundhouse_Punch",
+        "command": "During Soul Omen f,N,d,d/f+2",
+        "damage": "36",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9f/Omen_Right_Roundhouse_Punch.gif/revision/latest/scale-to-width-down/350?cb=20210402194144&path-prefix=en"
+    },
+    {
+        "name": "Soul Rage Lunging Low Roundhouse",
+        "detail": "https://tekken.fandom.com/wiki/Soul_Rage_Lunging_Low_Roundhouse_Kick",
+        "command": "During Soul Omen f,N,d,D/F+4",
+        "damage": "26",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c4/796ee3abc168.gif/revision/latest?cb=20201203152314&path-prefix=en"
+    },
+    {
+        "name": "Soul Rage 6 Hit Combo",
+        "detail": "https://tekken.fandom.com/wiki/Soul_Rage_6_Hit_Combo",
+        "command": "During Soul Omen 1,2,3,f+1,[3~3],3",
+        "damage": "7, 11, 25,13,13,13,13",
+        "ranges": "hhmhhmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0b/Soul_Rage_6_Hit_Combo.gif/revision/latest/scale-to-width-down/350?cb=20211211233346&path-prefix=en"
+    },
+    {
+        "name": "Soul Rage 8 Hit Combo",
+        "detail": "https://tekken.fandom.com/wiki/Soul_Rage_8_Hit_Combo",
+        "command": "During Soul Omen 1,2,3,1,3,2,1,4",
+        "damage": "7, 11, 25,13,13,13,13",
+        "ranges": "hhmhhmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7a/B2d0e15dc084.gif/revision/latest/scale-to-width-down/350?cb=20210317091657&path-prefix=en"
+    },
+    {
+        "name": "Avenger",
+        "detail": "https://tekken.fandom.com/wiki/Avenger",
+        "command": "u/b+1+2 (b, b to cancel)",
+        "damage": "100",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/94/31a2c4d40ec2.gif/revision/latest/scale-to-width-down/350?cb=20211022163631&path-prefix=en"
+    },
+    {
+        "name": "Evading Middle Strike",
+        "detail": "https://tekken.fandom.com/wiki/Evading_Middle_Strike",
+        "command": "u/f+2",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6e/Evading_Middle_Strike.gif/revision/latest/scale-to-width-down/350?cb=20220201173431&path-prefix=en"
+    },
+    {
+        "name": "Spinning High Kick",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_High_Kick",
+        "command": "u/f (or u or u/b)+3",
+        "damage": "30",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5f/High_Spinning_Kick.gif/revision/latest/scale-to-width-down/350?cb=20180309212822&path-prefix=en"
+    },
+    {
+        "name": "Front Jump Kick",
+        "detail": "https://tekken.fandom.com/wiki/Front_Jump_Kick",
+        "command": "u/f (or u)+4",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/38/Front_Jump_Kick.gif/revision/latest/scale-to-width-down/350?cb=20211229000210&path-prefix=en"
+    },
+    {
+        "name": "Demon's Paw",
+        "detail": "https://tekken.fandom.com/wiki/Demon%27s_Paw",
+        "command": "f,f+2",
+        "damage": "24",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/bb/Dfbabb91eddb.gif/revision/latest/scale-to-width-down/350?cb=20201203074233&path-prefix=en"
+    },
+    {
+        "name": "Left Axe Kick",
+        "detail": "https://tekken.fandom.com/wiki/Left_Axe_Kick",
+        "command": "f,f+3",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0f/55a325a2ac14.gif/revision/latest/scale-to-width-down/350?cb=20210105180321&path-prefix=en"
+    },
+    {
+        "name": "Kazama Style 6 Hit Combo",
+        "detail": "https://tekken.fandom.com/wiki/Kazama_Style_6_Hit_Combo",
+        "command": "f,f+3,1,3,2,1,4",
+        "damage": "25,10,13,13,13,13",
+        "ranges": "mhhmml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/97/EzK.gif/revision/latest/scale-to-width-down/350?cb=20201203151440&path-prefix=en"
+    },
+    {
+        "name": "Right Axe Kick",
+        "detail": "https://tekken.fandom.com/wiki/Right_Axe_Kick",
+        "command": "f,f+4",
+        "damage": "19",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2d/Right_Axe_Kick.gif/revision/latest/scale-to-width-down/350?cb=20210217012938&path-prefix=en"
+    },
+    {
+        "name": "Evil Intent",
+        "detail": "https://tekken.fandom.com/wiki/Evil_Intent",
+        "command": "b,f+2,1,2",
+        "damage": "18,10,24",
+        "ranges": "mhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/06/426bf4da6238.gif/revision/latest/scale-to-width-down/350?cb=20210201142516&path-prefix=en"
+    },
+    {
+        "name": "Thrusting Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Thrusting_Uppercut_(Jin_Kazama)",
+        "command": "f,N,d,d/f+1",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/55/A9cd9aeb0699.gif/revision/latest/scale-to-width-down/350?cb=20210107180710&path-prefix=en"
+    },
+    {
+        "name": "Thrusting Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Thrusting_Uppercut_(Jin_Kazama)",
+        "command": "f,N,d,d/f+1 (press at the same time)",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/55/A9cd9aeb0699.gif/revision/latest/scale-to-width-down/350?cb=20210107180710&path-prefix=en"
+    },
+    {
+        "name": "Right Roundhouse Punch",
+        "detail": "https://tekken.fandom.com/wiki/Electric_Wind_Hook_Fist",
+        "command": "f,N,d,d/f+2",
+        "damage": "25",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b1/Jinkazama-uppercut-tekken4.gif/revision/latest/scale-to-width-down/350?cb=20201122113202&path-prefix=en"
+    },
+    {
+        "name": "Electric Wind Hook Fist",
+        "detail": "https://tekken.fandom.com/wiki/Electric_Wind_Hook_Fist",
+        "command": "f,N,d,d/f+2 (press at the same time)",
+        "damage": "25",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b1/Jinkazama-uppercut-tekken4.gif/revision/latest/scale-to-width-down/350?cb=20201122113202&path-prefix=en"
+    },
+    {
+        "name": "Lunging Low Roundhouse Kick (L.L.R.K)",
+        "detail": "https://tekken.fandom.com/wiki/Low_Trick_Kick",
+        "command": "f,N,d,d/f+4",
+        "damage": "18",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e7/Tekken_4_-_Jin_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20201121152712&path-prefix=en"
+    },
+    {
+        "name": "L.L.R.K to Spinning Flare Kick",
+        "detail": "https://tekken.fandom.com/wiki/L.L.R.K_to_Spinning_Flare_Kick",
+        "command": "f,N,d,d/f+4,3+4",
+        "damage": "18,14",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ad/2870551fb7ed.gif/revision/latest/scale-to-width-down/350?cb=20210528185837&path-prefix=en"
+    },
+    {
+        "name": "Leaping Side Kick",
+        "detail": "https://tekken.fandom.com/wiki/Leaping_Sidekick",
+        "command": "f,f,f+3",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/db/Slash3.gif/revision/latest?cb=20140714022617&path-prefix=en"
+    },
+    {
+        "name": "Twin Lancer",
+        "detail": "https://tekken.fandom.com/wiki/Twin_Lancer",
+        "command": "WS+1,2",
+        "damage": "10,16",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0b/Be01027d4df9.gif/revision/latest/scale-to-width-down/350?cb=20210520202906&path-prefix=en"
+    },
+    {
+        "name": "Crouching Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Crouching_Uppercut_(Jin)",
+        "command": "WS+2",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a5/Crouching_Uppercut.gif/revision/latest/scale-to-width-down/350?cb=20210510172124&path-prefix=en"
+    },
+    {
+        "name": "Left Spinning Back Kick",
+        "detail": "https://tekken.fandom.com/wiki/Left_Spinning_Back_Kick",
+        "command": "WS+3",
+        "damage": "28",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f7/Left_Spinning_Back_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220113153147&path-prefix=en"
+    },
+    {
+        "name": "Mental Alertness 1",
+        "detail": "https://tekken.fandom.com/wiki/Mental_Alertness",
+        "command": "1+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/12/Mental_Alertness.gif/revision/latest/scale-to-width-down/350?cb=20210107124329&path-prefix=en"
+    }
+]

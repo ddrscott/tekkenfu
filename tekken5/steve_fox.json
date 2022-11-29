@@ -1,0 +1,514 @@
+[
+    {
+        "name": "Double Jab",
+        "detail": "https://tekken.fandom.com/wiki/Double_Jab",
+        "command": "1,1",
+        "damage": "5,3",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/ee/Double_Jab_TK4.gif/revision/latest/scale-to-width-down/350?cb=20210303142754&path-prefix=en"
+    },
+    {
+        "name": "Double Jab Straight",
+        "detail": "https://tekken.fandom.com/wiki/Double_Jab_Straight",
+        "command": "1,1,2",
+        "damage": "5,3,10",
+        "ranges": "hhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/88/Double_Jab_Straight.gif/revision/latest/scale-to-width-down/350?cb=20210215202143&path-prefix=en"
+    },
+    {
+        "name": "Double Jab Body Blow",
+        "detail": "https://tekken.fandom.com/wiki/Double_Jab_Body_Blow",
+        "command": "1,1,f+1",
+        "damage": "5,3,15",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/51/Double_Jab_Body_Blow.gif/revision/latest/scale-to-width-down/350?cb=20210226230946&path-prefix=en"
+    },
+    {
+        "name": "Double Jab Body Blow to Flicker",
+        "detail": "https://tekken.fandom.com/wiki/Double_Jab_Body_Blow_to_Flicker",
+        "command": "1,1,f+1,B",
+        "damage": "5,3,15",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/93/Double_Jab_Body_Blow_to_Flicker.gif/revision/latest/scale-to-width-down/350?cb=20221115132419&path-prefix=en"
+    },
+    {
+        "name": "Left Right",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right",
+        "command": "1,2",
+        "damage": "5,12",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2b/Left_Right_steve_move.gif/revision/latest/scale-to-width-down/350?cb=20210224003107&path-prefix=en"
+    },
+    {
+        "name": "Jab Body Blow",
+        "detail": "https://tekken.fandom.com/wiki/Jab_Body_Blow",
+        "command": "1,f+1",
+        "damage": "5,15",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/02/Jab_Body_Blow.gif/revision/latest/scale-to-width-down/350?cb=20221115132535&path-prefix=en"
+    },
+    {
+        "name": "Jab Body Blow to Flicker",
+        "detail": "https://tekken.fandom.com/wiki/Jab_Body_Blow_to_Flicker",
+        "command": "1,f+1,B",
+        "damage": "5,15",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/86/Jab_Body_Blow_to_Flicker.gif/revision/latest/scale-to-width-down/350?cb=20221029133250&path-prefix=en"
+    },
+    {
+        "name": "Left Right Left",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Left",
+        "command": "1,2,1",
+        "damage": "5,12,15",
+        "ranges": "hhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/14/Left_Right_Left_TK4.gif/revision/latest/scale-to-width-down/350?cb=20210318075937&path-prefix=en"
+    },
+    {
+        "name": "Left Right Left Flicker Stance",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Left_Flicker_Stance",
+        "command": "1,2,1,B",
+        "damage": "5,12,15",
+        "ranges": "hhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/02/Left_Right_Left_Flicker_Stance.gif/revision/latest/scale-to-width-down/350?cb=20221029130404&path-prefix=en"
+    },
+    {
+        "name": "British Edge Combo",
+        "detail": "https://tekken.fandom.com/wiki/British_Edge_Combo",
+        "command": "1,2,1,2",
+        "damage": "5,12,15,19",
+        "ranges": "hhhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/54/Tekken_4_-_Steve_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20210206131820&path-prefix=en"
+    },
+    {
+        "name": "British Edge Combo 2",
+        "detail": "https://tekken.fandom.com/wiki/British_Edge_Combo_2",
+        "command": "1,2,1,d+2",
+        "damage": "5,12,15,17",
+        "ranges": "hhhl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/80/Tekken_5_-_Steve_Fox_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20210206133652&path-prefix=en"
+    },
+    {
+        "name": "Right Straight Left Hook to Flicker",
+        "detail": "https://tekken.fandom.com/wiki/Right_Straight_Left_Hook_to_Flicker_Stance",
+        "command": "2,1,B",
+        "damage": "12,15,",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2b/Right_Straight_Left_Hook_to_Flicker_Stance.gif/revision/latest/scale-to-width-down/350?cb=20221029131500&path-prefix=en"
+    },
+    {
+        "name": "Quick Edge Combo 1",
+        "detail": "https://tekken.fandom.com/wiki/Quick_Edge_Combo_1",
+        "command": "2,1,2",
+        "damage": "12,15,19",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9e/Quick_Edge_Combo_1.gif/revision/latest/scale-to-width-down/350?cb=20210317165627&path-prefix=en"
+    },
+    {
+        "name": "Quick Edge Combo 2",
+        "detail": "https://tekken.fandom.com/wiki/Quick_Edge_Combo_2",
+        "command": "2,1,d+2",
+        "damage": "12,15,17",
+        "ranges": "hhl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/66/Quick_Edge_Combo_2_TK4.gif/revision/latest/scale-to-width-down/350?cb=20210317185336&path-prefix=en"
+    },
+    {
+        "name": "Straight Body Combo",
+        "detail": "https://tekken.fandom.com/wiki/Straight_Body_Combo",
+        "command": "2,2",
+        "damage": "12,12",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/17/E24Ks_Tekken_5_-_Steve_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20210321214530&path-prefix=en"
+    },
+    {
+        "name": "Ducking Left",
+        "detail": "https://tekken.fandom.com/wiki/Ducking_Left",
+        "command": "3",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/69/Ducking_Left.gif/revision/latest/scale-to-width-down/350?cb=20220609084557&path-prefix=en"
+    },
+    {
+        "name": "Ducking Right",
+        "detail": "https://tekken.fandom.com/wiki/Ducking_Right",
+        "command": "4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/63/Ducking_Right.gif/revision/latest/scale-to-width-down/350?cb=20220508180416&path-prefix=en"
+    },
+    {
+        "name": "Quick Spin",
+        "detail": "https://tekken.fandom.com/wiki/Quick_Spin",
+        "command": "3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/01/Quick_Spin.gif/revision/latest/scale-to-width-down/350?cb=20220521155010&path-prefix=en"
+    },
+    {
+        "name": "Ki Charge",
+        "detail": "https://tekken.fandom.com/wiki/Supercharger",
+        "command": "1+2+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4f/E24Ks_Tekken_Tag_Tournament_-_Ganryu_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20201128143016&path-prefix=en"
+    },
+    {
+        "name": "Ducking Body Blow",
+        "detail": "https://tekken.fandom.com/wiki/Ducking_Body_Blow",
+        "command": "f+2",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/04/Ducking_Body_Blow.gif/revision/latest/scale-to-width-down/350?cb=20221030144018&path-prefix=en"
+    },
+    {
+        "name": "Ducking Body Blow to Left Hook",
+        "detail": "https://tekken.fandom.com/wiki/Ducking_Body_Blow_to_Left_Hook",
+        "command": "f+2,1",
+        "damage": "15,15",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c1/Ducking_Body_Blow_to_Left_Hook.gif/revision/latest/scale-to-width-down/350?cb=20221029140440&path-prefix=en"
+    },
+    {
+        "name": "Ducking Psyche-out Body",
+        "detail": "https://tekken.fandom.com/wiki/Ducking_Psyche-out_Body",
+        "command": "f+2,[1~2]",
+        "damage": "15,12",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/62/Ducking_Psyche-out_Body.gif/revision/latest/scale-to-width-down/350?cb=20221030144425&path-prefix=en"
+    },
+    {
+        "name": "Ducking Body Blow to Left Hook to Flicker",
+        "detail": "https://tekken.fandom.com/wiki/Ducking_Body_Blow_to_Left_Hook_to_Flicker_Stance",
+        "command": "f+2,1,B",
+        "damage": "15,12",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0a/Ducking_Body_Blow_to_Left_Hook_to_Flicker.gif/revision/latest/scale-to-width-down/350?cb=20221115132943&path-prefix=en"
+    },
+    {
+        "name": "Ducking Psyche-out Left Right Combo",
+        "detail": "https://tekken.fandom.com/wiki/Ducking_Psyche-out_Left_Right_Combo",
+        "command": "f+2~1",
+        "damage": "8,12",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/cb/Ducking_Psyche-out_Left_Right_Combo.gif/revision/latest/scale-to-width-down/350?cb=20221115133402&path-prefix=en"
+    },
+    {
+        "name": "Ducking",
+        "detail": "https://tekken.fandom.com/wiki/Ducking",
+        "command": "f+3 (or f+4)",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/cb/Ducking.gif/revision/latest/scale-to-width-down/350?cb=20211016021818&path-prefix=en"
+    },
+    {
+        "name": "Feint to Right Body Blow",
+        "detail": "https://tekken.fandom.com/wiki/Feint_to_Right_Body_Blow",
+        "command": "f,[2~2]",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/83/Feint_to_Right_Body_Blow.gif/revision/latest/scale-to-width-down/350?cb=20221030144851&path-prefix=en"
+    },
+    {
+        "name": "Stun Gun",
+        "detail": "https://tekken.fandom.com/wiki/Stun_Gun_(Steve)",
+        "command": "f+1+2",
+        "damage": "36",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/df/Stun_Gun_Steve.gif/revision/latest/scale-to-width-down/350?cb=20220604113225&path-prefix=en"
+    },
+    {
+        "name": "Left Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Left_Uppercut",
+        "command": "d/f+1",
+        "damage": "8",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d4/Left_Uppercut.gif/revision/latest/scale-to-width-down/350?cb=20220629150404&path-prefix=en"
+    },
+    {
+        "name": "Uppercut Cross Combo",
+        "detail": "https://tekken.fandom.com/wiki/Uppercut_Cross_Combo",
+        "command": "d/f+1,2",
+        "damage": "8,12",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1c/Uppercut_Cross_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220415141607&path-prefix=en"
+    },
+    {
+        "name": "Uppercut Psyche-out Hook",
+        "detail": "https://tekken.fandom.com/wiki/Uppercut_Psyche-out_Hook",
+        "command": "d/f+1,[2~1]",
+        "damage": "8,22",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/69/Uppercut_Psyche-out_Hook.gif/revision/latest/scale-to-width-down/350?cb=20211109130622&path-prefix=en"
+    },
+    {
+        "name": "Uppercut Psyche-out Hook to Flicker",
+        "detail": "https://tekken.fandom.com/wiki/Uppercut_Psyche-out_Hook_to_Flicker_Stance",
+        "command": "d/f+1,[2~1],B",
+        "damage": "8,22",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/92/Uppercut_Psyche-out_Hook_Flicker.gif/revision/latest/scale-to-width-down/350?cb=20220609082217&path-prefix=en"
+    },
+    {
+        "name": "Uppercut Psyche-out Body",
+        "detail": "https://tekken.fandom.com/wiki/Uppercut_Psyche-out_Body",
+        "command": "d/f+1,[2~2]",
+        "damage": "8,12",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f2/Uppercut_Psyche-out_Body.gif/revision/latest/scale-to-width-down/350?cb=20220609083030&path-prefix=en"
+    },
+    {
+        "name": "Uppercut Psyche-out Left Right Combo",
+        "detail": "https://tekken.fandom.com/wiki/Uppercut_Psyche-out_Left_Right_Combo",
+        "command": "d/f+1,2,1+2",
+        "damage": "8,12,12",
+        "ranges": "mhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f7/Uppercut_Psyche-out_Left_Right_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220507215202&path-prefix=en"
+    },
+    {
+        "name": "Right Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Right_Uppercut_(Steve)",
+        "command": "d/f+2",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/84/Right_Uppercut.gif/revision/latest/scale-to-width-down/350?cb=20220629150643&path-prefix=en"
+    },
+    {
+        "name": "Double Right Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Double_Right_Uppercut",
+        "command": "d/f+2,2",
+        "damage": "12,12",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/54/Double_Right_Uppercut.gif/revision/latest/scale-to-width-down/350?cb=20220609083553&path-prefix=en"
+    },
+    {
+        "name": "Sonic Fang",
+        "detail": "https://tekken.fandom.com/wiki/Sonic_Fang",
+        "command": "d/f+1+2",
+        "damage": "10,18",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d5/Af3f3ba04669.gif/revision/latest/scale-to-width-down/350?cb=20210605190332&path-prefix=en"
+    },
+    {
+        "name": "Knee Blaster",
+        "detail": "https://tekken.fandom.com/wiki/Knee_Blaster",
+        "command": "d+1",
+        "damage": "14",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/21/Knee_Blaster.gif/revision/latest/scale-to-width-down/350?cb=20220607105442&path-prefix=en"
+    },
+    {
+        "name": "Wildman Combo 1",
+        "detail": "https://tekken.fandom.com/wiki/Wildman_Combo_1",
+        "command": "D+2,1,2",
+        "damage": "13,13,15",
+        "ranges": "lmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3c/Wildman_Combo_1.gif/revision/latest/scale-to-width-down/350?cb=20211008154408&path-prefix=en"
+    },
+    {
+        "name": "Scorpion's Claw",
+        "detail": "https://tekken.fandom.com/wiki/Scorpion%27s_Claw",
+        "command": "d,[2~1],2",
+        "damage": "15,22",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/dd/Scorpion%27s_Claw.gif/revision/latest/scale-to-width-down/350?cb=20220414220903&path-prefix=en"
+    },
+    {
+        "name": "Wildman Combo 2",
+        "detail": "https://tekken.fandom.com/wiki/Wildman_Combo_2",
+        "command": "d,[2~1],f+2",
+        "damage": "15,15",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/68/Wildman_Combo_2.gif/revision/latest/scale-to-width-down/350?cb=20211011110035&path-prefix=en"
+    },
+    {
+        "name": "Knee Clipper",
+        "detail": "https://tekken.fandom.com/wiki/Knee_Clipper",
+        "command": "d/b+2",
+        "damage": "21",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/19/Knee_Clipper.gif/revision/latest/scale-to-width-down/350?cb=20211008152754&path-prefix=en"
+    },
+    {
+        "name": "Foot Stomp",
+        "detail": "https://tekken.fandom.com/wiki/Foot_Stomp_(Steve)",
+        "command": "d/b+3",
+        "damage": "15",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/fc/Foot_Stomp_Steve.gif/revision/latest/scale-to-width-down/350?cb=20220609085817&path-prefix=en"
+    },
+    {
+        "name": "Foot Stomp Right Hook",
+        "detail": "https://tekken.fandom.com/wiki/Foot_Stomp_Right_Hook",
+        "command": "d/b+3,2",
+        "damage": "15,15",
+        "ranges": "lh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/63/Foot_Stomp_Right_Hook.gif/revision/latest/scale-to-width-down/350?cb=20220609090136&path-prefix=en"
+    },
+    {
+        "name": "Quick Hook",
+        "detail": "https://tekken.fandom.com/wiki/Quick_Hook_(Steve)",
+        "command": "b+1",
+        "damage": "18",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/34/Quick_Hook_Steve.gif/revision/latest/scale-to-width-down/350?cb=20221023140559&path-prefix=en"
+    },
+    {
+        "name": "Quick Hook to Flicker",
+        "detail": "https://tekken.fandom.com/wiki/Quick_Hook_to_Flicker_Stance",
+        "command": "b+1,B",
+        "damage": "18",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/27/Quick_Hook_to_Flicker_Stance.gif/revision/latest/scale-to-width-down/350?cb=20221011222511&path-prefix=en"
+    },
+    {
+        "name": "Left Hook Knee Clipper",
+        "detail": "https://tekken.fandom.com/wiki/Left_Hook_Knee_Clipper",
+        "command": "b+1,2",
+        "damage": "18,17",
+        "ranges": "hl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/96/Left_Hook_Knee_Clipper.gif/revision/latest/scale-to-width-down/350?cb=20221030145348&path-prefix=en"
+    },
+    {
+        "name": "Jaw Jolt",
+        "detail": "https://tekken.fandom.com/wiki/Jaw_Jolt",
+        "command": "b+2",
+        "damage": "22",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f2/Jaw_Jolt.gif/revision/latest/scale-to-width-down/350?cb=20220606121019&path-prefix=en"
+    },
+    {
+        "name": "Swaying",
+        "detail": "https://tekken.fandom.com/wiki/Swaying",
+        "command": "b+3 (or b+4)",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/89/Swaying.gif/revision/latest/scale-to-width-down/350?cb=20220507210150&path-prefix=en"
+    },
+    {
+        "name": "Flicker Stance",
+        "detail": "https://tekken.fandom.com/wiki/Flicker_Stance",
+        "command": "b+1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/38/Flicker_Stance.gif/revision/latest/scale-to-width-down/350?cb=20211014234709&path-prefix=en"
+    },
+    {
+        "name": "Over the Top",
+        "detail": "https://tekken.fandom.com/wiki/Over_the_Top",
+        "command": "u/f+1",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a6/Over_the_Top.gif/revision/latest/scale-to-width-down/350?cb=20221023141019&path-prefix=en"
+    },
+    {
+        "name": "Sky High",
+        "detail": "https://tekken.fandom.com/wiki/Sky_High",
+        "command": "u/f+2",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/33/Sky_High.gif/revision/latest/scale-to-width-down/350?cb=20221023142804&path-prefix=en"
+    },
+    {
+        "name": "Jump-in Foot Stomp",
+        "detail": "https://tekken.fandom.com/wiki/Jump-in_Foot_Stomp",
+        "command": "u/f (or u) +3",
+        "damage": "24",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/ed/Jump-in_Foot_Stomp.gif/revision/latest/scale-to-width-down/350?cb=20220521155902&path-prefix=en"
+    },
+    {
+        "name": "Jump-in Foot Stomp Right Hook",
+        "detail": "https://tekken.fandom.com/wiki/Jump-in_Foot_Stomp_Right_Hook",
+        "command": "u/f (or u) +3,2",
+        "damage": "24,15",
+        "ranges": "lh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f8/Jump-in_Foot_Stomp_Right_Hook.gif/revision/latest/scale-to-width-down/350?cb=20220414210215&path-prefix=en"
+    },
+    {
+        "name": "Jumping Duck Kick",
+        "detail": "https://tekken.fandom.com/wiki/Jumping_Duck_Kick",
+        "command": "u/f+4",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/da/Jumping_Duck_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220609090457&path-prefix=en"
+    },
+    {
+        "name": "Dashing Straight",
+        "detail": "https://tekken.fandom.com/wiki/Dashing_Straight",
+        "command": "f,f+2",
+        "damage": "30",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c8/Dashing_Straight.gif/revision/latest/scale-to-width-down/350?cb=20221023141218&path-prefix=en"
+    },
+    {
+        "name": "Beat Down",
+        "detail": "https://tekken.fandom.com/wiki/Beat_Down",
+        "command": "f,f,N,2",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d3/Beat_Down.gif/revision/latest/scale-to-width-down/350?cb=20220507213509&path-prefix=en"
+    },
+    {
+        "name": "Rocket Launcher",
+        "detail": "https://tekken.fandom.com/wiki/Rocket_Launcher",
+        "command": "d,d/f,f+1",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4c/Rocket_Launcher.gif/revision/latest/scale-to-width-down/350?cb=20220415141840&path-prefix=en"
+    },
+    {
+        "name": "Rocket Launcher to Flicker",
+        "detail": "https://tekken.fandom.com/wiki/Rocket_Launcher_to_Flicker_Stance",
+        "command": "d,d/f,f+1,B",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e1/Rocker_Launcher_to_Flicker_Stance.gif/revision/latest/scale-to-width-down/350?cb=20220706185021&path-prefix=en"
+    },
+    {
+        "name": "Can Opener",
+        "detail": "https://tekken.fandom.com/wiki/Can_Opener_(Steve)",
+        "command": "qcb+1+2",
+        "damage": "35",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/14/Can_Opener_Steve.gif/revision/latest/scale-to-width-down/350?cb=20221029143519&path-prefix=en"
+    },
+    {
+        "name": "Hellfire",
+        "detail": "https://tekken.fandom.com/wiki/Hellfire",
+        "command": "d,d/b,b,f+2",
+        "damage": "70",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f2/Hellfire.gif/revision/latest/scale-to-width-down/350?cb=20210313034303&path-prefix=en"
+    },
+    {
+        "name": "Eraser",
+        "detail": "https://tekken.fandom.com/wiki/Eraser",
+        "command": "f,f,f+2",
+        "damage": "24",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e4/Eraser.gif/revision/latest/scale-to-width-down/350?cb=20220507213852&path-prefix=en"
+    },
+    {
+        "name": "Sliding Low Punch",
+        "detail": "https://tekken.fandom.com/wiki/Sliding_Low_Punch",
+        "command": "Run more than three steps 1",
+        "damage": "17",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2f/Sliding_Low_Punch.gif/revision/latest/scale-to-width-down/350?cb=20220507214054&path-prefix=en"
+    },
+    {
+        "name": "Wildman",
+        "detail": "https://tekken.fandom.com/wiki/Wildman",
+        "command": "WS+1,2",
+        "damage": "13,22",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7d/Wildman.gif/revision/latest/scale-to-width-down/350?cb=20220825232702&path-prefix=en"
+    },
+    {
+        "name": "Cheapshot",
+        "detail": "https://tekken.fandom.com/wiki/Cheapshot",
+        "command": "(With opponent down) d+1+2",
+        "damage": "12",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/62/Cheapshot.gif/revision/latest/scale-to-width-down/350?cb=20220508181403&path-prefix=en"
+    }
+]

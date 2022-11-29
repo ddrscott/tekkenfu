@@ -1,0 +1,410 @@
+[
+    {
+        "name": "Flash Punch Combo",
+        "detail": "https://tekken.fandom.com/wiki/Flash_Punch_Combo",
+        "command": "1,1,2",
+        "damage": "5,6,11",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b1/80a1aab80b48.gif/revision/latest/scale-to-width-down/350?cb=20210604182238&path-prefix=en"
+    },
+    {
+        "name": "Left Right Combo",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Combo",
+        "command": "1,2",
+        "damage": "5,8",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/96/Paul_Left_Right.gif/revision/latest/scale-to-width-down/350?cb=20201127133317&path-prefix=en"
+    },
+    {
+        "name": "Demon Slayer",
+        "detail": "https://tekken.fandom.com/wiki/Demon_Slayer_(Mishima)",
+        "command": "1,2,2",
+        "damage": "5,8,12",
+        "ranges": "hhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/25/DmnSlyr.gif/revision/latest?cb=20140713172825&path-prefix=en"
+    },
+    {
+        "name": "Twin Fang Stature Smash",
+        "detail": "https://tekken.fandom.com/wiki/Twin_Fang_Stature_Smash",
+        "command": "1,2,4",
+        "damage": "5,8,10",
+        "ranges": "hhl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/33/Twin_Fang_Stature_Smash.gif/revision/latest/scale-to-width-down/350?cb=20210601144607&path-prefix=en"
+    },
+    {
+        "name": "Demon Backhand Spin",
+        "detail": "https://tekken.fandom.com/wiki/Demon_Backhand_Spin",
+        "command": "2,2",
+        "damage": "10,12",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/42/Demonbackahndspin.gif/revision/latest?cb=20150110120752&path-prefix=en"
+    },
+    {
+        "name": "Front Kick to Jab",
+        "detail": "https://tekken.fandom.com/wiki/Front_Kick_to_Jab",
+        "command": "3,1",
+        "damage": "18,5",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d9/Front_Kick_to_Jab.gif/revision/latest/scale-to-width-down/350?cb=20210603222144&path-prefix=en"
+    },
+    {
+        "name": "Demon Scissors",
+        "detail": "https://tekken.fandom.com/wiki/Demon_Scissors",
+        "command": "[4~3]",
+        "damage": "25,17",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e2/DScisscorskazuya.gif/revision/latest?cb=20150104015609&path-prefix=en"
+    },
+    {
+        "name": "Ki Charge",
+        "detail": "https://tekken.fandom.com/wiki/Supercharger",
+        "command": "1+2+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4f/E24Ks_Tekken_Tag_Tournament_-_Ganryu_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20201128143016&path-prefix=en"
+    },
+    {
+        "name": "Soul Thrust",
+        "detail": "https://tekken.fandom.com/wiki/Soul_Thrust",
+        "command": "f+2",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/69/572d1ac614c0.gif/revision/latest/scale-to-width-down/350?cb=20210605123038&path-prefix=en"
+    },
+    {
+        "name": "Right Splits Kick",
+        "detail": "https://tekken.fandom.com/wiki/Right_Splits_Kick",
+        "command": "f+4",
+        "damage": "27",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/16/KazuyaRSKick.gif/revision/latest?cb=20150110123926&path-prefix=en"
+    },
+    {
+        "name": "Glorious Demon God Fist",
+        "detail": "https://tekken.fandom.com/wiki/Glorious_Demon_God_Fist",
+        "command": "f+1+2",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b2/Glorious_Demon_God_Fist.gif/revision/latest/scale-to-width-down/350?cb=20210606160359&path-prefix=en"
+    },
+    {
+        "name": "Soul Annihilator",
+        "detail": "https://tekken.fandom.com/wiki/Soul_Annihilator",
+        "command": "f+1+2,f+2",
+        "damage": "25,18",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/36/1db081d9d36a.gif/revision/latest/scale-to-width-down/350?cb=20210628180341&path-prefix=en"
+    },
+    {
+        "name": "Entrails Smash",
+        "detail": "https://tekken.fandom.com/wiki/Entrails_Smash",
+        "command": "d/f+1",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0b/Entrails_Smash.gif/revision/latest/scale-to-width-down/350?cb=20210610190423&path-prefix=en"
+    },
+    {
+        "name": "Slaughter Hook",
+        "detail": "https://tekken.fandom.com/wiki/Slaughter_Hook",
+        "command": "d/f+1,2",
+        "damage": "15,11",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b6/Slaughter_Hook.gif/revision/latest/scale-to-width-down/350?cb=20210714222132&path-prefix=en"
+    },
+    {
+        "name": "Slaughter High Kick",
+        "detail": "https://tekken.fandom.com/wiki/Slaughter_High_Kick",
+        "command": "d/f+1,4",
+        "damage": "15,10",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f6/Slaighter_High_Kick.gif/revision/latest/scale-to-width-down/350?cb=20210831220829&path-prefix=en"
+    },
+    {
+        "name": "Devastator",
+        "detail": "https://tekken.fandom.com/wiki/Devastator",
+        "command": "d/f+1,f+2",
+        "damage": "15,18",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/de/Devastator.gif/revision/latest/scale-to-width-down/350?cb=20210702170548&path-prefix=en"
+    },
+    {
+        "name": "Abolishing Fist",
+        "detail": "https://tekken.fandom.com/wiki/Abolishing_Fist",
+        "command": "d/f+2",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3a/Ahha6.gif/revision/latest?cb=20140721161012&path-prefix=en"
+    },
+    {
+        "name": "Impaling Knee",
+        "detail": "https://tekken.fandom.com/wiki/Impaling_Knee",
+        "command": "d/f+3",
+        "damage": "17",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/03/174d8263c4c4.gif/revision/latest/scale-to-width-down/350?cb=20210714224007&path-prefix=en"
+    },
+    {
+        "name": "Lion Slayer",
+        "detail": "https://tekken.fandom.com/wiki/Lion_Slayer",
+        "command": "d/b+2",
+        "damage": "23",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0c/Lion_Slayer.gif/revision/latest/scale-to-width-down/350?cb=20210825154953&path-prefix=en"
+    },
+    {
+        "name": "Sliding Low Kick",
+        "detail": "https://tekken.fandom.com/wiki/Sliding_Low_Kick",
+        "command": "d/b+3",
+        "damage": "12",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d7/Sliding_Low_Kick.gif/revision/latest/scale-to-width-down/350?cb=20210702164720&path-prefix=en"
+    },
+    {
+        "name": "Stature Smash",
+        "detail": "https://tekken.fandom.com/wiki/Stature_Smash",
+        "command": "d/b+4",
+        "damage": "19",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/52/B588154c9561.gif/revision/latest/scale-to-width-down/350?cb=20210507172057&path-prefix=en"
+    },
+    {
+        "name": "Skull Splitter",
+        "detail": "https://tekken.fandom.com/wiki/Skull_Splitter_(Kazuya)",
+        "command": "b+1",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/27/Tekken_5_Dark_Resurrection_Kazuya_Mishima_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20210825032249&path-prefix=en"
+    },
+    {
+        "name": "Rampaging Demon",
+        "detail": "https://tekken.fandom.com/wiki/Rampaging_Demon",
+        "command": "b+2,4,1",
+        "damage": "12,12,22",
+        "ranges": "mhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c1/Ahtm4.gif/revision/latest?cb=20140721231323&path-prefix=en"
+    },
+    {
+        "name": "Demon's Wrath",
+        "detail": "https://tekken.fandom.com/wiki/Demon%27s_Wrath",
+        "command": "b+3,1,4,1",
+        "damage": "17,10,12,17",
+        "ranges": "hhlm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2e/948260727885.gif/revision/latest/scale-to-width-down/350?cb=20210705110732&path-prefix=en"
+    },
+    {
+        "name": "Roundhouse",
+        "detail": "https://tekken.fandom.com/wiki/Roundhouse_(Kazuya)",
+        "command": "b+4",
+        "damage": "18",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f0/Roundhouse.gif/revision/latest/scale-to-width-down/350?cb=20210928182145&path-prefix=en"
+    },
+    {
+        "name": "Lightning Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Lightning_Uppercut",
+        "command": "b+1+4",
+        "damage": "40",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/77/LU_TK2.gif/revision/latest/scale-to-width-down/350?cb=20211018203309&path-prefix=en"
+    },
+    {
+        "name": "Lightning Screw Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Lightning_Screw_Uppercut",
+        "command": "B+1+4",
+        "damage": "80",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f0/Lightning_Screw_Uppercut_TK2.gif/revision/latest/scale-to-width-down/350?cb=20211019152145&path-prefix=en"
+    },
+    {
+        "name": "Searing Edge",
+        "detail": "https://tekken.fandom.com/wiki/Searing_Edge",
+        "command": "u/f+3",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0b/033d6c40fe5.gif/revision/latest/scale-to-width-down/350?cb=20210620151433&path-prefix=en"
+    },
+    {
+        "name": "Rising Sun",
+        "detail": "https://tekken.fandom.com/wiki/Rising_Sun",
+        "command": "u/f+4,4",
+        "damage": "25,15",
+        "ranges": "ml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ae/2538ada13058.gif/revision/latest/scale-to-width-down/350?cb=20201203181305&path-prefix=en"
+    },
+    {
+        "name": "Roundhouse to Triple Spin Kick",
+        "detail": "https://tekken.fandom.com/wiki/Roundhouse_to_Triple_Spin_Kicks",
+        "command": "u/f+4,4,4,4",
+        "damage": "25,15,12,25",
+        "ranges": "mllm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8f/Aa6ki.gif/revision/latest?cb=20140713164826&path-prefix=en"
+    },
+    {
+        "name": "Demon Cutter",
+        "detail": "https://tekken.fandom.com/wiki/Demon_Cutter",
+        "command": "f,f+2",
+        "damage": "23",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/11/Demon_Cutter.gif/revision/latest/scale-to-width-down/350?cb=20210929205521&path-prefix=en"
+    },
+    {
+        "name": "Left Splits Kick",
+        "detail": "https://tekken.fandom.com/wiki/Left_Splits_Kick",
+        "command": "f,f+3",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/55/G86zh.gif/revision/latest?cb=20150110132200&path-prefix=en"
+    },
+    {
+        "name": "Spinning Backfist",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_Backfist_(Kazuya)",
+        "command": "b,b+2",
+        "damage": "25",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/70/Spinning_Backfist.gif/revision/latest/scale-to-width-down/350?cb=20210929155748&path-prefix=en"
+    },
+    {
+        "name": "Mist Step",
+        "detail": "https://tekken.fandom.com/wiki/Mist_Step_(Kazuya)",
+        "command": "f,N",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/aa/Mist_Step.gif/revision/latest/scale-to-width-down/350?cb=20220418134655&path-prefix=en"
+    },
+    {
+        "name": "Dragon Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Uppercut_(Mishima)",
+        "command": "f,N,d,d/f+1",
+        "damage": "29",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/ff/HeihachiDuppercut.gif/revision/latest?cb=20150110140601&path-prefix=en"
+    },
+    {
+        "name": "Dragon Uppercut to Middle Kick",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Uppercut_to_Middle_Kick",
+        "command": "f,N,d,d/f+1,3",
+        "damage": "29,20",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a4/Dragon_Uppercut_to_Middle_Kick.gif/revision/latest/scale-to-width-down/350?cb=20210517134723&path-prefix=en"
+    },
+    {
+        "name": "Dragon Uppercut to Spinning Low Kick",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Uppercut_to_Spinning_Low_Kick",
+        "command": "f,N,d,d/f+1,4",
+        "damage": "29,12",
+        "ranges": "ml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1f/Fa0429caa476.gif/revision/latest/scale-to-width-down/350?cb=20210517143436&path-prefix=en"
+    },
+    {
+        "name": "Rising Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Rising_Uppercut",
+        "command": "f,N,d,d/f+2",
+        "damage": "23",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/80/4a9ec7e98443.gif/revision/latest/scale-to-width-down/350?cb=20210715120957&path-prefix=en"
+    },
+    {
+        "name": "Electric Wind Godfist",
+        "detail": "https://tekken.fandom.com/wiki/Electric_Wind_Godfist",
+        "command": "f,N,d,d/f+2 (press at the same time)",
+        "damage": "25",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b1/9b3fe5b23a5e.gif/revision/latest/scale-to-width-down/350?cb=20210615152349&path-prefix=en"
+    },
+    {
+        "name": "Hell Lancer",
+        "detail": "https://tekken.fandom.com/wiki/Hell_Lancer",
+        "command": "f,N,d,d/f+3",
+        "damage": "35",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/06/HellLancer.gif/revision/latest?cb=20140722015554&path-prefix=en"
+    },
+    {
+        "name": "Spinning Demon to Left Hook",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_Demon_to_Left_Hook",
+        "command": "f,N,d,d/f+4,1",
+        "damage": "15,25",
+        "ranges": "lm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/77/3f06586d7c4c.gif/revision/latest/scale-to-width-down/350?cb=20210729225050&path-prefix=en"
+    },
+    {
+        "name": "Spinning Demon",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_Demon_(Kazuya_Mishima)",
+        "command": "f,N,d,d/f+4,4",
+        "damage": "15,12",
+        "ranges": "ll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8e/SDmn.gif/revision/latest?cb=20140713173706&path-prefix=en"
+    },
+    {
+        "name": "Leaping Sidekick",
+        "detail": "https://tekken.fandom.com/wiki/Leaping_Sidekick",
+        "command": "f,f,f+3",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/db/Slash3.gif/revision/latest?cb=20140714022617&path-prefix=en"
+    },
+    {
+        "name": "Twin Pistons",
+        "detail": "https://tekken.fandom.com/wiki/Twin_Pistons_(Kazuya)",
+        "command": "WS+1,2",
+        "damage": "10,15",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b0/Be7bn.gif/revision/latest?cb=20140822065000&path-prefix=en"
+    },
+    {
+        "name": "Demon God Fist",
+        "detail": "https://tekken.fandom.com/wiki/Demon_God_Fist",
+        "command": "WS+2",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/77/DGF.gif/revision/latest?cb=20140721151233&path-prefix=en"
+    },
+    {
+        "name": "Tombstone Crusher",
+        "detail": "https://tekken.fandom.com/wiki/Tombstone_Crusher",
+        "command": "FC+d/f+3+4",
+        "damage": "27",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/be/Tombstone_Crusher.gif/revision/latest/scale-to-width-down/350?cb=20210929210749&path-prefix=en"
+    },
+    {
+        "name": "Jaw Breaker",
+        "detail": "https://tekken.fandom.com/wiki/Jaw_Breaker_(Kazuya)",
+        "command": "During side step 1+2",
+        "damage": "18",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7b/396d74c56a89.gif/revision/latest/scale-to-width-down/350?cb=20210801181748&path-prefix=en"
+    },
+    {
+        "name": "Oni Stomp",
+        "detail": "https://tekken.fandom.com/wiki/Oni_Stomp",
+        "command": "d+4 (With the opponent down)",
+        "damage": "21",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/64/2d6e24e40ac5.gif/revision/latest/scale-to-width-down/350?cb=20210201220133&path-prefix=en"
+    },
+    {
+        "name": "f,f,N,2, 1, 2, 2, 3, 4, 4, 1, 2, 1",
+        "detail": "https://tekken.fandom.com/wiki/Mishima_style_10-hit_combo",
+        "command": "f,f,N,2, 1, 2, 2, 3, 4, 4, 1, 2, 1",
+        "damage": "93",
+        "ranges": "hhhhmmlhmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8b/E64729d883.gif/revision/latest/scale-to-width-down/350?cb=20221012123318&path-prefix=en"
+    },
+    {
+        "name": "f,f+2,1,2,2,3,4,4,3,2,1",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_2_(Kazuya_Mishima)",
+        "command": "f,f+2,1,2,2,3,4,4,3,2,1",
+        "damage": "110",
+        "ranges": "hhhhmmllm!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/25/Cefc3f500726.gif/revision/latest/scale-to-width-down/350?cb=20210803214055&path-prefix=en"
+    },
+    {
+        "name": "f,f,N,2, 1, 4, 4, 2, 4, 3, 2, 1",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_3_(Kazuya_Mishima)",
+        "command": "f,f,N,2, 1, 4, 4, 2, 4, 3, 2, 1",
+        "damage": "99",
+        "ranges": "hhmmlmlm!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d9/2e609a4746.gif/revision/latest/scale-to-width-down/350?cb=20221009222629&path-prefix=en"
+    }
+]

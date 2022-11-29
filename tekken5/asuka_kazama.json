@@ -1,0 +1,538 @@
+[
+    {
+        "name": "Whiplash",
+        "detail": "https://tekken.fandom.com/wiki/Whiplash",
+        "command": "1,1",
+        "damage": "6,15",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8f/0f43ce68ce8f.gif/revision/latest?cb=20210210191816&path-prefix=en"
+    },
+    {
+        "name": "Jab Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Jab_Uppercut_(Asuka_and_Jun)",
+        "command": "1,2",
+        "damage": "6,10",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/89/Jab_Uppercut_%28TK2%29.gif/revision/latest/scale-to-width-down/350?cb=20210420111528&path-prefix=en"
+    },
+    {
+        "name": "Jab Uppercut to Spinning Heel Drop",
+        "detail": "https://tekken.fandom.com/wiki/Jab_Uppercut_to_Spinning_Heel_Drop",
+        "command": "1,2,3",
+        "damage": "6,10,28",
+        "ranges": "hmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e6/Jab_Uppercut_to_Spinning_Heel_Drop.gif/revision/latest/scale-to-width-down/350?cb=20220130170916&path-prefix=en"
+    },
+    {
+        "name": "Jab Uppercut to Front Kick",
+        "detail": "https://tekken.fandom.com/wiki/Jab_Uppercut_to_Front_Kick",
+        "command": "1,2,4",
+        "damage": "6,10,20",
+        "ranges": "hmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4e/Jab_Uppercut_to_Front_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220130123319&path-prefix=en"
+    },
+    {
+        "name": "Jab Low Kick",
+        "detail": "https://tekken.fandom.com/wiki/Jab_Low_Kick_(Asuka_and_Jun)",
+        "command": "1,3",
+        "damage": "6,10",
+        "ranges": "hl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/87/Jab_Low_Kick_%28TK2%29.gif/revision/latest/scale-to-width-down/350?cb=20210420082928&path-prefix=en"
+    },
+    {
+        "name": "Jab Leg Cutter",
+        "detail": "https://tekken.fandom.com/wiki/Jab_Leg_Cutter",
+        "command": "1,4",
+        "damage": "6,14",
+        "ranges": "hl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/ea/Jab_Leg_Cutter.gif/revision/latest/scale-to-width-down/350?cb=20211206221830&path-prefix=en"
+    },
+    {
+        "name": "Piercing Spear",
+        "detail": "https://tekken.fandom.com/wiki/Piercing_Spear_(Asuka)",
+        "command": "3",
+        "damage": "12",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/61/Piercing_Spear_Asuka.gif/revision/latest/scale-to-width-down/350?cb=20211222144259&path-prefix=en"
+    },
+    {
+        "name": "Sacred Blade",
+        "detail": "https://tekken.fandom.com/wiki/Sacred_Blade",
+        "command": "[3~4]",
+        "damage": "22",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1e/Sacred_Blade.gif/revision/latest/scale-to-width-down/350?cb=20220130122455&path-prefix=en"
+    },
+    {
+        "name": "Inner Strength",
+        "detail": "https://tekken.fandom.com/wiki/Inner_Strength",
+        "command": "1+2",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5e/Inner_Strength_%28Asuka%29.gif/revision/latest/scale-to-width-down/350?cb=20211019020802&path-prefix=en"
+    },
+    {
+        "name": "Thunder Fall Kick",
+        "detail": "https://tekken.fandom.com/wiki/Thunder_Fall_Kick",
+        "command": "3+4",
+        "damage": "10,21",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/66/B31e1e44604d.gif/revision/latest/scale-to-width-down/350?cb=20201126143929&path-prefix=en"
+    },
+    {
+        "name": "Wheel Kick",
+        "detail": "https://tekken.fandom.com/wiki/Wheel_Kick",
+        "command": "2+3",
+        "damage": "21",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d1/Wheel_Kick.gif/revision/latest/scale-to-width-down/350?cb=20211206222445&path-prefix=en"
+    },
+    {
+        "name": "Blizzard Combo",
+        "detail": "https://tekken.fandom.com/wiki/Blizzard_Combo",
+        "command": "1+4,2,1",
+        "damage": "5,8,10,12",
+        "ranges": "lhhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/10/Blizzard_Combo.gif/revision/latest/scale-to-width-down/350?cb=20211206193443&path-prefix=en"
+    },
+    {
+        "name": "White Heron Dance",
+        "detail": "https://tekken.fandom.com/wiki/White_Heron_Dance",
+        "command": "1+4,2,4",
+        "damage": "5,8,10,23",
+        "ranges": "lhhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ab/E24Ks_Tekken_Tag_Tournament_-_Jun_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20210125225846&path-prefix=en"
+    },
+    {
+        "name": "White Heron Lower Dance",
+        "detail": "https://tekken.fandom.com/wiki/White_Heron_Lower_Dance",
+        "command": "1+4,2,d+4",
+        "damage": "5,8,10,18",
+        "ranges": "lhhl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3d/White_Heron_Lower_Dance.gif/revision/latest/scale-to-width-down/350?cb=20210925134846&path-prefix=en"
+    },
+    {
+        "name": "Lunging Mist Thrust",
+        "detail": "https://tekken.fandom.com/wiki/Lunging_Mist_Thrust",
+        "command": "f+1",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0e/C23bc2c66651.gif/revision/latest?cb=20210204144650&path-prefix=en"
+    },
+    {
+        "name": "Demon Slayer",
+        "detail": "https://tekken.fandom.com/wiki/Demon_Slayer_(Kazama)",
+        "command": "f+2",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d6/Demon_Slayer.gif/revision/latest/scale-to-width-down/350?cb=20210426124756&path-prefix=en"
+    },
+    {
+        "name": "Spinning Heel Drop",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_Heel_Drop",
+        "command": "f+3",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/12/Spinning_Heel_Drop_TK2.gif/revision/latest/scale-to-width-down/350?cb=20211019142317&path-prefix=en"
+    },
+    {
+        "name": "Spinning Heel Drop",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_Heel_Drop",
+        "command": "f+3 Maintain",
+        "damage": "50",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/12/Spinning_Heel_Drop_TK2.gif/revision/latest/scale-to-width-down/350?cb=20211019142317&path-prefix=en"
+    },
+    {
+        "name": "Back Spin Kick",
+        "detail": "https://tekken.fandom.com/wiki/Back_Spin_Kick",
+        "command": "f+4",
+        "damage": "25",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9a/7b3daf20aa98.gif/revision/latest/scale-to-width-down/350?cb=20210522161314&path-prefix=en"
+    },
+    {
+        "name": "Exorcisor",
+        "detail": "https://tekken.fandom.com/wiki/Exorcisor",
+        "command": "f+1+2",
+        "damage": "32",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/68/Exorcisor.gif/revision/latest/scale-to-width-down/350?cb=20210915062423&path-prefix=en"
+    },
+    {
+        "name": "Falling Tower",
+        "detail": "https://tekken.fandom.com/wiki/Falling_Tower",
+        "command": "d/f+1,2",
+        "damage": "10,13,18",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d3/25cd3882b469.gif/revision/latest/scale-to-width-down/350?cb=20210530154746&path-prefix=en"
+    },
+    {
+        "name": "Step-in Rising Palm",
+        "detail": "https://tekken.fandom.com/wiki/Rising_Palm_(Asuka)",
+        "command": "d/f+2",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1c/Rising_Palm.gif/revision/latest/scale-to-width-down/350?cb=20220104220945&path-prefix=en"
+    },
+    {
+        "name": "Minazuki",
+        "detail": "https://tekken.fandom.com/wiki/Minazuki",
+        "command": "d/f+3",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4a/6d15d67f200c.gif/revision/latest?cb=20210122232933&path-prefix=en"
+    },
+    {
+        "name": "Raging Storm",
+        "detail": "https://tekken.fandom.com/wiki/Raging_Storm_(Asuka)",
+        "command": "d/f+1+2",
+        "damage": "10,22",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/06/Raging_Storm_Asuka.gif/revision/latest/scale-to-width-down/350?cb=20220130170249&path-prefix=en"
+    },
+    {
+        "name": "Heaven's Hammer",
+        "detail": "https://tekken.fandom.com/wiki/Heaven%27s_Hammer",
+        "command": "d+2",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/21/Heaven%27s_Hammer.gif/revision/latest/scale-to-width-down/350?cb=20211223184514&path-prefix=en"
+    },
+    {
+        "name": "Double Lift Kicks",
+        "detail": "https://tekken.fandom.com/wiki/Double_Lift_Kick_(Kazama)",
+        "command": "d+3+4",
+        "damage": "5,20",
+        "ranges": "lh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a8/E24Ks_Tekken_Tag_Tournament_-_Jin_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20210201133953&path-prefix=en"
+    },
+    {
+        "name": "Funeral Palm",
+        "detail": "https://tekken.fandom.com/wiki/Funeral_Palm",
+        "command": "d/b+2",
+        "damage": "16",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d7/Funeral_Palm.gif/revision/latest/scale-to-width-down/350?cb=20211016124230&path-prefix=en"
+    },
+    {
+        "name": "Enchanted Circle",
+        "detail": "https://tekken.fandom.com/wiki/Enchanted_Circle",
+        "command": "d/b+3",
+        "damage": "15",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7c/Enchanted_Circle.gif/revision/latest/scale-to-width-down/350?cb=20211216182252&path-prefix=en"
+    },
+    {
+        "name": "Leg Cutter",
+        "detail": "https://tekken.fandom.com/wiki/Leg_Cutter",
+        "command": "d/b+4",
+        "damage": "14",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2d/Leg_Cutter.gif/revision/latest/scale-to-width-down/350?cb=20210306115445&path-prefix=en"
+    },
+    {
+        "name": "Violet",
+        "detail": "https://tekken.fandom.com/wiki/Violet_(Move)",
+        "command": "b+1",
+        "damage": "16",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/62/Violet_M.gif/revision/latest/scale-to-width-down/350?cb=20210810173921&path-prefix=en"
+    },
+    {
+        "name": "Sumiregari",
+        "detail": "https://tekken.fandom.com/wiki/Sumiregari",
+        "command": "During Counterattack b+1",
+        "damage": "16",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/92/Sumiregari_%28Jun_TTT%29.gif/revision/latest/scale-to-width-down/350?cb=20220131205039&path-prefix=en"
+    },
+    {
+        "name": "Swallow Mallet",
+        "detail": "https://tekken.fandom.com/wiki/Swallow_Mallet",
+        "command": "b+2",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/83/664b07ebee42.gif/revision/latest/scale-to-width-down/350?cb=20210115113630&path-prefix=en"
+    },
+    {
+        "name": "Swallow Mallet to Lunging Mist Thrust",
+        "detail": "https://tekken.fandom.com/wiki/Swallow_Mallet_to_Lunging_Mist_Thrust",
+        "command": "b+2,1",
+        "damage": "12,15",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6d/Swallow_Mallet_to_Lunging_Mist_Thrust.gif/revision/latest/scale-to-width-down/350?cb=20211015223836&path-prefix=en"
+    },
+    {
+        "name": "Swallow Mallet to Leg Cutter",
+        "detail": "https://tekken.fandom.com/wiki/Swallow_Mallet_to_Leg_Cutter",
+        "command": "b+2,4",
+        "damage": "12,14",
+        "ranges": "ml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/14/Swallow_Mallet_to_Sweeps.gif/revision/latest/scale-to-width-down/350?cb=20210914214945&path-prefix=en"
+    },
+    {
+        "name": "Swallow Mallet Elbow",
+        "detail": "https://tekken.fandom.com/wiki/Swallow_Mallet_Elbow",
+        "command": "b+2,1+2",
+        "damage": "12,13",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e1/Swallow_Mallet_Elbow_TTT.gif/revision/latest/scale-to-width-down/350?cb=20210912131449&path-prefix=en"
+    },
+    {
+        "name": "Dragon Wheel Kick",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Wheel_Kick",
+        "command": "b+3",
+        "damage": "20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/58/1ea16095aea8.gif/revision/latest/scale-to-width-down/350?cb=20210202143131&path-prefix=en"
+    },
+    {
+        "name": "Dragon Wheel Kick Demon Slayer",
+        "detail": "https://tekken.fandom.com/wiki/Windmill_Kick_Tooth_Fairy",
+        "command": "b+3,2",
+        "damage": "20,14",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/dc/Windmill_Kick_Demon_Slayer.gif/revision/latest/scale-to-width-down/350?cb=20210427130322&path-prefix=en"
+    },
+    {
+        "name": "Dragon Wheel Leg Cutter",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Wheel_Leg_Cutter",
+        "command": "b+3,4",
+        "damage": "20,9",
+        "ranges": "ml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/50/Dragon_Wheel_Leg_Cutter_TK2.gif/revision/latest?cb=20210419194758&path-prefix=en"
+    },
+    {
+        "name": "Heart Stopper",
+        "detail": "https://tekken.fandom.com/wiki/Heart_Stopper",
+        "command": "b+4",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/71/Heart_Stopper.gif/revision/latest/scale-to-width-down/350?cb=20211026120228&path-prefix=en"
+    },
+    {
+        "name": "Iwato",
+        "detail": "https://tekken.fandom.com/wiki/Iwato",
+        "command": "u/f (or u or u/b) +3",
+        "damage": "16",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/Iwato.gif/revision/latest/scale-to-width-down/350?cb=20211022134225&path-prefix=en"
+    },
+    {
+        "name": "Night Sky",
+        "detail": "https://tekken.fandom.com/wiki/Night_Sky",
+        "command": "u/f (or u or u/b) +4",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b0/Night_Sky.gif/revision/latest/scale-to-width-down/350?cb=20210923093554&path-prefix=en"
+    },
+    {
+        "name": "Mist Palm Thrust",
+        "detail": "https://tekken.fandom.com/wiki/Mist_Palm_Thrust",
+        "command": "f,f+2",
+        "damage": "23",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5c/Bf9dd2f9fb41.gif/revision/latest/scale-to-width-down/350?cb=20210116235537&path-prefix=en"
+    },
+    {
+        "name": "Leaping Spin Kick",
+        "detail": "https://tekken.fandom.com/wiki/Leaping_Spin_Kick",
+        "command": "f,f+4",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f7/Leaping_Spin_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220104222059&path-prefix=en"
+    },
+    {
+        "name": "Violet Strength",
+        "detail": "https://tekken.fandom.com/wiki/Violet_Strength",
+        "command": "WS+1",
+        "damage": "19",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/fc/Violet_Strenght.gif/revision/latest/scale-to-width-down/350?cb=20211205194110&path-prefix=en"
+    },
+    {
+        "name": "Rising Elbow",
+        "detail": "https://tekken.fandom.com/wiki/Rising_Elbow",
+        "command": "WS+2",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8e/Rising_Elbow.gif/revision/latest/scale-to-width-down/350?cb=20220130171922&path-prefix=en"
+    },
+    {
+        "name": "Moon Scent",
+        "detail": "https://tekken.fandom.com/wiki/Moon_Scent",
+        "command": "WS+3",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/31/5a0935b365e3.gif/revision/latest/scale-to-width-down/350?cb=20210727212505&path-prefix=en"
+    },
+    {
+        "name": "Tornado Kick",
+        "detail": "https://tekken.fandom.com/wiki/Tornado_Kick_(All)",
+        "command": "WS+f+3",
+        "damage": "25",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/13/Tornado_Kick.gif/revision/latest/scale-to-width-down/350?cb=20211207180628&path-prefix=en"
+    },
+    {
+        "name": "Twin Cloud Kicks",
+        "detail": "https://tekken.fandom.com/wiki/Twin_Cloud_Kicks",
+        "command": "FC+3+4,3",
+        "damage": "10,10,10,10",
+        "ranges": "mmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b3/Bb38d3537114.gif/revision/latest/scale-to-width-down/350?cb=20210212222857&path-prefix=en"
+    },
+    {
+        "name": "Grace",
+        "detail": "https://tekken.fandom.com/wiki/Grace",
+        "command": "FC+d/f+2",
+        "damage": "12",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/fe/3915c3a0a71e.gif/revision/latest/scale-to-width-down/350?cb=20210811152224&path-prefix=en"
+    },
+    {
+        "name": "Camellia",
+        "detail": "https://tekken.fandom.com/wiki/Camellia",
+        "command": "During side step 4",
+        "damage": "18",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/18/Camellia.gif/revision/latest/scale-to-width-down/350?cb=20210912140610&path-prefix=en"
+    },
+    {
+        "name": "Lunging Mist Thrust",
+        "detail": "https://tekken.fandom.com/wiki/Lunging_Mist_Thrust",
+        "command": "f+1",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0e/C23bc2c66651.gif/revision/latest?cb=20210204144650&path-prefix=en"
+    },
+    {
+        "name": "Whiplash to Toe Kick",
+        "detail": "https://tekken.fandom.com/wiki/Whiplash_to_Toe_Kick",
+        "command": "f+1,3",
+        "damage": "18,16",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1f/Whiplash_to_Toe_Kick_%28TK2%29.gif/revision/latest?cb=20210420140428&path-prefix=en"
+    },
+    {
+        "name": "Whiplash Combo",
+        "detail": "https://tekken.fandom.com/wiki/Whiplash_Combo",
+        "command": "f+1,3,1",
+        "damage": "18,16,6",
+        "ranges": "mmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/94/Whiplash_Combo.gif/revision/latest/scale-to-width-down/350?cb=20211205192210&path-prefix=en"
+    },
+    {
+        "name": "Whiplash Double Lift Upper",
+        "detail": "https://tekken.fandom.com/wiki/Whiplash_Double_Lift_Upper",
+        "command": "f+1,4",
+        "damage": "18,5,20",
+        "ranges": "mlh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7f/5e44bac85aa1.gif/revision/latest/scale-to-width-down/350?cb=20210616213801&path-prefix=en"
+    },
+    {
+        "name": "Whiplash Sacred Blade",
+        "detail": "https://tekken.fandom.com/wiki/Whiplash_Sacred_Blade",
+        "command": "f+1,d+4",
+        "damage": "18.22",
+        "ranges": "ml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/22/Whiplash_Sacred_Blade_TK5.gif/revision/latest/scale-to-width-down/350?cb=20210418215656&path-prefix=en"
+    },
+    {
+        "name": "Leg Cutter",
+        "detail": "https://tekken.fandom.com/wiki/Leg_Cutter",
+        "command": "d/b+4",
+        "damage": "14",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2d/Leg_Cutter.gif/revision/latest/scale-to-width-down/350?cb=20210306115445&path-prefix=en"
+    },
+    {
+        "name": "Leg Cutter Thunder Fall Kick",
+        "detail": "https://tekken.fandom.com/wiki/Leg_Cutter_Thunder_Fall_Kick",
+        "command": "d/b+4,3",
+        "damage": "14,10,21",
+        "ranges": "lmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/88/Leg_Cutter_Thunder_Fall_Kick_Asuka.gif/revision/latest/scale-to-width-down/350?cb=20210307025022&path-prefix=en"
+    },
+    {
+        "name": "Leg Cutter",
+        "detail": "https://tekken.fandom.com/wiki/Leg_Cutter",
+        "command": "d/b+4,4",
+        "damage": "14,16",
+        "ranges": "ll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2d/Leg_Cutter.gif/revision/latest/scale-to-width-down/350?cb=20210306115445&path-prefix=en"
+    },
+    {
+        "name": "Leg Cutter Thunder Fall Kick",
+        "detail": "https://tekken.fandom.com/wiki/Leg_Cutter_Thunder_Fall_Kick",
+        "command": "d/b+4,4,3",
+        "damage": "14,16,10,21",
+        "ranges": "llmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/88/Leg_Cutter_Thunder_Fall_Kick_Asuka.gif/revision/latest/scale-to-width-down/350?cb=20210307025022&path-prefix=en"
+    },
+    {
+        "name": "Leg Cutter",
+        "detail": "https://tekken.fandom.com/wiki/Leg_Cutter",
+        "command": "d/b+4,4,4",
+        "damage": "14,16,18",
+        "ranges": "lll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2d/Leg_Cutter.gif/revision/latest/scale-to-width-down/350?cb=20210306115445&path-prefix=en"
+    },
+    {
+        "name": "Leg Cutter Thunder Fall Kick",
+        "detail": "https://tekken.fandom.com/wiki/Leg_Cutter_Thunder_Fall_Kick",
+        "command": "d/b+4,4,4,3",
+        "damage": "14,16,18,10,21",
+        "ranges": "lllmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/88/Leg_Cutter_Thunder_Fall_Kick_Asuka.gif/revision/latest/scale-to-width-down/350?cb=20210307025022&path-prefix=en"
+    },
+    {
+        "name": "Leg Cutter Blizzard Combo",
+        "detail": "https://tekken.fandom.com/wiki/Leg_Cutter_Blizzard_Combo",
+        "command": "d/b+4,1+4,2,1",
+        "damage": "14,5,8,10,12",
+        "ranges": "llhhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/dd/Leg_Cutter_Blizzard_Combo.gif/revision/latest/scale-to-width-down/350?cb=20211206095511&path-prefix=en"
+    },
+    {
+        "name": "Leg Cutter White Heron Dance",
+        "detail": "https://tekken.fandom.com/wiki/Leg_Cutter_White_Heron_Dance",
+        "command": "d/b+4,1+4,2,4",
+        "damage": "14,5,8,10,23",
+        "ranges": "llhhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/11/Leg_Cutter_White_Heron_Dance.gif/revision/latest/scale-to-width-down/350?cb=20210915140231&path-prefix=en"
+    },
+    {
+        "name": "Leg Cutter White Heron Lower Dance",
+        "detail": "https://tekken.fandom.com/wiki/Leg_Cutter_White_Heron_Lower_Dance",
+        "command": "d/b+4,1+4,2,d+4",
+        "damage": "14,5,8,10,18",
+        "ranges": "llhhl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e0/Leg_Cutter_White_Heron_Lower_Dance.gif/revision/latest/scale-to-width-down/350?cb=20211210182546&path-prefix=en"
+    },
+    {
+        "name": "WS+2,1,1,1,2",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_3_(Jun_and_Asuka)",
+        "command": "WS+2,1,1,1,2",
+        "damage": "47",
+        "ranges": "mhmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/39/10_Hit_Combo_3_Kazama.gif/revision/latest/scale-to-width-down/350?cb=20210924170132&path-prefix=en"
+    },
+    {
+        "name": "WS+2,1,1,1,2,1,4,3,3+4",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_1_(Jun_and_Asuka)",
+        "command": "WS+2,1,1,1,2,1,4,3,3+4",
+        "damage": "116",
+        "ranges": "mhmmmlmlmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e6/75b08f1422.gif/revision/latest/scale-to-width-down/350?cb=20221113212412&path-prefix=en"
+    },
+    {
+        "name": "WS+2,1,1,1,2,1+4,1,3+4",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_2_(Jun_and_Asuka)",
+        "command": "WS+2,1,1,1,2,1+4,1,3+4",
+        "damage": "110",
+        "ranges": "mhmmmlhhlh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/be/E02012d7be.gif/revision/latest/scale-to-width-down/350?cb=20221029173014&path-prefix=en"
+    }
+]

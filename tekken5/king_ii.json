@@ -1,0 +1,562 @@
+[
+    {
+        "name": "Palm Attack",
+        "detail": "https://tekken.fandom.com/wiki/Palm_Attack",
+        "command": "1,2",
+        "damage": "6,15",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4c/E9eb07ee56e4.gif/revision/latest/scale-to-width-down/350?cb=20201213164514&path-prefix=en"
+    },
+    {
+        "name": "Palm Strike to Head Jammer",
+        "detail": "https://tekken.fandom.com/wiki/Palm_Strike_to_Head_Jammer",
+        "command": "1,2,2+4",
+        "damage": "6,15,30",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8c/Ea21ea5777.gif/revision/latest/scale-to-width-down/350?cb=20221027123448&path-prefix=en"
+    },
+    {
+        "name": "Palm Strike to Jumping Power Bomb",
+        "detail": "https://tekken.fandom.com/wiki/Palm_Strike_to_V_Driver",
+        "command": "1,2,d+2+4",
+        "damage": "6,15,45",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/42/36fc1d4f39.gif/revision/latest/scale-to-width-down/350?cb=20221028234712&path-prefix=en"
+    },
+    {
+        "name": "Palm Attack to Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Palm_Attack_to_Uppercut",
+        "command": "1,2,1",
+        "damage": "6,15,10",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b8/Tekken_2_-_Alex_Roger_Video_Move_List_%28Quick_Showcase%29.gif/revision/latest/scale-to-width-down/350?cb=20201016132014&path-prefix=en"
+    },
+    {
+        "name": "Palm Upper to Suplex",
+        "detail": "https://tekken.fandom.com/wiki/Palm_Upper_to_Suplex",
+        "command": "1,2,1,2+4",
+        "damage": "6,15,10,40",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f1/Palm_Upper_to_Suplex.gif/revision/latest/scale-to-width-down/350?cb=20210726045240&path-prefix=en"
+    },
+    {
+        "name": "Palm Upper to Jumping Power Bomb",
+        "detail": "https://tekken.fandom.com/wiki/Palm_Upper_to_Jumping_Power_Bomb",
+        "command": "1,2,1,d+2+4",
+        "damage": "6,15,10,45",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e7/Palm_Upper_to_Jumping_Power_Bomb.gif/revision/latest/scale-to-width-down/350?cb=20220420131715&path-prefix=en"
+    },
+    {
+        "name": "Jab Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Jab_Uppercut",
+        "command": "2,1",
+        "damage": "10,12",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/93/Jab_Uppercut.gif/revision/latest/scale-to-width-down/350?cb=20201128142314&path-prefix=en"
+    },
+    {
+        "name": "Head Spinner",
+        "detail": "https://tekken.fandom.com/wiki/Head_Spinner_(King)",
+        "command": "1+2,1",
+        "damage": "18,21",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e5/0a87a73063c8.gif/revision/latest/scale-to-width-down/350?cb=20210720103213&path-prefix=en"
+    },
+    {
+        "name": "Jaguar Step",
+        "detail": "https://tekken.fandom.com/wiki/Jaguar_Step",
+        "command": "3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c6/Jaguar_Step.gif/revision/latest/scale-to-width-down/350?cb=20211224022320&path-prefix=en"
+    },
+    {
+        "name": "Jaguar Step to Elbow",
+        "detail": "https://tekken.fandom.com/wiki/Jaguar_Step_to_Elbow",
+        "command": "3+4,2",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9a/Jaguar_Step_to_Elbow.gif/revision/latest/scale-to-width-down/350?cb=20220520221450&path-prefix=en"
+    },
+    {
+        "name": "Jaguar Step to High Kick",
+        "detail": "https://tekken.fandom.com/wiki/Jaguar_Step_to_High_Kick",
+        "command": "3+4,4",
+        "damage": "35",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/59/Jaguar_Step_to_High_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220529203304&path-prefix=en"
+    },
+    {
+        "name": "Jaguar Step to Mid Kick",
+        "detail": "https://tekken.fandom.com/wiki/Jaguar_Step_to_Mid_Kick",
+        "command": "3+4,d/+4",
+        "damage": "23",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/45/Jaguar_Step_to_Mid_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220529203314&path-prefix=en"
+    },
+    {
+        "name": "Moonsault Body Press",
+        "detail": "https://tekken.fandom.com/wiki/Moonsault_Body_Press",
+        "command": "1+4",
+        "damage": "25",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/75/Moonsault_TK2.gif/revision/latest/scale-to-width-down/350?cb=20211019142120&path-prefix=en"
+    },
+    {
+        "name": "Ki Charge",
+        "detail": "https://tekken.fandom.com/wiki/Supercharger",
+        "command": "1+2+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4f/E24Ks_Tekken_Tag_Tournament_-_Ganryu_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20201128143016&path-prefix=en"
+    },
+    {
+        "name": "Rolling Elbow Rush",
+        "detail": "https://tekken.fandom.com/wiki/Rolling_Elbow_Rush",
+        "command": "f+2,2,2",
+        "damage": "14,16,21",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/76/Rolling_Elbow_Rush.gif/revision/latest/scale-to-width-down/350?cb=20220420173620&path-prefix=en"
+    },
+    {
+        "name": "Front Kick",
+        "detail": "https://tekken.fandom.com/wiki/Front_Kick_(King)",
+        "command": "f+3",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/16/Front_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220121171453&path-prefix=en"
+    },
+    {
+        "name": "Front Kick to DDT",
+        "detail": "https://tekken.fandom.com/wiki/Front_Kick_to_DDT",
+        "command": "f+3 during face attack 1+2",
+        "damage": "18,20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a9/F7ff1acbf3.gif/revision/latest/scale-to-width-down/350?cb=20221028234930&path-prefix=en"
+    },
+    {
+        "name": "Rolling Sobat",
+        "detail": "https://tekken.fandom.com/wiki/Rolling_Sobat",
+        "command": "f+4",
+        "damage": "23",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c9/Rolling_Sobat.gif/revision/latest/scale-to-width-down/350?cb=20211116142857&path-prefix=en"
+    },
+    {
+        "name": "Shadow Lariat",
+        "detail": "https://tekken.fandom.com/wiki/Shadow_Lariat",
+        "command": "f+1+2",
+        "damage": "25",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/19/Shadow_Lariat.gif/revision/latest/scale-to-width-down/350?cb=20220403154121&path-prefix=en"
+    },
+    {
+        "name": "Jaguar Lariat",
+        "detail": "https://tekken.fandom.com/wiki/Jaguar_Lariat",
+        "command": "f+1+2 (hold)",
+        "damage": "50",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d6/B8c0ff1cfeef.gif/revision/latest/scale-to-width-down/350?cb=20201214104228&path-prefix=en"
+    },
+    {
+        "name": "Exploder",
+        "detail": "https://tekken.fandom.com/wiki/Exploder",
+        "command": "f (or f,f)+3+4",
+        "damage": "25",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f0/F5a07659b06a.gif/revision/latest/scale-to-width-down/350?cb=20201123150850&path-prefix=en"
+    },
+    {
+        "name": "Body Check",
+        "detail": "https://tekken.fandom.com/wiki/Body_Check",
+        "command": "f+1+4",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/69/Body_Check.gif/revision/latest/scale-to-width-down/350?cb=20220420160343&path-prefix=en"
+    },
+    {
+        "name": "Shoulder Tackle",
+        "detail": "https://tekken.fandom.com/wiki/Shoulder_Tackle_(King)",
+        "command": "f+2+3",
+        "damage": "40",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/db/Shoulder_Tackle_King.gif/revision/latest/scale-to-width-down/350?cb=20210905174858&path-prefix=en"
+    },
+    {
+        "name": "Elbow Sting",
+        "detail": "https://tekken.fandom.com/wiki/Elbow_Sting",
+        "command": "d/f+1,2",
+        "damage": "15,12",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/fd/E0305832cedb.gif/revision/latest/scale-to-width-down/350?cb=20201114204312&path-prefix=en"
+    },
+    {
+        "name": "Smashing Hook",
+        "detail": "https://tekken.fandom.com/wiki/Smashing_Hook",
+        "command": "d/f+2",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ad/Smashing_Hook.gif/revision/latest/scale-to-width-down/350?cb=20210926102256&path-prefix=en"
+    },
+    {
+        "name": "Lasso Kick",
+        "detail": "https://tekken.fandom.com/wiki/Lasso_Kick",
+        "command": "d/f+3,4",
+        "damage": "17,15",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8f/Lasso_Kick.gif/revision/latest/scale-to-width-down/350?cb=20210929175637&path-prefix=en"
+    },
+    {
+        "name": "Low Kick",
+        "detail": "https://tekken.fandom.com/wiki/Low_Kick_(King)",
+        "command": "d/f+4",
+        "damage": "15",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/31/Low_Kick_King.gif/revision/latest/scale-to-width-down/350?cb=20220119185125&path-prefix=en"
+    },
+    {
+        "name": "Frankensteiner",
+        "detail": "https://tekken.fandom.com/wiki/Frankensteiner",
+        "command": "d/f+3+4",
+        "damage": "15,30",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/36/King-tekken1-frankensteiner.gif/revision/latest?cb=20210602185752&path-prefix=en"
+    },
+    {
+        "name": "Jab Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Jab_Uppercut",
+        "command": "d+1,N,2",
+        "damage": "5,13",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/93/Jab_Uppercut.gif/revision/latest/scale-to-width-down/350?cb=20201128142314&path-prefix=en"
+    },
+    {
+        "name": "Corporate Elbow",
+        "detail": "https://tekken.fandom.com/wiki/Corporate_Elbow",
+        "command": "d+1+2",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/76/Tekken_Tag_Tournament_2_-_Armor_King_Video_Movelist.gif/revision/latest/scale-to-width-down/350?cb=20201110141519&path-prefix=en"
+    },
+    {
+        "name": "Stagger Kick",
+        "detail": "https://tekken.fandom.com/wiki/Stagger_Kick",
+        "command": "d+3+4,4,4",
+        "damage": "14,7,7",
+        "ranges": "lll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/22/Tekken_6_-_King_II_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20201125190410&path-prefix=en"
+    },
+    {
+        "name": "Stagger Kick",
+        "detail": "https://tekken.fandom.com/wiki/Stagger_Kick",
+        "command": "During Counterattack d+3+4,4,4,4",
+        "damage": "16,7,5,4,3",
+        "ranges": "llllll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/22/Tekken_6_-_King_II_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20201125190410&path-prefix=en"
+    },
+    {
+        "name": "Stagger Kick Spinning Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Stagger_Kick_Spinning_Uppercut",
+        "command": "During Stagger Kick 2",
+        "damage": "10",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7e/26cda21a354a.gif/revision/latest/scale-to-width-down/350?cb=20210801163729&path-prefix=en"
+    },
+    {
+        "name": "Crouching Low Kick",
+        "detail": "https://tekken.fandom.com/wiki/Crouching_Low_Kick",
+        "command": "d/b+3",
+        "damage": "17",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/23/Crouching_Low_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220206175441&path-prefix=en"
+    },
+    {
+        "name": "Low Drop Kick",
+        "detail": "https://tekken.fandom.com/wiki/Low_Drop_Kick",
+        "command": "d/b+4",
+        "damage": "16",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/33/Low_Drop_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220208140640&path-prefix=en"
+    },
+    {
+        "name": "Quick Hook",
+        "detail": "https://tekken.fandom.com/wiki/Quick_Hook_(King)",
+        "command": "b+1",
+        "damage": "13",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/76/Quick_Hook_King.gif/revision/latest/scale-to-width-down/350?cb=20220519221202&path-prefix=en"
+    },
+    {
+        "name": "Sidewinder",
+        "detail": "https://tekken.fandom.com/wiki/Sidewinder",
+        "command": "b+2",
+        "damage": "16",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/95/Sidewinder.gif/revision/latest/scale-to-width-down/350?cb=20220420133037&path-prefix=en"
+    },
+    {
+        "name": "Straight Arrow",
+        "detail": "https://tekken.fandom.com/wiki/Knockout_Punch",
+        "command": "b+2 (hold)",
+        "damage": "30",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c4/Knockout_Punch.gif/revision/latest/scale-to-width-down/350?cb=20220122001614&path-prefix=en"
+    },
+    {
+        "name": "Straight Arrow to V Driver",
+        "detail": "https://tekken.fandom.com/wiki/Straight_Arrow_to_V_Driver",
+        "command": "b+2 (hold) d+2+4",
+        "damage": "30,45",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/01/King%27s_V_Driver.gif/revision/latest/scale-to-width-down/350?cb=20201014115912&path-prefix=en"
+    },
+    {
+        "name": "Toll Kick",
+        "detail": "https://tekken.fandom.com/wiki/Toll_Kick",
+        "command": "b+3",
+        "damage": "23",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/03/Toll_Kick.gif/revision/latest/scale-to-width-down/350?cb=20210629135831&path-prefix=en"
+    },
+    {
+        "name": "Disgraceful Kick",
+        "detail": "https://tekken.fandom.com/wiki/Disgraceful_Kick",
+        "command": "b+4",
+        "damage": "20",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7e/Disgraceful_Kick.gif/revision/latest/scale-to-width-down/350?cb=20211124192337&path-prefix=en"
+    },
+    {
+        "name": "Water Parting Chop",
+        "detail": "https://tekken.fandom.com/wiki/Water_Parting_Chop",
+        "command": "u/b+1",
+        "damage": "30",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0f/Water_Parting_Chop.gif/revision/latest/scale-to-width-down/350?cb=20220326095549&path-prefix=en"
+    },
+    {
+        "name": "Falling Heel Kick",
+        "detail": "https://tekken.fandom.com/wiki/Falling_Heel_Kick",
+        "command": "u/f+3",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/99/Falling_Heel_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220206174605&path-prefix=en"
+    },
+    {
+        "name": "Capital Punishment",
+        "detail": "https://tekken.fandom.com/wiki/Capital_Punishment",
+        "command": "u/f+1+2",
+        "damage": "35",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/71/Jumping_double_axe_handle.gif/revision/latest/scale-to-width-down/350?cb=20201003142446&path-prefix=en"
+    },
+    {
+        "name": "Burning Knuckle",
+        "detail": "https://tekken.fandom.com/wiki/Burning_Knuckle",
+        "command": "u/f+1+2 (hold)",
+        "damage": "45",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/ca/BK_TK2.gif/revision/latest/scale-to-width-down/350?cb=20211019153222&path-prefix=en"
+    },
+    {
+        "name": "Neck Cutter Kick",
+        "detail": "https://tekken.fandom.com/wiki/Neck_Cutter_Kick",
+        "command": "u/f+3+4",
+        "damage": "28",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6f/Bff2c9416cd9.gif/revision/latest/scale-to-width-down/350?cb=20201218130522&path-prefix=en"
+    },
+    {
+        "name": "High Elbow Drop",
+        "detail": "https://tekken.fandom.com/wiki/High_Elbow_Drop",
+        "command": "u/f (or u or u/b)+2+4",
+        "damage": "35",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3a/HED.gif/revision/latest/scale-to-width-down/350?cb=20201122012931&path-prefix=en"
+    },
+    {
+        "name": "Stomach Smash",
+        "detail": "https://tekken.fandom.com/wiki/Stomach_Smash",
+        "command": "f,f,N,2",
+        "damage": "6",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/57/02503dd3dd77.gif/revision/latest/scale-to-width-down/350?cb=20201122002348&path-prefix=en"
+    },
+    {
+        "name": "Hi-Jack Backbreaker",
+        "detail": "https://tekken.fandom.com/wiki/Hi-Jack_Back_Breaker",
+        "command": "During Counterattack 1+2",
+        "damage": "7,35",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5e/Cd7b3bc6ca.gif/revision/latest/scale-to-width-down/350?cb=20220808133732&path-prefix=en"
+    },
+    {
+        "name": "Jaguar Driver",
+        "detail": "https://tekken.fandom.com/wiki/Jaguar_Driver",
+        "command": "During Counterattack 1+2,u,d,N,3+4",
+        "damage": "7,58",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a9/D042398717.gif/revision/latest/scale-to-width-down/350?cb=20220811184727&path-prefix=en"
+    },
+    {
+        "name": "Lay Off",
+        "detail": "https://tekken.fandom.com/wiki/Lay_Off",
+        "command": "f,f,N,1+2",
+        "damage": "0",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/85/Lay_Off.gif/revision/latest/scale-to-width-down/350?cb=20220122000953&path-prefix=en"
+    },
+    {
+        "name": "Jaguar Straight",
+        "detail": "https://tekken.fandom.com/wiki/Jaguar_Hook",
+        "command": "f,f+1",
+        "damage": "23",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a9/Jaguar_Hook.gif/revision/latest/scale-to-width-down/350?cb=20220207225838&path-prefix=en"
+    },
+    {
+        "name": "Rolling Elbow",
+        "detail": "https://tekken.fandom.com/wiki/Rolling_Elbow",
+        "command": "f,f+2",
+        "damage": "20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/02/Rolling_Elbow.gif/revision/latest/scale-to-width-down/350?cb=20220420174758&path-prefix=en"
+    },
+    {
+        "name": "Clothesline Combo",
+        "detail": "https://tekken.fandom.com/wiki/Clothesline_Combo",
+        "command": "f,f+2,1",
+        "damage": "20,25",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/84/Clothesline_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220330141929&path-prefix=en"
+    },
+    {
+        "name": "Konvict Kick",
+        "detail": "https://tekken.fandom.com/wiki/Konvict_Kick",
+        "command": "f,f+4",
+        "damage": "24",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/86/Konvict_Kick.gif/revision/latest/scale-to-width-down/350?cb=20210224143800&path-prefix=en"
+    },
+    {
+        "name": "Konvict Kick to DDT",
+        "detail": "https://tekken.fandom.com/wiki/Konvict_Kick_to_DDT",
+        "command": "During Counterattack f,f+4",
+        "damage": "28,20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/21/D2ddbcfe1f.gif/revision/latest/scale-to-width-down/350?cb=20221027222906&path-prefix=en"
+    },
+    {
+        "name": "Flying Cross Chop",
+        "detail": "https://tekken.fandom.com/wiki/Flying_Cross_Chop_(King)",
+        "command": "f,f+1+2",
+        "damage": "15",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/63/Flying_Cross_Chop.gif/revision/latest/scale-to-width-down/350?cb=20201221003202&path-prefix=en"
+    },
+    {
+        "name": "Diving Body Press",
+        "detail": "https://tekken.fandom.com/wiki/Diving_Body_Press",
+        "command": "f,f+2+3",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9d/Diving_Body_Press.gif/revision/latest/scale-to-width-down/350?cb=20210805122728&path-prefix=en"
+    },
+    {
+        "name": "Jumping Knee",
+        "detail": "https://tekken.fandom.com/wiki/Jumping_Knee_(Armor_King_and_King)",
+        "command": "f,N,d,d/f+4",
+        "damage": "37",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/bc/Jumping_Knee.gif/revision/latest/scale-to-width-down/350?cb=20220326094218&path-prefix=en"
+    },
+    {
+        "name": "Black Bomb",
+        "detail": "https://tekken.fandom.com/wiki/Black_Bomb",
+        "command": "f,N,d,d/f+1+2",
+        "damage": "28",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b3/Black_Bomb.gif/revision/latest/scale-to-width-down/350?cb=20210930135043&path-prefix=en"
+    },
+    {
+        "name": "Running Exploder",
+        "detail": "https://tekken.fandom.com/wiki/Running_Exploder",
+        "command": "f,f,f+3+4",
+        "damage": "40",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/33/Running_Exploder.gif/revision/latest/scale-to-width-down/350?cb=20210322184941&path-prefix=en"
+    },
+    {
+        "name": "Crouching Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Crouching_Uppercut_(King)",
+        "command": "WS+2",
+        "damage": "20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e7/490dbb539c32.gif/revision/latest/scale-to-width-down/350?cb=20210115121457&path-prefix=en"
+    },
+    {
+        "name": "Snap Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Snap_Uppercut_(King)",
+        "command": "WS+1+2",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e1/Snap_Uppercut_%28King%29.gif/revision/latest/scale-to-width-down/350?cb=20220122003930&path-prefix=en"
+    },
+    {
+        "name": "Leg Breaker",
+        "detail": "https://tekken.fandom.com/wiki/Leg_Breaker",
+        "command": "FC+d/f+1",
+        "damage": "21",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6e/Leg_Breaker_King.gif/revision/latest/scale-to-width-down/350?cb=20210930135214&path-prefix=en"
+    },
+    {
+        "name": "Body Blow",
+        "detail": "https://tekken.fandom.com/wiki/Body_Blow_(King)",
+        "command": "FC+d/f+2",
+        "damage": "23",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/df/Body_Blow_King.gif/revision/latest/scale-to-width-down/350?cb=20220202144938&path-prefix=en"
+    },
+    {
+        "name": "Jaguar Thrust",
+        "detail": "https://tekken.fandom.com/wiki/Jaguar_Thrust",
+        "command": "During side step 2",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/ec/Jaguar_Thrust.gif/revision/latest/scale-to-width-down/350?cb=20210917100204&path-prefix=en"
+    },
+    {
+        "name": "Deadly Boomerang",
+        "detail": "https://tekken.fandom.com/wiki/Deadly_Boomerang",
+        "command": "During side step 3+4",
+        "damage": "54",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/50/Deadly_Boomerang.gif/revision/latest/scale-to-width-down/350?cb=20210613234807&path-prefix=en"
+    },
+    {
+        "name": "Blind Kick",
+        "detail": "https://tekken.fandom.com/wiki/Blind_Kick",
+        "command": "Back to opponent 3",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0e/Blind_Kick.gif/revision/latest/scale-to-width-down/350?cb=20211208201933&path-prefix=en"
+    },
+    {
+        "name": "Blind Kick to Neck Breaker",
+        "detail": "https://tekken.fandom.com/wiki/Blind_Kick_to_Neck_Breaker",
+        "command": "During the Blind Kick 1+2 attack",
+        "damage": "15,20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/ed/638ab62ed6.gif/revision/latest/scale-to-width-down/350?cb=20221027222600&path-prefix=en"
+    },
+    {
+        "name": "Atomic Blaster",
+        "detail": "https://tekken.fandom.com/wiki/Atomic_Blaster",
+        "command": "Back to opponent 1+2",
+        "damage": "50",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/18/Atomic_Blaster_TK3.gif/revision/latest/scale-to-width-down/350?cb=20211021142220&path-prefix=en"
+    }
+]

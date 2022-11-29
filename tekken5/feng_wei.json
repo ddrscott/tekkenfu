@@ -1,0 +1,522 @@
+[
+    {
+        "name": "Jab Spear Fist",
+        "detail": "https://tekken.fandom.com/wiki/Jab_Spear_Fist",
+        "command": "1,1",
+        "damage": "5,21",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a2/Jab_Spear_Fist.gif/revision/latest/scale-to-width-down/350?cb=20221021124120&path-prefix=en"
+    },
+    {
+        "name": "Firestorm",
+        "detail": "https://tekken.fandom.com/wiki/Firestorm",
+        "command": "1,2,2",
+        "damage": "5,10,12",
+        "ranges": "hhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/77/Eae0181ba8.gif/revision/latest/scale-to-width-down/350?cb=20220611233524&path-prefix=en"
+    },
+    {
+        "name": "Jab Roundhouse Combo",
+        "detail": "https://tekken.fandom.com/wiki/Jab_Roundhouse_Combo",
+        "command": "1,3",
+        "damage": "5,15",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b3/Jab_Roundhouse_Combo.gif/revision/latest/scale-to-width-down/350?cb=20221030150846&path-prefix=en"
+    },
+    {
+        "name": "Pummeling Windmill",
+        "detail": "https://tekken.fandom.com/wiki/Pummeling_Windmill",
+        "command": "[2~1]",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/24/Pummeling_Windmill.gif/revision/latest/scale-to-width-down/350?cb=20221030151045&path-prefix=en"
+    },
+    {
+        "name": "Throat Gouge",
+        "detail": "https://tekken.fandom.com/wiki/Throat_Gouge",
+        "command": "[2~2]",
+        "damage": "12,12",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/95/Throat_Gouge.gif/revision/latest/scale-to-width-down/350?cb=20220628082224&path-prefix=en"
+    },
+    {
+        "name": "Leaping Whirlwind Combo",
+        "detail": "https://tekken.fandom.com/wiki/Leaping_Whirlwind_Combo",
+        "command": "[3~4]3",
+        "damage": "32,14",
+        "ranges": "ml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0b/Fengwei-dragons-nest-tekken7.gif/revision/latest/scale-to-width-down/350?cb=20210602211018&path-prefix=en"
+    },
+    {
+        "name": "Iron Shield",
+        "detail": "https://tekken.fandom.com/wiki/Iron_Shield",
+        "command": "1+2",
+        "damage": "28",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b4/Iron_Shield.gif/revision/latest/scale-to-width-down/350?cb=20210927200538&path-prefix=en"
+    },
+    {
+        "name": "Ki Charge",
+        "detail": "https://tekken.fandom.com/wiki/Supercharger",
+        "command": "1+2+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4f/E24Ks_Tekken_Tag_Tournament_-_Ganryu_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20201128143016&path-prefix=en"
+    },
+    {
+        "name": "Boar's Tusk",
+        "detail": "https://tekken.fandom.com/wiki/Boar%27s_Tusk",
+        "command": "f+2,1,2",
+        "damage": "12,13,25",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/40/Boar%27s_Tusk.gif/revision/latest/scale-to-width-down/350?cb=20210927181808&path-prefix=en"
+    },
+    {
+        "name": "Jade Spear to Hustle Elbow",
+        "detail": "https://tekken.fandom.com/wiki/Jade_Spear_to_Hustle_Elbow",
+        "command": "f+3,2",
+        "damage": "21,22",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c3/Jade_Spear_to_Hustle_Elbow.gif/revision/latest/scale-to-width-down/350?cb=20220406141707&path-prefix=en"
+    },
+    {
+        "name": "Tornado Reverse",
+        "detail": "https://tekken.fandom.com/wiki/Tornado_Reverse",
+        "command": "f+4",
+        "damage": "18",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6d/Tornado_Reverse.gif/revision/latest/scale-to-width-down/350?cb=20221115212818&path-prefix=en"
+    },
+    {
+        "name": "Tornado Stomp",
+        "detail": "https://tekken.fandom.com/wiki/Tornado_Stomp",
+        "command": "f+4,3",
+        "damage": "18,24",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7d/Tornado_Stomp.gif/revision/latest/scale-to-width-down/350?cb=20221030151244&path-prefix=en"
+    },
+    {
+        "name": "Tornado Sweep",
+        "detail": "https://tekken.fandom.com/wiki/Tornado_Sweep",
+        "command": "f+4,4",
+        "damage": "18,15",
+        "ranges": "hl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6d/Tornado_Sweep.gif/revision/latest/scale-to-width-down/350?cb=20220510131100&path-prefix=en"
+    },
+    {
+        "name": "Reverse Backfist",
+        "detail": "https://tekken.fandom.com/wiki/Reverse_Backfist",
+        "command": "f+1+2",
+        "damage": "35",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/28/Reverse_Backfist.gif/revision/latest/scale-to-width-down/350?cb=20221003215459&path-prefix=en"
+    },
+    {
+        "name": "Shifting Clouds",
+        "detail": "https://tekken.fandom.com/wiki/Shifting_Clouds",
+        "command": "f+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/83/90fa7b59c0.gif/revision/latest/scale-to-width-down/350?cb=20221029180358&path-prefix=en"
+    },
+    {
+        "name": "Stunning Palm",
+        "detail": "https://tekken.fandom.com/wiki/Stunning_Palm",
+        "command": "d/f+1",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1c/Stunning_Palm.gif/revision/latest/scale-to-width-down/350?cb=20221021121358&path-prefix=en"
+    },
+    {
+        "name": "God Fist",
+        "detail": "https://tekken.fandom.com/wiki/God_Fist",
+        "command": "d/f+2,2",
+        "damage": "15,21",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/26/God_Fist.gif/revision/latest/scale-to-width-down/350?cb=20220510133424&path-prefix=en"
+    },
+    {
+        "name": "Lift Kick",
+        "detail": "https://tekken.fandom.com/wiki/Lift_Kick_(Feng)",
+        "command": "d/f+3",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/00/Lift_Kick_Feng.gif/revision/latest/scale-to-width-down/350?cb=20220608111045&path-prefix=en"
+    },
+    {
+        "name": "Front Kick",
+        "detail": "https://tekken.fandom.com/wiki/Front_Kick_(Feng)",
+        "command": "d/f+4",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c1/Front_Kick_%28Feng%29.gif/revision/latest/scale-to-width-down/350?cb=20220510134258&path-prefix=en"
+    },
+    {
+        "name": "Heavy Hammer",
+        "detail": "https://tekken.fandom.com/wiki/Heavy_Hammer",
+        "command": "d+2",
+        "damage": "18",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0f/Heavy_Hammer.gif/revision/latest/scale-to-width-down/350?cb=20221011213051&path-prefix=en"
+    },
+    {
+        "name": "Spear of Lu Bu",
+        "detail": "https://tekken.fandom.com/wiki/Spear_of_Lu_Bu",
+        "command": "d/b+1,2",
+        "damage": "15,21",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/30/Spear_of_Lu_Bu.gif/revision/latest/scale-to-width-down/350?cb=20220608113651&path-prefix=en"
+    },
+    {
+        "name": "Hellwinds",
+        "detail": "https://tekken.fandom.com/wiki/Hellwinds",
+        "command": "d/b+2,2,2",
+        "damage": "10,10,14",
+        "ranges": "hmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ac/Hellwinds_TK5.gif/revision/latest/scale-to-width-down/350?cb=20210401120453&path-prefix=en"
+    },
+    {
+        "name": "Piercing Arrow",
+        "detail": "https://tekken.fandom.com/wiki/Piercing_Arrow",
+        "command": "d/b+3",
+        "damage": "10",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/72/Piercing_Arrow.gif/revision/latest/scale-to-width-down/350?cb=20220510134657&path-prefix=en"
+    },
+    {
+        "name": "Sweep Kick",
+        "detail": "https://tekken.fandom.com/wiki/Sweep_Kick_(Feng_Wei)",
+        "command": "d/b+4",
+        "damage": "21",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c9/Sweep_Kick_Feng.gif/revision/latest/scale-to-width-down/350?cb=20220628082830&path-prefix=en"
+    },
+    {
+        "name": "Dragon Slayer",
+        "detail": "https://tekken.fandom.com/wiki/Dragon_Slayer",
+        "command": "d/b+1+2,2",
+        "damage": "15,18",
+        "ranges": "ml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a1/Dragon_Slayer.gif/revision/latest/scale-to-width-down/350?cb=20220510135023&path-prefix=en"
+    },
+    {
+        "name": "Iron Palm",
+        "detail": "https://tekken.fandom.com/wiki/Iron_Palm",
+        "command": "b+1",
+        "damage": "12",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b1/Iron_Palm.gif/revision/latest/scale-to-width-down/350?cb=20220607105941&path-prefix=en"
+    },
+    {
+        "name": "Hungry Tiger",
+        "detail": "https://tekken.fandom.com/wiki/Hungry_Tiger",
+        "command": "b+2,3,4,2",
+        "damage": "15,8,12,14",
+        "ranges": "mlmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3f/Hungry_Tiger.gif/revision/latest/scale-to-width-down/350?cb=20220608113406&path-prefix=en"
+    },
+    {
+        "name": "Spin Kick Spear Fist",
+        "detail": "https://tekken.fandom.com/wiki/Spin_Kick_Spear_Fist",
+        "command": "b+3,1",
+        "damage": "12,21",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3b/Spin_Kick_Spear_Fist.gif/revision/latest/scale-to-width-down/350?cb=20221021123602&path-prefix=en"
+    },
+    {
+        "name": "Fish Hook",
+        "detail": "https://tekken.fandom.com/wiki/Fish_Hook",
+        "command": "b+4",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9b/Fish_Hook.gif/revision/latest/scale-to-width-down/350?cb=20221021123847&path-prefix=en"
+    },
+    {
+        "name": "Iron Fortress",
+        "detail": "https://tekken.fandom.com/wiki/Iron_Fortress",
+        "command": "b+1+2",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/01/Iron_Fortress.gif/revision/latest/scale-to-width-down/350?cb=20210904224336&path-prefix=en"
+    },
+    {
+        "name": "Deceptive Step",
+        "detail": "https://tekken.fandom.com/wiki/Deceptive_Step",
+        "command": "b+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e0/Deceptive_Step.gif/revision/latest/scale-to-width-down/350?cb=20220608115026&path-prefix=en"
+    },
+    {
+        "name": "Palm Thrust",
+        "detail": "https://tekken.fandom.com/wiki/Palm_Thrust",
+        "command": "f+3+4,1",
+        "damage": "20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b9/Palm_Thrust.gif/revision/latest/scale-to-width-down/350?cb=20221030151724&path-prefix=en"
+    },
+    {
+        "name": "Spinning Backfist",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_Backfist_(Feng)",
+        "command": "f+3+4,2",
+        "damage": "18",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/71/Spinning_Backfist_Feng.gif/revision/latest/scale-to-width-down/350?cb=20220521165507&path-prefix=en"
+    },
+    {
+        "name": "Scorpion Sting",
+        "detail": "https://tekken.fandom.com/wiki/Scorpion_Sting",
+        "command": "f+3+4,3",
+        "damage": "15",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c2/Scorpion_Sting.gif/revision/latest/scale-to-width-down/350?cb=20220608114225&path-prefix=en"
+    },
+    {
+        "name": "Slingshot",
+        "detail": "https://tekken.fandom.com/wiki/Slingshot",
+        "command": "f+3+4,4",
+        "damage": "15",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0b/Slingshot.gif/revision/latest/scale-to-width-down/350?cb=20221030151733&path-prefix=en"
+    },
+    {
+        "name": "Death Palm",
+        "detail": "https://tekken.fandom.com/wiki/Death_Palm",
+        "command": "u/b+1+2",
+        "damage": "60",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/51/Death_Palm_TK5.gif/revision/latest/scale-to-width-down/350?cb=20211023202646&path-prefix=en"
+    },
+    {
+        "name": "Eagle Claw",
+        "detail": "https://tekken.fandom.com/wiki/Eagle_Claw",
+        "command": "u/f (or u or u/b) +1",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e2/Eagle_Claw.gif/revision/latest/scale-to-width-down/350?cb=20221008144705&path-prefix=en"
+    },
+    {
+        "name": "Leaping Hammer Fist",
+        "detail": "https://tekken.fandom.com/wiki/Leaping_Hammer_Fist",
+        "command": "u/f+2",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5e/Leaping_Hammer_Fist.gif/revision/latest/scale-to-width-down/350?cb=20221021124803&path-prefix=en"
+    },
+    {
+        "name": "Side Swipe",
+        "detail": "https://tekken.fandom.com/wiki/Side_Swipe",
+        "command": "u/f (or u or u/b) +3",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/79/Side_Swipe.gif/revision/latest/scale-to-width-down/350?cb=20221115213827&path-prefix=en"
+    },
+    {
+        "name": "Soaring Eagle",
+        "detail": "https://tekken.fandom.com/wiki/Soaring_Eagle",
+        "command": "u/f (or u or u/b) +4",
+        "damage": "13",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7e/Soaring_Eagle.gif/revision/latest/scale-to-width-down/350?cb=20221115213836&path-prefix=en"
+    },
+    {
+        "name": "Exploding Dagger",
+        "detail": "https://tekken.fandom.com/wiki/Exploding_Dagger",
+        "command": "f,f+2",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/75/Exploding_Dagger.gif/revision/latest/scale-to-width-down/350?cb=20220519122028&path-prefix=en"
+    },
+    {
+        "name": "Tremor Stomp",
+        "detail": "https://tekken.fandom.com/wiki/Tremor_Stomp",
+        "command": "f,f+3",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/10/Tremor_Stomp.gif/revision/latest/scale-to-width-down/350?cb=20221114124745&path-prefix=en"
+    },
+    {
+        "name": "Spreading Wings",
+        "detail": "https://tekken.fandom.com/wiki/Spreading_Wings",
+        "command": "f,f+4,3",
+        "damage": "18,14",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f0/Spreading_Wings.gif/revision/latest/scale-to-width-down/350?cb=20221021124543&path-prefix=en"
+    },
+    {
+        "name": "Push Hands",
+        "detail": "https://tekken.fandom.com/wiki/Push_Hands_(Feng_Wei)",
+        "command": "f,f+1+2",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/10/Push_Hands_Feng.gif/revision/latest/scale-to-width-down/350?cb=20221021125259&path-prefix=en"
+    },
+    {
+        "name": "Falcon's Beak",
+        "detail": "https://tekken.fandom.com/wiki/Falcon%27s_Beak_(Feng_Wei)",
+        "command": "b,f+1",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/cf/Falcon%27s_Beak_Feng.gif/revision/latest/scale-to-width-down/350?cb=20221011213437&path-prefix=en"
+    },
+    {
+        "name": "Lingering Shadow",
+        "detail": "https://tekken.fandom.com/wiki/Lingering_Shadow",
+        "command": "qcf",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/56/Lingering_Shadow.gif/revision/latest/scale-to-width-down/350?cb=20220510140823&path-prefix=en"
+    },
+    {
+        "name": "Landslide",
+        "detail": "https://tekken.fandom.com/wiki/Landslide",
+        "command": "qcf+1",
+        "damage": "21",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/20/Landslide.gif/revision/latest/scale-to-width-down/350?cb=20220410211845&path-prefix=en"
+    },
+    {
+        "name": "Demolishing Fist",
+        "detail": "https://tekken.fandom.com/wiki/Demolishing_Fist",
+        "command": "qcf+2",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e2/Demolishing_Fist.gif/revision/latest/scale-to-width-down/350?cb=20220510140654&path-prefix=en"
+    },
+    {
+        "name": "Assassin's Bow",
+        "detail": "https://tekken.fandom.com/wiki/Assassin%27s_Bow",
+        "command": "qcf+3+4",
+        "damage": "10,21,10,10",
+        "ranges": "mhhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e0/Assassin%27s_Bow.gif/revision/latest/scale-to-width-down/350?cb=20220212181805&path-prefix=en"
+    },
+    {
+        "name": "Severing Sword",
+        "detail": "https://tekken.fandom.com/wiki/Severing_Sword",
+        "command": "f,f,f+3",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/bb/8c61e707becb.gif/revision/latest/scale-to-width-down/350?cb=20210110141244&path-prefix=en"
+    },
+    {
+        "name": "Dancing Dragon",
+        "detail": "https://tekken.fandom.com/wiki/Dancing_Dragon",
+        "command": "WS+1,2,1",
+        "damage": "10,10,11",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/94/Dancing_Dragon.gif/revision/latest/scale-to-width-down/350?cb=20211115213107&path-prefix=en"
+    },
+    {
+        "name": "Adamantine Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Adamantine_Uppercut",
+        "command": "WS+2",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/62/Adamantine_Uppercut.gif/revision/latest/scale-to-width-down/350?cb=20221011213706&path-prefix=en"
+    },
+    {
+        "name": "Bow Kick",
+        "detail": "https://tekken.fandom.com/wiki/Bow_Kick",
+        "command": "WS+3",
+        "damage": "16",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/35/Bow_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220706183936&path-prefix=en"
+    },
+    {
+        "name": "Rising Heel Kick",
+        "detail": "https://tekken.fandom.com/wiki/Rising_Heel_Kick",
+        "command": "WS+4",
+        "damage": "13",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/92/Rising_Heel_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221025230812&path-prefix=en"
+    },
+    {
+        "name": "Silent Arrow",
+        "detail": "https://tekken.fandom.com/wiki/Silent_Arrow",
+        "command": "FC+d/f+1",
+        "damage": "20",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/02/Silent_Arrow.gif/revision/latest/scale-to-width-down/350?cb=20220805182238&path-prefix=en"
+    },
+    {
+        "name": "Hidden Intentions",
+        "detail": "https://tekken.fandom.com/wiki/Hidden_Intentions",
+        "command": "During side step 2",
+        "damage": "18",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a4/Hidden_Intentions.gif/revision/latest/scale-to-width-down/350?cb=20221021125443&path-prefix=en"
+    },
+    {
+        "name": "Sweep Kick",
+        "detail": "https://tekken.fandom.com/wiki/Sweep_Kick_(Feng)",
+        "command": "During side step 4",
+        "damage": "22",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9a/Sweep_Kick_Feng_Wei.gif/revision/latest/scale-to-width-down/350?cb=20221025231424&path-prefix=en"
+    },
+    {
+        "name": "Enlightened Circle",
+        "detail": "https://tekken.fandom.com/wiki/Enlightened_Circle",
+        "command": "During side step 1+2",
+        "damage": "24",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/89/Enlightened_Circle.gif/revision/latest/scale-to-width-down/350?cb=20221025230955&path-prefix=en"
+    },
+    {
+        "name": "Reverse Tremor Stomp",
+        "detail": "https://tekken.fandom.com/wiki/Tremor_Stomp",
+        "command": "Back to the opponent 3",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/10/Tremor_Stomp.gif/revision/latest/scale-to-width-down/350?cb=20221114124745&path-prefix=en"
+    },
+    {
+        "name": "Reverse Sweep Kick",
+        "detail": "https://tekken.fandom.com/wiki/Reverse_Sweep_Kick",
+        "command": "Back to the opponent d+3",
+        "damage": "22",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/64/Reverse_Sweep_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221114123907&path-prefix=en"
+    },
+    {
+        "name": "Hustle Elbow",
+        "detail": "https://tekken.fandom.com/wiki/Hustle_Elbow",
+        "command": "Back to the opponent 1+2",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b3/Hustle_Elbow.gif/revision/latest/scale-to-width-down/350?cb=20221030161815&path-prefix=en"
+    },
+    {
+        "name": "Thunder Stomp",
+        "detail": "https://tekken.fandom.com/wiki/Thunder_Stomp",
+        "command": "(With opponent down) d+4",
+        "damage": "22",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/36/Thunder_Stomp.gif/revision/latest/scale-to-width-down/350?cb=20220825201818&path-prefix=en"
+    },
+    {
+        "name": "Taunt",
+        "detail": "https://tekken.fandom.com/wiki/Taunt_(Feng_Wei)",
+        "command": "1+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a9/Taunt_Feng.gif/revision/latest/scale-to-width-down/350?cb=20220825202026&path-prefix=en"
+    },
+    {
+        "name": "f+1, 1, 2, 1, 3, 4, 2, 2, 2, 2",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_1_(Feng_Wei)",
+        "command": "f+1, 1, 2, 1, 3, 4, 2, 2, 2, 2",
+        "damage": "98",
+        "ranges": "hmmmlmllmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/57/10_Hit_Combo_1_Feng.gif/revision/latest/scale-to-width-down/350?cb=20210926123352&path-prefix=en"
+    },
+    {
+        "name": "f+1, 1, 2, 1, 3, 4, 2, 4, 3, 1+2",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_2_(Feng_Wei)",
+        "command": "f+1, 1, 2, 1, 3, 4, 2, 4, 3, 1+2",
+        "damage": "109",
+        "ranges": "hmmmlmlhmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/03/6f809cb71b.gif/revision/latest/scale-to-width-down/350?cb=20221123214119&path-prefix=en"
+    }
+]

@@ -1,0 +1,442 @@
+[
+    {
+        "name": "Open Palm Combo",
+        "detail": "https://tekken.fandom.com/wiki/Open_Palm_Combo",
+        "command": "1,2,1,2,1,2,1,2",
+        "damage": "8,10,8,5,5,5,5,5",
+        "ranges": "hhhhhhhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/36/Open_Palm_Combo.gif/revision/latest/scale-to-width-down/350?cb=20210902102614&path-prefix=en"
+    },
+    {
+        "name": "Splits Stomp",
+        "detail": "https://tekken.fandom.com/wiki/Splits_Stomp",
+        "command": "4,4",
+        "damage": "20,18",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a4/Splits_Stomp.gif/revision/latest/scale-to-width-down/350?cb=20220605183952&path-prefix=en"
+    },
+    {
+        "name": "Left High Kick to Splits Stomp",
+        "detail": "https://tekken.fandom.com/wiki/Left_High_Kick_to_Splits_Stomp",
+        "command": "3,4,4",
+        "damage": "25,20,18",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/25/Left_High_Kick_to_Splits_Stomp.gif/revision/latest/scale-to-width-down/350?cb=20220627191224&path-prefix=en"
+    },
+    {
+        "name": "Sumo Stampede",
+        "detail": "https://tekken.fandom.com/wiki/Sumo_Stampede",
+        "command": "3,4,3,4,...",
+        "damage": "25,23,25,23,...",
+        "ranges": "hhhh...",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e4/Sumo_Stampede.gif/revision/latest/scale-to-width-down/350?cb=20220605183827&path-prefix=en"
+    },
+    {
+        "name": "Double Hammer",
+        "detail": "https://tekken.fandom.com/wiki/Double_Hammer",
+        "command": "1+2,1+2",
+        "damage": "21,15",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/58/70e0ddaac447.gif/revision/latest/scale-to-width-down/350?cb=20201208172700&path-prefix=en"
+    },
+    {
+        "name": "Double Hammer Sumo Charge",
+        "detail": "https://tekken.fandom.com/wiki/Double_Hammer_Sumo_Charge",
+        "command": "1+2,b+1+2",
+        "damage": "21,45",
+        "ranges": "m!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/70/DHSC.gif/revision/latest/scale-to-width-down/350?cb=20211024204601&path-prefix=en"
+    },
+    {
+        "name": "Double Hammer Sumo Smack",
+        "detail": "https://tekken.fandom.com/wiki/Double_Hammer_Sumo_Smack",
+        "command": "1+2,b+1+2,2",
+        "damage": "21,12",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9b/Double_Hammer_Sumo_Smack.gif/revision/latest/scale-to-width-down/350?cb=20220502104534&path-prefix=en"
+    },
+    {
+        "name": "Sit",
+        "detail": "https://tekken.fandom.com/wiki/Sit",
+        "command": "3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c4/Tekken_5_-_Ganryu_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20201116230404&path-prefix=en"
+    },
+    {
+        "name": "Sit Thrust",
+        "detail": "https://tekken.fandom.com/wiki/Sit_Thrust",
+        "command": "3+4,1",
+        "damage": "27",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e3/Sit_Thrust_TTT.gif/revision/latest/scale-to-width-down/350?cb=20210404183321&path-prefix=en"
+    },
+    {
+        "name": "Sit Sweep",
+        "detail": "https://tekken.fandom.com/wiki/Sit_Sweep",
+        "command": "3+4,2",
+        "damage": "18",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/45/Sit_Sweep.gif/revision/latest/scale-to-width-down/350?cb=20220412102443&path-prefix=en"
+    },
+    {
+        "name": "Splits",
+        "detail": "https://tekken.fandom.com/wiki/Splits",
+        "command": "3+4,d",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e6/Splits.gif/revision/latest/scale-to-width-down/350?cb=20220411210149&path-prefix=en"
+    },
+    {
+        "name": "Shiranui",
+        "detail": "https://tekken.fandom.com/wiki/Shiranui",
+        "command": "During Splits f",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/fa/Shiranui.gif/revision/latest/scale-to-width-down/350?cb=20220502104856&path-prefix=en"
+    },
+    {
+        "name": "Unryu",
+        "detail": "https://tekken.fandom.com/wiki/Unryu",
+        "command": "During Splits u (or d)",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/ea/Unryu.gif/revision/latest/scale-to-width-down/350?cb=20220502104845&path-prefix=en"
+    },
+    {
+        "name": "Ki Charge",
+        "detail": "https://tekken.fandom.com/wiki/Supercharger",
+        "command": "1+2+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4f/E24Ks_Tekken_Tag_Tournament_-_Ganryu_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20201128143016&path-prefix=en"
+    },
+    {
+        "name": "Ducking Palm",
+        "detail": "https://tekken.fandom.com/wiki/Ducking_Palm",
+        "command": "f+2",
+        "damage": "16",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/fe/Ducking_Palm.gif/revision/latest/scale-to-width-down/350?cb=20220414204946&path-prefix=en"
+    },
+    {
+        "name": "Neko Damashi",
+        "detail": "https://tekken.fandom.com/wiki/Neko_Damashi",
+        "command": "f+[2~1]",
+        "damage": "14",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f6/Neko_Damashi.gif/revision/latest/scale-to-width-down/350?cb=20220411142802&path-prefix=en"
+    },
+    {
+        "name": "Stomp Kick",
+        "detail": "https://tekken.fandom.com/wiki/Stomp_Kick",
+        "command": "f+3",
+        "damage": "25",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7e/Stomp_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220518131929&path-prefix=en"
+    },
+    {
+        "name": "Sumo Rush",
+        "detail": "https://tekken.fandom.com/wiki/Sumo_Rush",
+        "command": "f+1+2",
+        "damage": "28",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7b/Sumo_Rush.gif/revision/latest/scale-to-width-down/350?cb=20220228192458&path-prefix=en"
+    },
+    {
+        "name": "Freight Train Combo",
+        "detail": "https://tekken.fandom.com/wiki/Freight_Train_Combo",
+        "command": "d/f+1,4,1",
+        "damage": "10,12,8",
+        "ranges": "mmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7f/Freight_Train_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220502105246&path-prefix=en"
+    },
+    {
+        "name": "Thrusting Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Tsukiage_Harite",
+        "command": "d/f+2",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a2/Thrusting_Uppercut_Ganryu.gif/revision/latest/scale-to-width-down/350?cb=20220501211320&path-prefix=en"
+    },
+    {
+        "name": "Thunder Clap",
+        "detail": "https://tekken.fandom.com/wiki/Thunder_Clap",
+        "command": "d/f+2,1,2,1,2,1,2,1,2",
+        "damage": "15,8,10,8,5,5,5,5,5",
+        "ranges": "mhhhhhhhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/dd/Thunder_Clap.gif/revision/latest/scale-to-width-down/350?cb=20211201210943&path-prefix=en"
+    },
+    {
+        "name": "Kick & Pull",
+        "detail": "https://tekken.fandom.com/wiki/Kick_%26_Pull",
+        "command": "d/f+3",
+        "damage": "17",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/eb/Kick_%26_Pull.gif/revision/latest/scale-to-width-down/350?cb=20211221231823&path-prefix=en"
+    },
+    {
+        "name": "Freight Train",
+        "detail": "https://tekken.fandom.com/wiki/Freight_Train",
+        "command": "d/f+4,1",
+        "damage": "17,8",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/70/Freight_Train.gif/revision/latest/scale-to-width-down/350?cb=20220605184542&path-prefix=en"
+    },
+    {
+        "name": "Ganryu Combo",
+        "detail": "https://tekken.fandom.com/wiki/Ganryu_Combo",
+        "command": "d/f+1+2,1",
+        "damage": "8,8,21",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/88/Ganryu_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220502105652&path-prefix=en"
+    },
+    {
+        "name": "Thunder Palm",
+        "detail": "https://tekken.fandom.com/wiki/Thunder_Palm_(Ganryu)",
+        "command": "d/f+2+3",
+        "damage": "12",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6c/Thunder_Slap.gif/revision/latest/scale-to-width-down/350?cb=20220129140535&path-prefix=en"
+    },
+    {
+        "name": "Rock Cleaving Palm",
+        "detail": "https://tekken.fandom.com/wiki/Rock_Cleaving_Palm",
+        "command": "d+1",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/51/Rock_Cleaving_Palm.gif/revision/latest/scale-to-width-down/350?cb=20220109113450&path-prefix=en"
+    },
+    {
+        "name": "Kabuki Palm",
+        "detail": "https://tekken.fandom.com/wiki/Kabuki_Palm",
+        "command": "d+2,2,2,...",
+        "damage": "15,15,10,10,10...",
+        "ranges": "lll...",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/05/Kabuki_Palm.gif/revision/latest/scale-to-width-down/350?cb=20210127135020&path-prefix=en"
+    },
+    {
+        "name": "Stomp",
+        "detail": "https://tekken.fandom.com/wiki/Stomp",
+        "command": "d+4",
+        "damage": "40",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9f/D99e6ee9d7.gif/revision/latest/scale-to-width-down/350?cb=20211229161629&path-prefix=en"
+    },
+    {
+        "name": "Pedal Press",
+        "detail": "https://tekken.fandom.com/wiki/Pedal_Press",
+        "command": "d+1+2",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6b/Pedal_Press.gif/revision/latest/scale-to-width-down/350?cb=20220321214339&path-prefix=en"
+    },
+    {
+        "name": "Sumo Sweep",
+        "detail": "https://tekken.fandom.com/wiki/Sumo_Sweep",
+        "command": "d/b+2",
+        "damage": "12",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4b/Sumo_Sweep.gif/revision/latest/scale-to-width-down/350?cb=20220502105900&path-prefix=en"
+    },
+    {
+        "name": "Sumo Tackle",
+        "detail": "https://tekken.fandom.com/wiki/Sumo_Tackle",
+        "command": "d/b+1+2",
+        "damage": "90",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0d/Sumo_Tackle.gif/revision/latest/scale-to-width-down/350?cb=20210809150902&path-prefix=en"
+    },
+    {
+        "name": "Tackle Fake Upper",
+        "detail": "https://tekken.fandom.com/wiki/Tackle_Fake_Upper",
+        "command": "d/b+1+2,2",
+        "damage": "12",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7b/Tackle_Fake_Upper.gif/revision/latest/scale-to-width-down/350?cb=20220502103122&path-prefix=en"
+    },
+    {
+        "name": "Sumo Charge to Splits",
+        "detail": "https://tekken.fandom.com/wiki/Sumo_Charge_to_Splits",
+        "command": "d/b+1+2,d",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5d/Sumo_Charge_to_Splits.gif/revision/latest/scale-to-width-down/350?cb=20220605185420&path-prefix=en"
+    },
+    {
+        "name": "Sumo Hammer",
+        "detail": "https://tekken.fandom.com/wiki/Jack_Hammer",
+        "command": "b+1,1,1",
+        "damage": "18,15,18",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/09/08a41a674935.gif/revision/latest?cb=20201118083819&path-prefix=en"
+    },
+    {
+        "name": "Salt Upper",
+        "detail": "https://tekken.fandom.com/wiki/Salt_Upper",
+        "command": "b+2",
+        "damage": "27",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/30/Salt_Upper.gif/revision/latest/scale-to-width-down/350?cb=20220518131124&path-prefix=en"
+    },
+    {
+        "name": "Headbutt",
+        "detail": "https://tekken.fandom.com/wiki/Headbutt",
+        "command": "b+1+2",
+        "damage": "15",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0c/Headbutt.gif/revision/latest/scale-to-width-down/350?cb=20220502111104&path-prefix=en"
+    },
+    {
+        "name": "Jamming Palm",
+        "detail": "https://tekken.fandom.com/wiki/Jamming_Palm",
+        "command": "u/f (or u or u/b)+1",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9e/Jamming_Palm.gif/revision/latest/scale-to-width-down/350?cb=20220411204541&path-prefix=en"
+    },
+    {
+        "name": "Flying Press",
+        "detail": "https://tekken.fandom.com/wiki/Flying_Press",
+        "command": "u/f+1+2",
+        "damage": "28",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/89/Flying_Press.gif/revision/latest/scale-to-width-down/350?cb=20220412103633&path-prefix=en"
+    },
+    {
+        "name": "Sumo Squash",
+        "detail": "https://tekken.fandom.com/wiki/Pancake_Press",
+        "command": "u/f+3+4",
+        "damage": "26",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/02/710b4799ab3a.gif/revision/latest/scale-to-width-down/350?cb=20210110130156&path-prefix=en"
+    },
+    {
+        "name": "Grab",
+        "detail": "https://tekken.fandom.com/wiki/Kumite_Tsukami",
+        "command": "f,f+2",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7c/Grab.gif/revision/latest/scale-to-width-down/350?cb=20220628153234&path-prefix=en"
+    },
+    {
+        "name": "Double Step in Palm",
+        "detail": "https://tekken.fandom.com/wiki/Cross_Cut_Saw_(Jack)",
+        "command": "f,f+1+2",
+        "damage": "17",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/84/5e90dba7033f.gif/revision/latest/scale-to-width-down/350?cb=20210110224346&path-prefix=en"
+    },
+    {
+        "name": "Sekitori Kick",
+        "detail": "https://tekken.fandom.com/wiki/Sekitori_Kick",
+        "command": "f,f+3+4",
+        "damage": "40",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/39/Sekitori_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220217183028&path-prefix=en"
+    },
+    {
+        "name": "Sumo Pop",
+        "detail": "https://tekken.fandom.com/wiki/Sumo_Popup",
+        "command": "b,d/b,d,d/f+1",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5f/D9d94e0f5759.gif/revision/latest/scale-to-width-down/350?cb=20201208172357&path-prefix=en"
+    },
+    {
+        "name": "Strong Open Palm",
+        "detail": "https://tekken.fandom.com/wiki/Strong_Open_Palm",
+        "command": "b,d/b,d,d/f+2",
+        "damage": "40",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2b/Ac53f094cf34.gif/revision/latest/scale-to-width-down/350?cb=20201218141228&path-prefix=en"
+    },
+    {
+        "name": "Thrusting Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Tsukiage_Harite",
+        "command": "WS+2",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a2/Thrusting_Uppercut_Ganryu.gif/revision/latest/scale-to-width-down/350?cb=20220501211320&path-prefix=en"
+    },
+    {
+        "name": "Rising Double Hammer",
+        "detail": "https://tekken.fandom.com/wiki/Double_Hammer_Alternate",
+        "command": "WS+1+2,1+2",
+        "damage": "21,11",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/de/Rising_double_hammer.gif/revision/latest/scale-to-width-down/350?cb=20210109025341&path-prefix=en"
+    },
+    {
+        "name": "Hammer Rush High",
+        "detail": "https://tekken.fandom.com/wiki/Hammer_Rush",
+        "command": "FC+1,1,1,2,1",
+        "damage": "10,8,12,12,12",
+        "ranges": "llmmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/E9796a13df94.gif/revision/latest/scale-to-width-down/350?cb=20210110150948&path-prefix=en"
+    },
+    {
+        "name": "Hammer Rush Mid",
+        "detail": "https://tekken.fandom.com/wiki/Hammer_Rush",
+        "command": "FC+1,1,1,2,d/f+1",
+        "damage": "10,8,12,12,15",
+        "ranges": "llmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/E9796a13df94.gif/revision/latest/scale-to-width-down/350?cb=20210110150948&path-prefix=en"
+    },
+    {
+        "name": "Hammer Rush Low",
+        "detail": "https://tekken.fandom.com/wiki/Hammer_Rush",
+        "command": "FC+1,1,1,2,d+1",
+        "damage": "10,8,12,12,8",
+        "ranges": "llmml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/E9796a13df94.gif/revision/latest/scale-to-width-down/350?cb=20210110150948&path-prefix=en"
+    },
+    {
+        "name": "Triple Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Triple_Uppercut",
+        "command": "FC+d/f+1,2,1",
+        "damage": "9,12,12",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/09/Triple_Uppercut.gif/revision/latest/scale-to-width-down/350?cb=20220218024624&path-prefix=en"
+    },
+    {
+        "name": "Triple Uppercut Alternate",
+        "detail": "https://tekken.fandom.com/wiki/Swing_R_Knuckle",
+        "command": "FC+d/f+1,2,2",
+        "damage": "15,12,12",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c3/Swing_R_Knuckle.gif/revision/latest/scale-to-width-down/350?cb=20220521163633&path-prefix=en"
+    },
+    {
+        "name": "Rising Double Palm",
+        "detail": "https://tekken.fandom.com/wiki/Rising_Double_Palm",
+        "command": "FC+1+2",
+        "damage": "21",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/16/Rising_Double_Palm.gif/revision/latest/scale-to-width-down/350?cb=20220204142837&path-prefix=en"
+    },
+    {
+        "name": "Falling Hammer",
+        "detail": "https://tekken.fandom.com/wiki/Falling_Hammer",
+        "command": "During side step 1",
+        "damage": "30",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4c/Falling_Hammer.gif/revision/latest/scale-to-width-down/350?cb=20220414135930&path-prefix=en"
+    },
+    {
+        "name": "Falling Statue",
+        "detail": "https://tekken.fandom.com/wiki/Falling_Statue",
+        "command": "Back to opponent 1+2",
+        "damage": "27",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c6/Falling_Statue.gif/revision/latest/scale-to-width-down/350?cb=20220502111747&path-prefix=en"
+    },
+    {
+        "name": "Spring Hammer Punch",
+        "detail": "https://tekken.fandom.com/wiki/Get_Up_Punch",
+        "command": "On the back 1+2",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f3/06d72928e850.gif/revision/latest/scale-to-width-down/350?cb=20201126141913&path-prefix=en"
+    }
+]

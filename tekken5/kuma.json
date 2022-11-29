@@ -1,0 +1,522 @@
+[
+    {
+        "name": "Bear Hammer",
+        "detail": "https://tekken.fandom.com/wiki/Jack_Hammer",
+        "command": "1,1,1",
+        "damage": "16,15,18",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/09/08a41a674935.gif/revision/latest?cb=20201118083819&path-prefix=en"
+    },
+    {
+        "name": "Jab Elbow Smash",
+        "detail": "https://tekken.fandom.com/wiki/Jab_Elbow_Smash",
+        "command": "2,1,2",
+        "damage": "10,12,20",
+        "ranges": "hmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/72/A50ad7582504.gif/revision/latest/scale-to-width-down/350?cb=20201213161544&path-prefix=en"
+    },
+    {
+        "name": "Triple Hammer",
+        "detail": "https://tekken.fandom.com/wiki/Triple_Hammer",
+        "command": "1+2,1+2,1+2",
+        "damage": "17,15,12",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/ba/6e423234d74b.gif/revision/latest/scale-to-width-down/350?cb=20201222223231&path-prefix=en"
+    },
+    {
+        "name": "Hunting",
+        "detail": "https://tekken.fandom.com/wiki/Hunting",
+        "command": "3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/19/Hunting.gif/revision/latest/scale-to-width-down/350?cb=20210403132915&path-prefix=en"
+    },
+    {
+        "name": "Double Bear Claw",
+        "detail": "https://tekken.fandom.com/wiki/Double_Bear_Claw",
+        "command": "During hunting 1,2",
+        "damage": "8,12",
+        "ranges": "ll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/38/Double_Bear_Claw.gif/revision/latest/scale-to-width-down/350?cb=20220330212050&path-prefix=en"
+    },
+    {
+        "name": "Bear Claw",
+        "detail": "https://tekken.fandom.com/wiki/Bear_Claw",
+        "command": "During hunting 2",
+        "damage": "16",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8b/Bear_Claw.gif/revision/latest/scale-to-width-down/350?cb=20210923154045&path-prefix=en"
+    },
+    {
+        "name": "Bear Fling",
+        "detail": "https://tekken.fandom.com/wiki/Bear_Fling",
+        "command": "During hunting 1+2",
+        "damage": "24",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/50/Bear_Fling.gif/revision/latest/scale-to-width-down/350?cb=20220326001208&path-prefix=en"
+    },
+    {
+        "name": "Bear Tackle",
+        "detail": "https://tekken.fandom.com/wiki/Bear_Tackle",
+        "command": "During hunting 3+4",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f4/Bear_Tackle.gif/revision/latest/scale-to-width-down/350?cb=20210923145324&path-prefix=en"
+    },
+    {
+        "name": "Frolicking Bear",
+        "detail": "https://tekken.fandom.com/wiki/Frolicking_Bear",
+        "command": "During hunting d+1+2",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8a/Frolicking_Bear.gif/revision/latest/scale-to-width-down/350?cb=20220518121632&path-prefix=en"
+    },
+    {
+        "name": "Hunting Hip Smash",
+        "detail": "https://tekken.fandom.com/wiki/Hunting_Hip_Smash",
+        "command": "During hunting b+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/52/Hunting_Hip_Smash.gif/revision/latest/scale-to-width-down/350?cb=20210825200821&path-prefix=en"
+    },
+    {
+        "name": "Hunting to Roll Over",
+        "detail": "https://tekken.fandom.com/wiki/Hunting_to_Roll_Over",
+        "command": "During hunting 3 (or 4)",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/94/Hunting_to_Roll_Over.gif/revision/latest/scale-to-width-down/350?cb=20220501210006&path-prefix=en"
+    },
+    {
+        "name": "Hunting to Play Dead",
+        "detail": "https://tekken.fandom.com/wiki/Hunting_to_Play_Dead",
+        "command": "During hunting d+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/04/Hunting_to_Play_Dead.gif/revision/latest/scale-to-width-down/350?cb=20220501190143&path-prefix=en"
+    },
+    {
+        "name": "Forward Roll",
+        "detail": "https://tekken.fandom.com/wiki/Forward_Roll_(Kuma)",
+        "command": "During hunting f,f",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/47/Forward_Roll_%281%29.gif/revision/latest/scale-to-width-down/350?cb=20211015152015&path-prefix=en"
+    },
+    {
+        "name": "Bear Shove",
+        "detail": "https://tekken.fandom.com/wiki/Bear_Shove",
+        "command": "During Forward Roll 1",
+        "damage": "28",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b2/Bear_Shove.gif/revision/latest/scale-to-width-down/350?cb=20220517222739&path-prefix=en"
+    },
+    {
+        "name": "Bear Backhand",
+        "detail": "https://tekken.fandom.com/wiki/Bear_Backhand",
+        "command": "During Forward Roll 2",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e1/Bear_Backhand.gif/revision/latest/scale-to-width-down/350?cb=20220517222922&path-prefix=en"
+    },
+    {
+        "name": "Bear Slide",
+        "detail": "https://tekken.fandom.com/wiki/Bear_Slide",
+        "command": "During Forward Roll 3",
+        "damage": "21",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8c/Bear_Slide.gif/revision/latest/scale-to-width-down/350?cb=20220531135846&path-prefix=en"
+    },
+    {
+        "name": "Bear Rolling Kick",
+        "detail": "https://tekken.fandom.com/wiki/Bear_Rolling_Kick",
+        "command": "During Forward Roll 4",
+        "damage": "28",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/62/Bear_Rolling_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220531135921&path-prefix=en"
+    },
+    {
+        "name": "Giant Roll",
+        "detail": "https://tekken.fandom.com/wiki/Giant_Roll",
+        "command": "During Forward Roll 1+2",
+        "damage": "35",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/46/Giant_Roll.gif/revision/latest/scale-to-width-down/350?cb=20220518121338&path-prefix=en"
+    },
+    {
+        "name": "Hunting",
+        "detail": "https://tekken.fandom.com/wiki/Hunting",
+        "command": "During Forward Roll 3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/19/Hunting.gif/revision/latest/scale-to-width-down/350?cb=20210403132915&path-prefix=en"
+    },
+    {
+        "name": "Hunting to Standing",
+        "detail": "https://tekken.fandom.com/wiki/Hunting_to_Standing",
+        "command": "During hunting u (or u/b or u/f)",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ad/Hunting_to_Standing.gif/revision/latest/scale-to-width-down/350?cb=20220330212229&path-prefix=en"
+    },
+    {
+        "name": "Ki Charge",
+        "detail": "https://tekken.fandom.com/wiki/Supercharger",
+        "command": "1+2+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4f/E24Ks_Tekken_Tag_Tournament_-_Ganryu_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20201128143016&path-prefix=en"
+    },
+    {
+        "name": "G-Clef Cannon",
+        "detail": "https://tekken.fandom.com/wiki/G-Clef_Cannon",
+        "command": "f+1,1,1",
+        "damage": "10,5,14",
+        "ranges": "hmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b8/0e5e8067dbb8.gif/revision/latest/scale-to-width-down/350?cb=20201217112622&path-prefix=en"
+    },
+    {
+        "name": "Double Claw",
+        "detail": "https://tekken.fandom.com/wiki/Cross_Cut_Saw_(Jack)",
+        "command": "f+1+2",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/84/5e90dba7033f.gif/revision/latest/scale-to-width-down/350?cb=20210110224346&path-prefix=en"
+    },
+    {
+        "name": "Rushing Uppercut L",
+        "detail": "https://tekken.fandom.com/wiki/Rushing_Uppercut",
+        "command": "D/F+1,2,1,2",
+        "damage": "8,11,10,15",
+        "ranges": "mmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/7fce1aafac25.gif/revision/latest/scale-to-width-down/350?cb=20201204221107&path-prefix=en"
+    },
+    {
+        "name": "Rushing Uppercut R",
+        "detail": "https://tekken.fandom.com/wiki/Rushing_Uppercut",
+        "command": "D/F+2,1,2,1",
+        "damage": "10,10,6,8",
+        "ranges": "mmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/7fce1aafac25.gif/revision/latest/scale-to-width-down/350?cb=20201204221107&path-prefix=en"
+    },
+    {
+        "name": "Bear Headbutt",
+        "detail": "https://tekken.fandom.com/wiki/Animal_Headbutt",
+        "command": "d/f+1+2",
+        "damage": "14",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/79/Bear_Headbutt.gif/revision/latest/scale-to-width-down/350?cb=20220406165358&path-prefix=en"
+    },
+    {
+        "name": "Sit",
+        "detail": "https://tekken.fandom.com/wiki/Sit",
+        "command": "d (or d/b or d/f)+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c4/Tekken_5_-_Ganryu_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20201116230404&path-prefix=en"
+    },
+    {
+        "name": "Trout Sweep",
+        "detail": "https://tekken.fandom.com/wiki/Trout_Sweep",
+        "command": "During Sit 1",
+        "damage": "16",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f3/Trout_Sweep.gif/revision/latest/scale-to-width-down/350?cb=20220510180327&path-prefix=en"
+    },
+    {
+        "name": "Trout Smash",
+        "detail": "https://tekken.fandom.com/wiki/Trout_Smash",
+        "command": "During Sit 2",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/02/Trout_Smash.gif/revision/latest/scale-to-width-down/350?cb=20220510180315&path-prefix=en"
+    },
+    {
+        "name": "Bear Lariat",
+        "detail": "https://tekken.fandom.com/wiki/Bear_Lariat",
+        "command": "d/b+2",
+        "damage": "12",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0b/Bear_Lariat.gif/revision/latest/scale-to-width-down/350?cb=20220511141036&path-prefix=en"
+    },
+    {
+        "name": "Bear Pump in Pedal",
+        "detail": "https://tekken.fandom.com/wiki/Bear_Pump_in_Pedal",
+        "command": "d/b+3",
+        "damage": "15",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e5/Bear_Pump_in_Pedal.gif/revision/latest/scale-to-width-down/350?cb=20220511141236&path-prefix=en"
+    },
+    {
+        "name": "Bear Stamp",
+        "detail": "https://tekken.fandom.com/wiki/Bear_Stamp",
+        "command": "b+1",
+        "damage": "13",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/10/4419e7ee1278.gif/revision/latest/scale-to-width-down/350?cb=20210526211738&path-prefix=en"
+    },
+    {
+        "name": "Deadly Claw",
+        "detail": "https://tekken.fandom.com/wiki/Deadly_Claw",
+        "command": "b+1+2",
+        "damage": "50",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/55/Deadly_Claw_TK2.gif/revision/latest/scale-to-width-down/350?cb=20211019125741&path-prefix=en"
+    },
+    {
+        "name": "Rolling Bear",
+        "detail": "https://tekken.fandom.com/wiki/Rolling_Bear",
+        "command": "b+1+2,f,d/f,d,d/b,b,u/b,u,u/f",
+        "damage": "40",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d2/Rolling_Bear_%28TK2%29.gif/revision/latest/scale-to-width-down/350?cb=20220618210908&path-prefix=en"
+    },
+    {
+        "name": "Bear Flail Kick",
+        "detail": "https://tekken.fandom.com/wiki/Bear_Flail_Kick",
+        "command": "b+3+4",
+        "damage": "10,15",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b6/Bear_Flail_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220501190630&path-prefix=en"
+    },
+    {
+        "name": "Bear Double Hop Kick Combo",
+        "detail": "https://tekken.fandom.com/wiki/Bear_Double_Hop_Kick_Combo",
+        "command": "u/f+3,4,1+2",
+        "damage": "13,9,11",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/96/Bear_Double_Hop_Kick_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220501205238&path-prefix=en"
+    },
+    {
+        "name": "Big Bear Attack",
+        "detail": "https://tekken.fandom.com/wiki/Big_Bear_Attack",
+        "command": "u/f+1+2",
+        "damage": "28",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/18/Big_Bear_Attack.gif/revision/latest/scale-to-width-down/350?cb=20220202195427&path-prefix=en"
+    },
+    {
+        "name": "Pancake Press",
+        "detail": "https://tekken.fandom.com/wiki/Pancake_Press",
+        "command": "u/f+3+4",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/02/710b4799ab3a.gif/revision/latest/scale-to-width-down/350?cb=20210110130156&path-prefix=en"
+    },
+    {
+        "name": "Demon Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Demon_Uppercut",
+        "command": "f,f+2",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/21/Demonuppercut.gif/revision/latest?cb=20150110115004&path-prefix=en"
+    },
+    {
+        "name": "Salmon Hunter",
+        "detail": "https://tekken.fandom.com/wiki/Salmon_Hunter",
+        "command": "b,f+2+3",
+        "damage": "30",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8d/Salmon_Hunter_TK2.gif/revision/latest/scale-to-width-down/350?cb=20211028210902&path-prefix=en"
+    },
+    {
+        "name": "Salmon Hunter",
+        "detail": "https://tekken.fandom.com/wiki/Salmon_Hunter",
+        "command": "b,f+2+3 (hold)",
+        "damage": "80",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8d/Salmon_Hunter_TK2.gif/revision/latest/scale-to-width-down/350?cb=20211028210902&path-prefix=en"
+    },
+    {
+        "name": "Fatal Wind",
+        "detail": "https://tekken.fandom.com/wiki/Fatal_Wind",
+        "command": "b,b+2+3+4",
+        "damage": "200",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/31/1dcf9c33e3.gif/revision/latest/scale-to-width-down/350?cb=20221105000153&path-prefix=en"
+    },
+    {
+        "name": "Grizzly Claw",
+        "detail": "https://tekken.fandom.com/wiki/Grizzly_Claw",
+        "command": "b,d/b,d,d/f+2",
+        "damage": "40",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7d/Grizzly_Claw.gif/revision/latest/scale-to-width-down/350?cb=20220320172107&path-prefix=en"
+    },
+    {
+        "name": "Leaping Side Kick",
+        "detail": "https://tekken.fandom.com/wiki/Leaping_Sidekick",
+        "command": "f,f,f+3",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/db/Slash3.gif/revision/latest?cb=20140714022617&path-prefix=en"
+    },
+    {
+        "name": "Killing Uppercut",
+        "detail": "https://tekken.fandom.com/wiki/Killing_Uppercut",
+        "command": "WS+1",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/62/9b081968a058.gif/revision/latest/scale-to-width-down/350?cb=20201217144233&path-prefix=en"
+    },
+    {
+        "name": "Killing Uppercut Grizzly Claw",
+        "detail": "https://tekken.fandom.com/wiki/Killing_Uppercut_to_Grizzly_Claw",
+        "command": "WS+1,2",
+        "damage": "12,28",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/13/Tekken_4_-_Kuma_II_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20201217224649&path-prefix=en"
+    },
+    {
+        "name": "Double Hammer",
+        "detail": "https://tekken.fandom.com/wiki/Double_Hammer",
+        "command": "WS+1+2,1+2",
+        "damage": "21,11",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/58/70e0ddaac447.gif/revision/latest/scale-to-width-down/350?cb=20201208172700&path-prefix=en"
+    },
+    {
+        "name": "Hammer Rush 1 High",
+        "detail": "https://tekken.fandom.com/wiki/Hammer_Rush",
+        "command": "FC+1,1,1,2,f+1",
+        "damage": "12,8,12,12,12",
+        "ranges": "llmmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/E9796a13df94.gif/revision/latest/scale-to-width-down/350?cb=20210110150948&path-prefix=en"
+    },
+    {
+        "name": "Hammer Rush 1 Mid",
+        "detail": "https://tekken.fandom.com/wiki/Hammer_Rush",
+        "command": "FC+1,1,1,2,d/f+1",
+        "damage": "12,8,12,12,15",
+        "ranges": "llmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/E9796a13df94.gif/revision/latest/scale-to-width-down/350?cb=20210110150948&path-prefix=en"
+    },
+    {
+        "name": "Hammer Rush 1 Low",
+        "detail": "https://tekken.fandom.com/wiki/Hammer_Rush",
+        "command": "FC+1,1,1,2,d+1",
+        "damage": "12,8,12,12,8",
+        "ranges": "llmml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/E9796a13df94.gif/revision/latest/scale-to-width-down/350?cb=20210110150948&path-prefix=en"
+    },
+    {
+        "name": "Hammer Rush 2 High",
+        "detail": "https://tekken.fandom.com/wiki/Hammer_Rush",
+        "command": "WS+D/F+1,2,f+1",
+        "damage": "15,12,12",
+        "ranges": "mmh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/E9796a13df94.gif/revision/latest/scale-to-width-down/350?cb=20210110150948&path-prefix=en"
+    },
+    {
+        "name": "Hammer Rush 2 Mid",
+        "detail": "https://tekken.fandom.com/wiki/Hammer_Rush",
+        "command": "WS+D/F+1,2,d/f+1",
+        "damage": "15,12,15",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/E9796a13df94.gif/revision/latest/scale-to-width-down/350?cb=20210110150948&path-prefix=en"
+    },
+    {
+        "name": "Hammer Rush 2 Low",
+        "detail": "https://tekken.fandom.com/wiki/Hammer_Rush",
+        "command": "WS+D/F+1,2,d+1",
+        "damage": "15,12,8",
+        "ranges": "mml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/E9796a13df94.gif/revision/latest/scale-to-width-down/350?cb=20210110150948&path-prefix=en"
+    },
+    {
+        "name": "Triple Uppercut Right",
+        "detail": "https://tekken.fandom.com/wiki/Swing_R_Knuckle",
+        "command": "FC+D/F+2,1,2",
+        "damage": "15,10,15",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c3/Swing_R_Knuckle.gif/revision/latest/scale-to-width-down/350?cb=20220521163633&path-prefix=en"
+    },
+    {
+        "name": "Hammer Rush 3 High",
+        "detail": "https://tekken.fandom.com/wiki/Hammer_Rush",
+        "command": "FC+D/F+2,f+1",
+        "damage": "10,12",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/E9796a13df94.gif/revision/latest/scale-to-width-down/350?cb=20210110150948&path-prefix=en"
+    },
+    {
+        "name": "Hammer Rush 3 Mid",
+        "detail": "https://tekken.fandom.com/wiki/Hammer_Rush",
+        "command": "FC+D/F+2,d/f+1",
+        "damage": "15,10",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/E9796a13df94.gif/revision/latest/scale-to-width-down/350?cb=20210110150948&path-prefix=en"
+    },
+    {
+        "name": "Hammer Rush 3 Low",
+        "detail": "https://tekken.fandom.com/wiki/Hammer_Rush",
+        "command": "FC+D/F+2,d+1",
+        "damage": "10,8",
+        "ranges": "ml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/E9796a13df94.gif/revision/latest/scale-to-width-down/350?cb=20210110150948&path-prefix=en"
+    },
+    {
+        "name": "Forward Roll",
+        "detail": "https://tekken.fandom.com/wiki/Forward_Roll_(Kuma)",
+        "command": "FC+d/f+1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/47/Forward_Roll_%281%29.gif/revision/latest/scale-to-width-down/350?cb=20211015152015&path-prefix=en"
+    },
+    {
+        "name": "Bear Backstroke",
+        "detail": "https://tekken.fandom.com/wiki/Bear_Backstroke",
+        "command": "On the ground (on the back) 1+2",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5b/Bear_Backstroke.gif/revision/latest/scale-to-width-down/350?cb=20220501210236&path-prefix=en"
+    },
+    {
+        "name": "Get Up Punch",
+        "detail": "https://tekken.fandom.com/wiki/Get_Up_Punch",
+        "command": "On the ground (on the back) d+1+2",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f3/06d72928e850.gif/revision/latest/scale-to-width-down/350?cb=20201126141913&path-prefix=en"
+    },
+    {
+        "name": "Bear Butterfly",
+        "detail": "https://tekken.fandom.com/wiki/Bear_Butterfly",
+        "command": "On the ground (facing the ground) 1+2",
+        "damage": "15",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8d/Bear_Butterfly.gif/revision/latest/scale-to-width-down/350?cb=20220401142014&path-prefix=en"
+    },
+    {
+        "name": "Dance With Me",
+        "detail": "https://tekken.fandom.com/wiki/Dance_With_Me",
+        "command": "(With the opponent down) d+1+4",
+        "damage": "20,60",
+        "ranges": "l!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/74/Dance_With_Me.gif/revision/latest/scale-to-width-down/350?cb=20210923154103&path-prefix=en"
+    },
+    {
+        "name": "You're Welcome",
+        "detail": "https://tekken.fandom.com/wiki/You%27re_Welcome",
+        "command": "1+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1d/You%27re_Welcome.gif/revision/latest/scale-to-width-down/350?cb=20211014203708&path-prefix=en"
+    },
+    {
+        "name": "FC+d/f+2, N, 1, 1+2, 3, 1+2, 1+2, 1+2, 1, 2, 1+2",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_1_(Kuma_II_and_Panda)",
+        "command": "FC+d/f+2, N, 1, 1+2, 3, 1+2, 1+2, 1+2, 1, 2, 1+2",
+        "damage": "82",
+        "ranges": "mhmlmmmllm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/56/70368d00c5.gif/revision/latest/scale-to-width-down/350?cb=20221009192353&path-prefix=en"
+    },
+    {
+        "name": "FC+d/f+2, N, 1, 1+2, 3, 1+2, 3+4, 1+2, 2, 3, 1",
+        "detail": "https://tekken.fandom.com/wiki/10_Hit_Combo_2_(Kuma_II_and_Panda)",
+        "command": "FC+d/f+2, N, 1, 1+2, 3, 1+2, 3+4, 1+2, 2, 3, 1",
+        "damage": "104",
+        "ranges": "mhmlmmmmhh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4e/223de453f0.gif/revision/latest/scale-to-width-down/350?cb=20221127222919&path-prefix=en"
+    }
+]

@@ -1,0 +1,930 @@
+[
+    {
+        "name": "Bayonet",
+        "detail": "https://tekken.fandom.com/wiki/Bayonet",
+        "command": "1,2",
+        "damage": "4,7",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0c/Bayonet_Ling.gif/revision/latest/scale-to-width-down/350?cb=20210224181520&path-prefix=en"
+    },
+    {
+        "name": "Bayonet Thruster",
+        "detail": "https://tekken.fandom.com/wiki/Bayonet_Thruster",
+        "command": "1,2,1",
+        "damage": "4,7,17",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d9/Bayonet_Thruster.gif/revision/latest/scale-to-width-down/350?cb=20210224183045&path-prefix=en"
+    },
+    {
+        "name": "Fan Dance to Rain Dance",
+        "detail": "https://tekken.fandom.com/wiki/Fan_Dance_to_Rain_Dance",
+        "command": "1,d+2",
+        "damage": "4,10",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/08/Fan_Dance_to_Rain_Dance.gif/revision/latest/scale-to-width-down/350?cb=20220502120659&path-prefix=en"
+    },
+    {
+        "name": "Bayonet McTwist",
+        "detail": "https://tekken.fandom.com/wiki/Bayonet_McTwist",
+        "command": "1,D+2",
+        "damage": "4,10",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1e/Bayonet_McTwist.gif/revision/latest/scale-to-width-down/350?cb=20220501215517&path-prefix=en"
+    },
+    {
+        "name": "Fan Dance to Pushing Hands",
+        "detail": "https://tekken.fandom.com/wiki/Fan_Dance_to_Pushing_Hands",
+        "command": "1,d+2,1+2",
+        "damage": "4,10,24",
+        "ranges": "hmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5f/Fan_Dance_to_Pushing_Hands.gif/revision/latest/scale-to-width-down/350?cb=20220415162303&path-prefix=en"
+    },
+    {
+        "name": "April Showers",
+        "detail": "https://tekken.fandom.com/wiki/April_Showers",
+        "command": "2,1",
+        "damage": "8,10",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/14/April_Showers.gif/revision/latest/scale-to-width-down/350?cb=20220415162248&path-prefix=en"
+    },
+    {
+        "name": "May Flowers",
+        "detail": "https://tekken.fandom.com/wiki/May_Flowers",
+        "command": "2,d/f+1",
+        "damage": "8,10",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/92/May_Flowers.gif/revision/latest/scale-to-width-down/350?cb=20220502085941&path-prefix=en"
+    },
+    {
+        "name": "Crescent Moon Kick",
+        "detail": "https://tekken.fandom.com/wiki/Crescent_Moon_Kick",
+        "command": "[4~3]",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d9/Crescent_Moon_Kick.gif/revision/latest/scale-to-width-down/350?cb=20210224200040&path-prefix=en"
+    },
+    {
+        "name": "Crescent Moon Kick to Phoenix",
+        "detail": "https://tekken.fandom.com/wiki/Crescent_Moon_Kick_to_Phoenix",
+        "command": "[4~3],d+1+2",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2c/Crescent_Moon_Kick_to_Phoenix.gif/revision/latest/scale-to-width-down/350?cb=20220501220850&path-prefix=en"
+    },
+    {
+        "name": "Birds Flock",
+        "detail": "https://tekken.fandom.com/wiki/Birds_Flock",
+        "command": "1+2",
+        "damage": "24",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/88/Birds_Flock.gif/revision/latest/scale-to-width-down/350?cb=20210308141754&path-prefix=en"
+    },
+    {
+        "name": "Spinner",
+        "detail": "https://tekken.fandom.com/wiki/Spinner",
+        "command": "3+4 (or d+3+4)",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/44/Spinner.gif/revision/latest/scale-to-width-down/350?cb=20220428132217&path-prefix=en"
+    },
+    {
+        "name": "Ki Charge",
+        "detail": "https://tekken.fandom.com/wiki/Supercharger",
+        "command": "1+2+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4f/E24Ks_Tekken_Tag_Tournament_-_Ganryu_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20201128143016&path-prefix=en"
+    },
+    {
+        "name": "Cloud Kick",
+        "detail": "https://tekken.fandom.com/wiki/Cloud_Kick",
+        "command": "f+3",
+        "damage": "25",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1c/Cloud_Kick_%281%29.gif/revision/latest/scale-to-width-down/350?cb=20211011112340&path-prefix=en"
+    },
+    {
+        "name": "Cartwheel Left",
+        "detail": "https://tekken.fandom.com/wiki/Cartwheel_Left",
+        "command": "f+1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7a/Cartwheel_Left.gif/revision/latest/scale-to-width-down/350?cb=20220521121629&path-prefix=en"
+    },
+    {
+        "name": "Dive Roll Right",
+        "detail": "https://tekken.fandom.com/wiki/Dive_Roll_Right",
+        "command": "f+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6c/Dive_Roll_Right.gif/revision/latest/scale-to-width-down/350?cb=20220531122159&path-prefix=en"
+    },
+    {
+        "name": "Belly Chop Backward",
+        "detail": "https://tekken.fandom.com/wiki/Belly_Chop_Backward",
+        "command": "d/f+1",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/da/Belly_Chop_Backward.gif/revision/latest/scale-to-width-down/350?cb=20220604144557&path-prefix=en"
+    },
+    {
+        "name": "Belly Chop",
+        "detail": "https://tekken.fandom.com/wiki/Belly_Chop",
+        "command": "D/F+1",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/85/Belly_Chop.gif/revision/latest/scale-to-width-down/350?cb=20220604144736&path-prefix=en"
+    },
+    {
+        "name": "Butter the Bread",
+        "detail": "https://tekken.fandom.com/wiki/Butter_the_Bread",
+        "command": "d/f+2",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7f/Butter_the_Bread.gif/revision/latest/scale-to-width-down/350?cb=20220502090758&path-prefix=en"
+    },
+    {
+        "name": "Cross Lifting Palms",
+        "detail": "https://tekken.fandom.com/wiki/Cross_Lifting_Palms",
+        "command": "d/f+[2~1]",
+        "damage": "8,12",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/24/Cross_Lifting_Palms.gif/revision/latest/scale-to-width-down/350?cb=20220411132138&path-prefix=en"
+    },
+    {
+        "name": "Blooming Flower",
+        "detail": "https://tekken.fandom.com/wiki/Blooming_Flower",
+        "command": "d/f+3",
+        "damage": "17",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/da/Blooming_Flower.gif/revision/latest/scale-to-width-down/350?cb=20220414081306&path-prefix=en"
+    },
+    {
+        "name": "Right Front Kick",
+        "detail": "https://tekken.fandom.com/wiki/Right_Front_Kick",
+        "command": "d/f+4",
+        "damage": "11",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6d/Right_Front_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220501221534&path-prefix=en"
+    },
+    {
+        "name": "Sunset Fan",
+        "detail": "https://tekken.fandom.com/wiki/Sunset_Fan",
+        "command": "d+1",
+        "damage": "7,7,7",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6e/Sunset_Fan.gif/revision/latest/scale-to-width-down/350?cb=20220414212839&path-prefix=en"
+    },
+    {
+        "name": "Flapping Wings",
+        "detail": "https://tekken.fandom.com/wiki/Flapping_Wings",
+        "command": "D+1",
+        "damage": "7,7,7",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/57/Flapping_Wings.gif/revision/latest/scale-to-width-down/350?cb=20220502091229&path-prefix=en"
+    },
+    {
+        "name": "Street Sweeper Combo",
+        "detail": "https://tekken.fandom.com/wiki/Street_Sweeper_Combo",
+        "command": "d+3,4",
+        "damage": "8,18",
+        "ranges": "lh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0f/Street_Sweeper_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220415221208&path-prefix=en"
+    },
+    {
+        "name": "Storming Flower",
+        "detail": "https://tekken.fandom.com/wiki/Storming_Flower",
+        "command": "d/b+1",
+        "damage": "37",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f4/De6e27ecf4ec.gif/revision/latest/scale-to-width-down/350?cb=20201123145146&path-prefix=en"
+    },
+    {
+        "name": "Knee Cracker",
+        "detail": "https://tekken.fandom.com/wiki/Knee_Cracker",
+        "command": "d/b+3",
+        "damage": "10",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/43/Knee_Cracker.gif/revision/latest/scale-to-width-down/350?cb=20220411140241&path-prefix=en"
+    },
+    {
+        "name": "Nutcracker",
+        "detail": "https://tekken.fandom.com/wiki/Nutcracker",
+        "command": "d/b+4",
+        "damage": "10",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/43/Nutcracker.gif/revision/latest/scale-to-width-down/350?cb=20220411140121&path-prefix=en"
+    },
+    {
+        "name": "Great Wall Left",
+        "detail": "https://tekken.fandom.com/wiki/Great_Wall_Left",
+        "command": "B+1",
+        "damage": "-",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/67/Great_Wall_Left.gif/revision/latest/scale-to-width-down/350?cb=20220415220253&path-prefix=en"
+    },
+    {
+        "name": "Great Wall Right",
+        "detail": "https://tekken.fandom.com/wiki/Great_Wall_Right",
+        "command": "B+2",
+        "damage": "-",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7f/Great_Wall_Right.gif/revision/latest/scale-to-width-down/350?cb=20220607141248&path-prefix=en"
+    },
+    {
+        "name": "Peacock Kick",
+        "detail": "https://tekken.fandom.com/wiki/Peacock_Kick_(Ling_Xiaoyu)",
+        "command": "b+3",
+        "damage": "21",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/04/Peacock_Kick_Xiaoyu.gif/revision/latest/scale-to-width-down/350?cb=20220609094826&path-prefix=en"
+    },
+    {
+        "name": "Phoenix Twin Kick",
+        "detail": "https://tekken.fandom.com/wiki/Phoenix_Twin_Kick",
+        "command": "b+4",
+        "damage": "13,15",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/db/C0a67cff0ca7.gif/revision/latest?cb=20201202222702&path-prefix=en"
+    },
+    {
+        "name": "Hypnotist",
+        "detail": "https://tekken.fandom.com/wiki/Hypnotist",
+        "command": "b+1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/Hypnotist.gif/revision/latest/scale-to-width-down/350?cb=20210224204553&path-prefix=en"
+    },
+    {
+        "name": "Backflip",
+        "detail": "https://tekken.fandom.com/wiki/Backflip_(Ling_Xiaoyu)",
+        "command": "u/b+3+4",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/06/Backflip_Xiaoyu.gif/revision/latest/scale-to-width-down/350?cb=20220607122633&path-prefix=en"
+    },
+    {
+        "name": "Backflip to Phoenix",
+        "detail": "https://tekken.fandom.com/wiki/Backflip_to_Phoenix",
+        "command": "u/b+3+4,d+1+2",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/34/Backflip_to_Phoenix.gif/revision/latest/scale-to-width-down/350?cb=20220609093400&path-prefix=en"
+    },
+    {
+        "name": "Single Fan Backward",
+        "detail": "https://tekken.fandom.com/wiki/Single_Fan",
+        "command": "u+1",
+        "damage": "5",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/98/Single_Fan.gif/revision/latest/scale-to-width-down/350?cb=20220606150645&path-prefix=en"
+    },
+    {
+        "name": "Single Fan Forward",
+        "detail": "https://tekken.fandom.com/wiki/Single_Fan_Forward",
+        "command": "U+1",
+        "damage": "5",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b6/Single_Fan_Forward.gif/revision/latest/scale-to-width-down/350?cb=20220606150147&path-prefix=en"
+    },
+    {
+        "name": "Double Fan Forward",
+        "detail": "https://tekken.fandom.com/wiki/Double_Fan",
+        "command": "u+1+2",
+        "damage": "5,8",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/52/Double_Fan_Forward.gif/revision/latest/scale-to-width-down/350?cb=20220502113918&path-prefix=en"
+    },
+    {
+        "name": "Hydrangea",
+        "detail": "https://tekken.fandom.com/wiki/Hydrangea",
+        "command": "u+1+2,2",
+        "damage": "5,8,12",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/aa/Hydrangea.gif/revision/latest/scale-to-width-down/350?cb=20220411140743&path-prefix=en"
+    },
+    {
+        "name": "Fortune Cookie",
+        "detail": "https://tekken.fandom.com/wiki/Fortune_Cookie",
+        "command": "u+1+2,2,1",
+        "damage": "5,8,12,21",
+        "ranges": "mmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0a/Fortune_Cookie.gif/revision/latest/scale-to-width-down/350?cb=20210225090723&path-prefix=en"
+    },
+    {
+        "name": "Ginger Snap",
+        "detail": "https://tekken.fandom.com/wiki/Ginger_Snap",
+        "command": "u+1+2,3+4",
+        "damage": "5,8",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/43/Ginger_Snap.gif/revision/latest/scale-to-width-down/350?cb=20220523211304&path-prefix=en"
+    },
+    {
+        "name": "Dragonfly",
+        "detail": "https://tekken.fandom.com/wiki/Dragonfly",
+        "command": "u/f (or u or u / b) +3",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a2/Dragonfly.gif/revision/latest/scale-to-width-down/350?cb=20220411141440&path-prefix=en"
+    },
+    {
+        "name": "Dragonfly to Phoenix",
+        "detail": "https://tekken.fandom.com/wiki/Dragonfly_to_Phoenix",
+        "command": "u/f (or u or u / b) + 3,d+1+2",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e0/Dragonfly_to_Phoenix.gif/revision/latest/scale-to-width-down/350?cb=20220521121920&path-prefix=en"
+    },
+    {
+        "name": "Cyanide",
+        "detail": "https://tekken.fandom.com/wiki/Cyanide",
+        "command": "u/f (or u) +4",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/02/Cyanide.gif/revision/latest/scale-to-width-down/350?cb=20211012120742&path-prefix=en"
+    },
+    {
+        "name": "Flare Kick to Phoenix",
+        "detail": "https://tekken.fandom.com/wiki/Flare_Kick_to_Phoenix",
+        "command": "u/f+4,d+1+2",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/77/Flare_Kick_to_Phoenix.gif/revision/latest/scale-to-width-down/350?cb=20220531133409&path-prefix=en"
+    },
+    {
+        "name": "Shooting Star",
+        "detail": "https://tekken.fandom.com/wiki/Shooting_Star",
+        "command": "u/f+3+4",
+        "damage": "8,10,12",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d0/Shooting_Star.gif/revision/latest/scale-to-width-down/350?cb=20210225084611&path-prefix=en"
+    },
+    {
+        "name": "Poison Flower",
+        "detail": "https://tekken.fandom.com/wiki/Poison_Flower",
+        "command": "f,f+1,3",
+        "damage": "15,18",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/80/Poison_Flower.gif/revision/latest/scale-to-width-down/350?cb=20220502180449&path-prefix=en"
+    },
+    {
+        "name": "Fortune",
+        "detail": "https://tekken.fandom.com/wiki/Fortune",
+        "command": "f,f+2,1",
+        "damage": "12,21",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d7/Tekken_6_-_Xiaoyu_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20210428134601&path-prefix=en"
+    },
+    {
+        "name": "Raccoon Swing",
+        "detail": "https://tekken.fandom.com/wiki/Raccoon_Swing",
+        "command": "f,f+3",
+        "damage": "13",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f9/Raccoon_Swing.gif/revision/latest/scale-to-width-down/350?cb=20211120105246&path-prefix=en"
+    },
+    {
+        "name": "Step Kick",
+        "detail": "https://tekken.fandom.com/wiki/Step_Kick_(Xiaoyu)",
+        "command": "f,f+4",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/00/Step_Kick_%281%29.gif/revision/latest/scale-to-width-down/350?cb=20211011133203&path-prefix=en"
+    },
+    {
+        "name": "Swallow Dance",
+        "detail": "https://tekken.fandom.com/wiki/Swallow_Dance",
+        "command": "f,f+4, With the opponent on guard, 4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d4/Swallow_Dance.gif/revision/latest/scale-to-width-down/350?cb=20220502121032&path-prefix=en"
+    },
+    {
+        "name": "X Marks the Spot",
+        "detail": "https://tekken.fandom.com/wiki/X_Marks_the_Spot",
+        "command": "f,f+1+2,1+2",
+        "damage": "12,21",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/85/X_marks_the_spot_tk4.gif/revision/latest/scale-to-width-down/350?cb=20201203155622&path-prefix=en"
+    },
+    {
+        "name": "Front Layout",
+        "detail": "https://tekken.fandom.com/wiki/Front_Layout",
+        "command": "f,f+3+4",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/05/Front_Layout.gif/revision/latest/scale-to-width-down/350?cb=20220520220056&path-prefix=en"
+    },
+    {
+        "name": "Sunflower",
+        "detail": "https://tekken.fandom.com/wiki/Sunflower",
+        "command": "WS+2",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/aa/Sunflower.gif/revision/latest/scale-to-width-down/350?cb=20220415165420&path-prefix=en"
+    },
+    {
+        "name": "Jasmine Blossom",
+        "detail": "https://tekken.fandom.com/wiki/Jasmine_Blossom",
+        "command": "WS+2 Hold",
+        "damage": "16",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/9e/Jasmine_Blossom.gif/revision/latest/scale-to-width-down/350?cb=20220502175706&path-prefix=en"
+    },
+    {
+        "name": "Rising Axe Kick",
+        "detail": "https://tekken.fandom.com/wiki/Rising_Axe_Kick",
+        "command": "WS+3",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/be/Rising_Axe_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220521122309&path-prefix=en"
+    },
+    {
+        "name": "Skyscraper Kick",
+        "detail": "https://tekken.fandom.com/wiki/Skyscraper_Kick",
+        "command": "WS+4",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d6/424d50bcbd31.gif/revision/latest/scale-to-width-down/350?cb=20201228133331&path-prefix=en"
+    },
+    {
+        "name": "Rising Spin Kick",
+        "detail": "https://tekken.fandom.com/wiki/Rising_Spin_Kick",
+        "command": "WS+b+4",
+        "damage": "20",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/61/Rising_Spin_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220609100152&path-prefix=en"
+    },
+    {
+        "name": "Fire Dancer",
+        "detail": "https://tekken.fandom.com/wiki/Fire_Dancer",
+        "command": "FC+3,2,1,4",
+        "damage": "8,6,6,12",
+        "ranges": "lhhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/51/Fire_Dancer.gif/revision/latest/scale-to-width-down/350?cb=20220415171603&path-prefix=en"
+    },
+    {
+        "name": "Lotus Twist",
+        "detail": "https://tekken.fandom.com/wiki/Lotus_Twist",
+        "command": "FC+d/f+2,1",
+        "damage": "10,15",
+        "ranges": "ll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0d/Lotus_Twist.gif/revision/latest/scale-to-width-down/350?cb=20220520220657&path-prefix=en"
+    },
+    {
+        "name": "Quick Shady Lotus",
+        "detail": "https://tekken.fandom.com/wiki/Quick_Shady_Lotus",
+        "command": "FC+d/f+2,D/F",
+        "damage": "10",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/42/Quick_Shady_Lotus.gif/revision/latest/scale-to-width-down/350?cb=20220502114517&path-prefix=en"
+    },
+    {
+        "name": "Double Map Sweep",
+        "detail": "https://tekken.fandom.com/wiki/Double_Map_Sweep",
+        "command": "FC+d/f+4,4",
+        "damage": "6,10",
+        "ranges": "ll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b2/Double_Map_Sweep.gif/revision/latest/scale-to-width-down/350?cb=20220415172808&path-prefix=en"
+    },
+    {
+        "name": "Low Back Turn",
+        "detail": "https://tekken.fandom.com/wiki/Low_Back_Turn",
+        "command": "FC+d/b+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/30/Low_Back_Turn.gif/revision/latest/scale-to-width-down/350?cb=20220502115429&path-prefix=en"
+    },
+    {
+        "name": "Phoenix Tail",
+        "detail": "https://tekken.fandom.com/wiki/Phoenix_Tail_(Xiaoyu)",
+        "command": "During side step, 3",
+        "damage": "21",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3e/Bd323786d92e.gif/revision/latest/scale-to-width-down/350?cb=20210612114710&path-prefix=en"
+    },
+    {
+        "name": "Phoenix Tail to Phoenix",
+        "detail": "https://tekken.fandom.com/wiki/Phoenix_Tail_to_Phoenix",
+        "command": "During side step,3,d+1+2",
+        "damage": "21",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a9/Phoenix_Tail_to_Phoenix.gif/revision/latest/scale-to-width-down/350?cb=20220609095521&path-prefix=en"
+    },
+    {
+        "name": "Street Sweeper",
+        "detail": "https://tekken.fandom.com/wiki/Street_Sweeper",
+        "command": "During side step,4",
+        "damage": "16",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8f/Street_Sweeper.gif/revision/latest/scale-to-width-down/350?cb=20220415173454&path-prefix=en"
+    },
+    {
+        "name": "Rain Dance",
+        "detail": "https://tekken.fandom.com/wiki/Rain_Dance",
+        "command": "b+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f5/Rain_Dance.gif/revision/latest/scale-to-width-down/350?cb=20210226112033&path-prefix=en"
+    },
+    {
+        "name": "Phoenix",
+        "detail": "https://tekken.fandom.com/wiki/The_Phoenix",
+        "command": "d+1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/74/The_Phoenix_TK3.gif/revision/latest/scale-to-width-down/350?cb=20220603235015&path-prefix=en"
+    },
+    {
+        "name": "False Salute",
+        "detail": "https://tekken.fandom.com/wiki/False_Salute",
+        "command": "1+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/92/False_Salute_tk7.gif/revision/latest/scale-to-width-down/350?cb=20210223094856&path-prefix=en"
+    },
+    {
+        "name": "Greetings",
+        "detail": "https://tekken.fandom.com/wiki/Greetings",
+        "command": "2+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/32/Greetings.gif/revision/latest/scale-to-width-down/350?cb=20220502155614&path-prefix=en"
+    },
+    {
+        "name": "The Phoenix",
+        "detail": "https://tekken.fandom.com/wiki/The_Phoenix",
+        "command": "d+1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/74/The_Phoenix_TK3.gif/revision/latest/scale-to-width-down/350?cb=20220603235015&path-prefix=en"
+    },
+    {
+        "name": "Wave Crest Quick",
+        "detail": "https://tekken.fandom.com/wiki/Wave_Crest_Quick",
+        "command": "d+1+2~1+2",
+        "damage": "14",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f4/Wave_Crest_Quick.gif/revision/latest/scale-to-width-down/350?cb=20221003212342&path-prefix=en"
+    },
+    {
+        "name": "Left Handful",
+        "detail": "https://tekken.fandom.com/wiki/Left_Handful",
+        "command": "During Phoenix 1",
+        "damage": "7",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c2/Left_Handful.gif/revision/latest/scale-to-width-down/350?cb=20220629133859&path-prefix=en"
+    },
+    {
+        "name": "Right Handful",
+        "detail": "https://tekken.fandom.com/wiki/Right_Handful",
+        "command": "During Phoenix 2",
+        "damage": "12",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/bb/Right_Handful.gif/revision/latest/scale-to-width-down/350?cb=20221017123915&path-prefix=en"
+    },
+    {
+        "name": "Phoenix Double Palm",
+        "detail": "https://tekken.fandom.com/wiki/Phoenix_Double_Palm",
+        "command": "During Phoenix 2,1",
+        "damage": "12,15",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/89/Phoenix_Double_Palm.gif/revision/latest/scale-to-width-down/350?cb=20220415221608&path-prefix=en"
+    },
+    {
+        "name": "Knee Stabber",
+        "detail": "https://tekken.fandom.com/wiki/Knee_Stabber",
+        "command": "During Phoenix 3",
+        "damage": "15",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a2/Knee_Stabber_%281%29.gif/revision/latest/scale-to-width-down/350?cb=20220722122750&path-prefix=en"
+    },
+    {
+        "name": "Back Kick",
+        "detail": "https://tekken.fandom.com/wiki/Back_Kick",
+        "command": "During Phoenix 4",
+        "damage": "23",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3e/Back_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220629121928&path-prefix=en"
+    },
+    {
+        "name": "Back Kick to Rain Dance",
+        "detail": "https://tekken.fandom.com/wiki/Back_Kick_to_Rain_Dance",
+        "command": "During Phoenix 4,b",
+        "damage": "23",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/15/Back_Kick_to_Rain_Dance.gif/revision/latest/scale-to-width-down/350?cb=20221019075450&path-prefix=en"
+    },
+    {
+        "name": "Firecracker",
+        "detail": "https://tekken.fandom.com/wiki/Firecracker_(Ling_Xiaoyu)",
+        "command": "During Phoenix [4~3]",
+        "damage": "15",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f5/Firecracker_ling.gif/revision/latest/scale-to-width-down/350?cb=20210224164722&path-prefix=en"
+    },
+    {
+        "name": "Firecracker Roll",
+        "detail": "https://tekken.fandom.com/wiki/Firecracker_Roll",
+        "command": "During Phoenix [4~3],u (or d)",
+        "damage": "15",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a6/Firecracker_Roll.gif/revision/latest/scale-to-width-down/350?cb=20221017215736&path-prefix=en"
+    },
+    {
+        "name": "Wave Crest Power",
+        "detail": "https://tekken.fandom.com/wiki/Wave_Crest_Power",
+        "command": "During Phoenix 1+2",
+        "damage": "16",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/17/Wave_Crest_Power.gif/revision/latest/scale-to-width-down/350?cb=20221019080748&path-prefix=en"
+    },
+    {
+        "name": "Phoenix Talon",
+        "detail": "https://tekken.fandom.com/wiki/Phoenix_Talon",
+        "command": "During Phoenix 3+4",
+        "damage": "8,8,14",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1b/Phoenix_Talon.gif/revision/latest/scale-to-width-down/350?cb=20220927122807&path-prefix=en"
+    },
+    {
+        "name": "Flower Garden",
+        "detail": "https://tekken.fandom.com/wiki/Flower_Garden",
+        "command": "During Phoenix f+4,4",
+        "damage": "7,10",
+        "ranges": "ll",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1b/Flower_Garden_TK4.gif/revision/latest/scale-to-width-down/350?cb=20220603225516&path-prefix=en"
+    },
+    {
+        "name": "Roll Ball",
+        "detail": "https://tekken.fandom.com/wiki/Roll_Ball",
+        "command": "During Phoenix f+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7c/Roll_Ball.gif/revision/latest/scale-to-width-down/350?cb=20220629133127&path-prefix=en"
+    },
+    {
+        "name": "Forward Roll to Phoenix",
+        "detail": "https://tekken.fandom.com/wiki/Forward_Roll_to_Phoenix",
+        "command": "During Phoenix f+3+4,d+1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/ca/Forward_Roll_to_Phoenix.gif/revision/latest/scale-to-width-down/350?cb=20221011123938&path-prefix=en"
+    },
+    {
+        "name": "Butterfly",
+        "detail": "https://tekken.fandom.com/wiki/Butterfly",
+        "command": "During Phoenix d",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c7/Butterfly.gif/revision/latest/scale-to-width-down/350?cb=20220629123015&path-prefix=en"
+    },
+    {
+        "name": "Phoenix Swipe",
+        "detail": "https://tekken.fandom.com/wiki/Phoenix_Swipe",
+        "command": "During Phoenix d+1",
+        "damage": "13",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/67/Phoenix_Swipe.gif/revision/latest/scale-to-width-down/350?cb=20221019075215&path-prefix=en"
+    },
+    {
+        "name": "Wave Crest Heavy",
+        "detail": "https://tekken.fandom.com/wiki/Wave_Crest",
+        "command": "During Phoenix d+1+2",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d0/Wave_Crest_Heavy.gif/revision/latest/scale-to-width-down/350?cb=20221019075950&path-prefix=en"
+    },
+    {
+        "name": "Phoenix to Rain Dance",
+        "detail": "https://tekken.fandom.com/wiki/Phoenix_to_Rain_Dance",
+        "command": "During Phoenix b+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/ea/Phoenix_to_Rain_Dance.gif/revision/latest/scale-to-width-down/350?cb=20221013121234&path-prefix=en"
+    },
+    {
+        "name": "Jump",
+        "detail": "https://tekken.fandom.com/wiki/Jump_(Ling_Xiaoyu)",
+        "command": "During Phoenix u/f (or u or u/b)",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c3/Jump_Xiaoyu.gif/revision/latest/scale-to-width-down/350?cb=20220629123520&path-prefix=en"
+    },
+    {
+        "name": "Alley-Oop",
+        "detail": "https://tekken.fandom.com/wiki/Alley-Oop",
+        "command": "During Phoenix u/f (or u or u/b)+3,1",
+        "damage": "15,15",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/53/Alley-Oop.gif/revision/latest/scale-to-width-down/350?cb=20220415173817&path-prefix=en"
+    },
+    {
+        "name": "Double Barrel Shotgun",
+        "detail": "https://tekken.fandom.com/wiki/Double_Barrel_Shotgun",
+        "command": "During Phoenix u/f (or u or u/b)+3,3",
+        "damage": "15,23",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c9/F37c1ab1ef2c.gif/revision/latest/scale-to-width-down/350?cb=20210716114446&path-prefix=en"
+    },
+    {
+        "name": "Double Scissor Kick",
+        "detail": "https://tekken.fandom.com/wiki/Double_Scissor_Kick",
+        "command": "During Phoenix u/f (or u or u/b)+3,4",
+        "damage": "15,25",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/11/Double_Scissor_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221003213152&path-prefix=en"
+    },
+    {
+        "name": "Flower Power",
+        "detail": "https://tekken.fandom.com/wiki/Flower_Power",
+        "command": "During Phoenix u/f (or u)+4,4",
+        "damage": "8,12",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/ac/Flower_Power.gif/revision/latest/scale-to-width-down/350?cb=20211009230601&path-prefix=en"
+    },
+    {
+        "name": "Jumping Pirouette",
+        "detail": "https://tekken.fandom.com/wiki/Jumping_Pirouette",
+        "command": "During Phoenix u/f (or u or u / b), N, 3",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/76/Jumping_Pirouette.gif/revision/latest/scale-to-width-down/350?cb=20220415215248&path-prefix=en"
+    },
+    {
+        "name": "Jumping Pirouette to Phoenix",
+        "detail": "https://tekken.fandom.com/wiki/Jumping_Pirouette_to_Phoenix",
+        "command": "During Phoenix u/f (or u or u / b), N, 3, d + 1 + 2",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a4/Jumping_Pirouette_to_Phoenix.gif/revision/latest/scale-to-width-down/350?cb=20220918174027&path-prefix=en"
+    },
+    {
+        "name": "Crane Kick",
+        "detail": "https://tekken.fandom.com/wiki/Crane_Kick_(Ling_Xiaoyu)",
+        "command": "During Phoenix u f (or u or u / b), N, 4",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1a/Crane_Kick.gif/revision/latest/scale-to-width-down/350?cb=20221013121751&path-prefix=en"
+    },
+    {
+        "name": "Sky Kick",
+        "detail": "https://tekken.fandom.com/wiki/Sky_Kick",
+        "command": "During Phoenix u/f (or u or u / b) falling 3",
+        "damage": "19",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/99/Sky_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220502160047&path-prefix=en"
+    },
+    {
+        "name": "Rain Dance",
+        "detail": "https://tekken.fandom.com/wiki/Rain_Dance",
+        "command": "b+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f5/Rain_Dance.gif/revision/latest/scale-to-width-down/350?cb=20210226112033&path-prefix=en"
+    },
+    {
+        "name": "Falcon's Beak",
+        "detail": "https://tekken.fandom.com/wiki/Falcon%27s_Beak",
+        "command": "Back to the opponent,1",
+        "damage": "22",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b0/Falcon%27s_Beak.gif/revision/latest/scale-to-width-down/350?cb=20220908220527&path-prefix=en"
+    },
+    {
+        "name": "Dark & Stormy",
+        "detail": "https://tekken.fandom.com/wiki/Dark_%26_Stormy",
+        "command": "Back to the opponent, 2,1,4",
+        "damage": "10,10,15",
+        "ranges": "hhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/33/Dark_%26_Stormy.gif/revision/latest/scale-to-width-down/350?cb=20220609091642&path-prefix=en"
+    },
+    {
+        "name": "Monkey Kick",
+        "detail": "https://tekken.fandom.com/wiki/Monkey_Kick",
+        "command": "Back to the opponent, 3",
+        "damage": "16",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8c/Monkey_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220821221502&path-prefix=en"
+    },
+    {
+        "name": "Mistrust",
+        "detail": "https://tekken.fandom.com/wiki/Mistrust",
+        "command": "Back to the opponent, 4",
+        "damage": "16",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/41/Mistrust.gif/revision/latest/scale-to-width-down/350?cb=20220415214734&path-prefix=en"
+    },
+    {
+        "name": "Spin Tornado Up (Down)",
+        "detail": "https://tekken.fandom.com/wiki/Spin_Tornado_Up",
+        "command": "Back to the opponent 3+4 (or b+3+4)",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/21/Spin_Tornado_Up_%28Down%29.gif/revision/latest/scale-to-width-down/350?cb=20220531123143&path-prefix=en"
+    },
+    {
+        "name": "Spinning Push Hands",
+        "detail": "https://tekken.fandom.com/wiki/Spinning_Push_Hands",
+        "command": "Back to the opponent f+1+2",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/38/Spinning_Push_Hands.gif/revision/latest/scale-to-width-down/350?cb=20220918174658&path-prefix=en"
+    },
+    {
+        "name": "California Roll",
+        "detail": "https://tekken.fandom.com/wiki/California_Roll",
+        "command": "Back to the opponent  f+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b9/California_Roll.gif/revision/latest/scale-to-width-down/350?cb=20220609092125&path-prefix=en"
+    },
+    {
+        "name": "Cyclone Left",
+        "detail": "https://tekken.fandom.com/wiki/Cyclone_Left",
+        "command": "Back to the opponent f+3+4,3+4",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3a/Cyclone_Left.gif/revision/latest/scale-to-width-down/350?cb=20220908215619&path-prefix=en"
+    },
+    {
+        "name": "Back Circle Breaker",
+        "detail": "https://tekken.fandom.com/wiki/Back_Circle_Breaker",
+        "command": "Back to the opponent d+3",
+        "damage": "15",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/72/Back_Circle_Breaker.gif/revision/latest/scale-to-width-down/350?cb=20220908221637&path-prefix=en"
+    },
+    {
+        "name": "Back Circle Breaker Forward",
+        "detail": "https://tekken.fandom.com/wiki/Back_Circle_Breaker_Backward",
+        "command": "Back to the opponent D+3",
+        "damage": "15",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b6/Back_Circle_Breaker_Forward.gif/revision/latest/scale-to-width-down/350?cb=20220908222017&path-prefix=en"
+    },
+    {
+        "name": "Guard Breaker",
+        "detail": "https://tekken.fandom.com/wiki/Guard_Breaker_(Xiaoyu)",
+        "command": "Back to the opponent d+4",
+        "damage": "0",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5e/Guard_Breaker_%28Xiaoyu%29.gif/revision/latest/scale-to-width-down/350?cb=20220908215903&path-prefix=en"
+    },
+    {
+        "name": "Spin Tornado",
+        "detail": "https://tekken.fandom.com/wiki/Spin_Tornado",
+        "command": "Back to the opponent d+1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7e/Spin_Tornado.gif/revision/latest/scale-to-width-down/350?cb=20220629134359&path-prefix=en"
+    },
+    {
+        "name": "Peg Leg",
+        "detail": "https://tekken.fandom.com/wiki/Peg_Leg",
+        "command": "Back to the opponent f,f+3",
+        "damage": "20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/b5/Peg_Leg.gif/revision/latest/scale-to-width-down/350?cb=20220908220942&path-prefix=en"
+    },
+    {
+        "name": "Hypnotist",
+        "detail": "https://tekken.fandom.com/wiki/Hypnotist",
+        "command": "b+1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/Hypnotist.gif/revision/latest/scale-to-width-down/350?cb=20210224204553&path-prefix=en"
+    },
+    {
+        "name": "Spin Sticker",
+        "detail": "https://tekken.fandom.com/wiki/Spin_Sticker",
+        "command": "During Hypnotist 2",
+        "damage": "45",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/13/E24Ks_Tekken_4_-_Miharu_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20210428133749&path-prefix=en"
+    },
+    {
+        "name": "Falling Tiger Kick",
+        "detail": "https://tekken.fandom.com/wiki/Falling_Tiger_Kick",
+        "command": "During Hypnotist 4",
+        "damage": "20",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/f3/Falling_Tiger_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220918175033&path-prefix=en"
+    },
+    {
+        "name": "Thunder Strike",
+        "detail": "https://tekken.fandom.com/wiki/Thunder_Strike_(Xiaoyu)",
+        "command": "During Hypnotist 1 + 2",
+        "damage": "40",
+        "ranges": "!",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5f/Thunder_Strike_TK3_X.gif/revision/latest/scale-to-width-down/350?cb=20211020180226&path-prefix=en"
+    },
+    {
+        "name": "Deadly Orchid",
+        "detail": "https://tekken.fandom.com/wiki/Deadly_Orchid",
+        "command": "During Hypnotist 3 + 4",
+        "damage": "26",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/5d/Deadly_Orchid.gif/revision/latest/scale-to-width-down/350?cb=20220918175147&path-prefix=en"
+    }
+]

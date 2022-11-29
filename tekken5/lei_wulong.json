@@ -1,0 +1,410 @@
+[
+    {
+        "name": "Serpent Strike",
+        "detail": "https://tekken.fandom.com/wiki/Serpent_Strike",
+        "command": "1,1",
+        "damage": "5,5",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e8/Serpent_Strike.gif/revision/latest/scale-to-width-down/350?cb=20220219134830&path-prefix=en"
+    },
+    {
+        "name": "Left Right Punch",
+        "detail": "https://tekken.fandom.com/wiki/Left_Right_Combo",
+        "command": "1,2",
+        "damage": "5,12",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/96/Paul_Left_Right.gif/revision/latest/scale-to-width-down/350?cb=20201127133317&path-prefix=en"
+    },
+    {
+        "name": "High and Low Kicks",
+        "detail": "https://tekken.fandom.com/wiki/High_and_Low_Kicks",
+        "command": "3,3",
+        "damage": "28,17",
+        "ranges": "hl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8f/High_and_Low_Kicks.gif/revision/latest/scale-to-width-down/350?cb=20211012201253&path-prefix=en"
+    },
+    {
+        "name": "Tornado Kick",
+        "detail": "https://tekken.fandom.com/wiki/Tornado_Kick_(Lei_Wulong)",
+        "command": "[3~4]",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/e/e4/Tekken_4_-_Lei_Move_List.gif/revision/latest/scale-to-width-down/350?cb=20201214162207&path-prefix=en"
+    },
+    {
+        "name": "Clean Sweep",
+        "detail": "https://tekken.fandom.com/wiki/Clean_Sweep_(Lei)",
+        "command": "[4~3]",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/0e/Clean_Sweep_%28Lei%29.gif/revision/latest/scale-to-width-down/350?cb=20220220112627&path-prefix=en"
+    },
+    {
+        "name": "Lift Up Cannon",
+        "detail": "https://tekken.fandom.com/wiki/Lift_Up_Cannon",
+        "command": "[4~4],3,3",
+        "damage": "7,7,24",
+        "ranges": "llm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/14/Lift_Up_Cannon.gif/revision/latest/scale-to-width-down/350?cb=20220505142234&path-prefix=en"
+    },
+    {
+        "name": "Hook Punch to Spinning Back Blow",
+        "detail": "https://tekken.fandom.com/wiki/Hook_Punch_to_Spinning_Back_Blow",
+        "command": "1+2,1",
+        "damage": "18,18",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/3f/Hook_Punch_to_Spinning_Back_Blow.gif/revision/latest/scale-to-width-down/350?cb=20220611101318&path-prefix=en"
+    },
+    {
+        "name": "Hook Punch to Spiral Upper",
+        "detail": "https://tekken.fandom.com/wiki/Hook_Punch_to_Spiral_Upper",
+        "command": "1+2,2",
+        "damage": "18,24",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/cf/Hook_Punch_to_Spiral_Upper.gif/revision/latest/scale-to-width-down/350?cb=20220410135605&path-prefix=en"
+    },
+    {
+        "name": "Ki Charge",
+        "detail": "https://tekken.fandom.com/wiki/Supercharger",
+        "command": "1+2+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4f/E24Ks_Tekken_Tag_Tournament_-_Ganryu_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20201128143016&path-prefix=en"
+    },
+    {
+        "name": "Axis Shifting Tornado Kick",
+        "detail": "https://tekken.fandom.com/wiki/Axis_Shifting_Tornado_Kick",
+        "command": "f+[3~4]",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/59/Axis_Shifting_Tornado_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220628192434&path-prefix=en"
+    },
+    {
+        "name": "Beating Kick Low Combo",
+        "detail": "https://tekken.fandom.com/wiki/Beating_Kick_Low_Combo",
+        "command": "f+4,2,1,2,3",
+        "damage": "30,12,12,8,12",
+        "ranges": "hmmml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/bb/Beating_Kick_Low_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220628192941&path-prefix=en"
+    },
+    {
+        "name": "Beating Kick Mid Combo",
+        "detail": "https://tekken.fandom.com/wiki/Beating_Kick_Mid_Combo",
+        "command": "f+4,2,1,2,4",
+        "damage": "30,12,12,8,15",
+        "ranges": "hmmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/52/Beating_Kick_Mid_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220628193212&path-prefix=en"
+    },
+    {
+        "name": "Beating Kick Mid Combo Crane",
+        "detail": "https://tekken.fandom.com/wiki/Beating_Kick_Mid_Combo_Crane",
+        "command": "f+4,2,1,2,4,u (or d)",
+        "damage": "30,12,12,8,15",
+        "ranges": "hmmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/29/Beating_Kick_Mid_Combo_Crane.gif/revision/latest/scale-to-width-down/350?cb=20220928141257&path-prefix=en"
+    },
+    {
+        "name": "Twin Snake Strikes",
+        "detail": "https://tekken.fandom.com/wiki/Twin_Snake_Strikes",
+        "command": "f+1+2",
+        "damage": "13,10",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/64/Twin_Snake_Strikes.gif/revision/latest/scale-to-width-down/350?cb=20220414211952&path-prefix=en"
+    },
+    {
+        "name": "Tiger Fang",
+        "detail": "https://tekken.fandom.com/wiki/Tiger_Fang_(Lei)",
+        "command": "d/f+1+2",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/61/Tiger_Fang_Lei.gif/revision/latest/scale-to-width-down/350?cb=20220628224638&path-prefix=en"
+    },
+    {
+        "name": "Low Kick",
+        "detail": "https://tekken.fandom.com/wiki/Low_Kick_(Lei)",
+        "command": "d+4",
+        "damage": "10",
+        "ranges": "l",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d4/Low_Kick_Lei.gif/revision/latest/scale-to-width-down/350?cb=20220611114812&path-prefix=en"
+    },
+    {
+        "name": "Rave Spin",
+        "detail": "https://tekken.fandom.com/wiki/Rave_Spin",
+        "command": "d/b+4,4",
+        "damage": "10,14",
+        "ranges": "lh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/59/Rave_Spin.gif/revision/latest/scale-to-width-down/350?cb=20210827030846&path-prefix=en"
+    },
+    {
+        "name": "Scythe Kick",
+        "detail": "https://tekken.fandom.com/wiki/Scythe_Kick",
+        "command": "b+4",
+        "damage": "18",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d6/Scythe_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220415134947&path-prefix=en"
+    },
+    {
+        "name": "Cannonball",
+        "detail": "https://tekken.fandom.com/wiki/Cannonball_(Lei_Wulong)",
+        "command": "b+1+2",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/25/2c6b5b4584bc.gif/revision/latest/scale-to-width-down/350?cb=20201221145129&path-prefix=en"
+    },
+    {
+        "name": "Falling Tree",
+        "detail": "https://tekken.fandom.com/wiki/Falling_Tree",
+        "command": "u/f (or u/b)+2",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4a/Falling_Tree.gif/revision/latest/scale-to-width-down/350?cb=20220511142558&path-prefix=en"
+    },
+    {
+        "name": "Hopping Crane Kick",
+        "detail": "https://tekken.fandom.com/wiki/Hopping_Crane_Kick",
+        "command": "u/f (or u or u/b)+3",
+        "damage": "25",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2b/Hopping_Crane_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220928145006&path-prefix=en"
+    },
+    {
+        "name": "Comet Kick",
+        "detail": "https://tekken.fandom.com/wiki/Comet_Kick",
+        "command": "u/f+3+4,4",
+        "damage": "10,16,8",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/40/Comet_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220928184554&path-prefix=en"
+    },
+    {
+        "name": "Razor Rush Snake",
+        "detail": "https://tekken.fandom.com/wiki/Razor_Rush_Snake",
+        "command": "f,N,1,u (or d)",
+        "damage": "9",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/af/Razor_Rush_Snake.gif/revision/latest/scale-to-width-down/350?cb=20220927111639&path-prefix=en"
+    },
+    {
+        "name": "Razor Rush Dragon",
+        "detail": "https://tekken.fandom.com/wiki/Razor_Rush_Dragon",
+        "command": "f,N,1,2,u (or d)",
+        "damage": "7,7",
+        "ranges": "mm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/c/c4/Razor_Rush_Dragon.gif/revision/latest/scale-to-width-down/350?cb=20220927112525&path-prefix=en"
+    },
+    {
+        "name": "Razor Rush Panther",
+        "detail": "https://tekken.fandom.com/wiki/Razor_Rush_Panther",
+        "command": "f,N,1,2,1,u (or d)",
+        "damage": "7,7,5",
+        "ranges": "mmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/8f/Razor_Rush_Panther.gif/revision/latest/scale-to-width-down/350?cb=20220927113227&path-prefix=en"
+    },
+    {
+        "name": "Razor Rush Tiger",
+        "detail": "https://tekken.fandom.com/wiki/Razor_Rush_Tiger",
+        "command": "f,N,1,2,1,2,u (or d)",
+        "damage": "7,7,5,3",
+        "ranges": "mmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/8/89/Razor_Rush_Tiger.gif/revision/latest/scale-to-width-down/350?cb=20220927112800&path-prefix=en"
+    },
+    {
+        "name": "Razor Rush Low Kick",
+        "detail": "https://tekken.fandom.com/wiki/Razor_Rush_Low_Kick",
+        "command": "f,N,1,2,1,2,3",
+        "damage": "9,7,5,3,12",
+        "ranges": "mmmml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/97/Razor_Rush_Low_Kick.gif/revision/latest/scale-to-width-down/350?cb=20210926143446&path-prefix=en"
+    },
+    {
+        "name": "Razor Rush Mid Kick",
+        "detail": "https://tekken.fandom.com/wiki/Razor_Rush_Mid_Kick",
+        "command": "f,N,1,2,1,2,4",
+        "damage": "9,7,5,3,12",
+        "ranges": "mmmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/bf/Razor_Rush_Mid_Kick.gif/revision/latest/scale-to-width-down/350?cb=20210324112904&path-prefix=en"
+    },
+    {
+        "name": "Razor Rush Mid Kick Crane",
+        "detail": "https://tekken.fandom.com/wiki/Razor_Rush_Mid_Kick_Crane",
+        "command": "f,N,1,2,1,2,4,u (or d)",
+        "damage": "7,7,5,3,12",
+        "ranges": "mmmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d8/Razor_Rush_Mid_Kick_Crane.gif/revision/latest/scale-to-width-down/350?cb=20220927113931&path-prefix=en"
+    },
+    {
+        "name": "Defense Breaker",
+        "detail": "https://tekken.fandom.com/wiki/Defense_Breaker",
+        "command": "f, N, 2,1,2,1 (With the opponent on guard)",
+        "damage": "0,0,0,0",
+        "ranges": "hmmm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/1c/Defense_Breaker.gif/revision/latest/scale-to-width-down/350?cb=20220505131537&path-prefix=en"
+    },
+    {
+        "name": "One Two Kick Mid",
+        "detail": "https://tekken.fandom.com/wiki/One_Two_Kick_Mid",
+        "command": "f,N,3,4",
+        "damage": "35,20",
+        "ranges": "hm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/3/33/One_Two_Kick_Mid.gif/revision/latest/scale-to-width-down/350?cb=20220926184916&path-prefix=en"
+    },
+    {
+        "name": "One Two Kick Low",
+        "detail": "https://tekken.fandom.com/wiki/One_Two_Kick_Low",
+        "command": "f,N,3,d+4",
+        "damage": "35,10",
+        "ranges": "hl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/f/fa/One_Two_Kick_Low.gif/revision/latest/scale-to-width-down/350?cb=20220926185222&path-prefix=en"
+    },
+    {
+        "name": "Wolf Strike",
+        "detail": "https://tekken.fandom.com/wiki/Wolf_Strike",
+        "command": "f,N,4,1,2,2,2",
+        "damage": "15,12,5,12",
+        "ranges": "hmmml",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/4/4b/Wolf_Strike.gif/revision/latest/scale-to-width-down/350?cb=20220513144435&path-prefix=en"
+    },
+    {
+        "name": "Wolf Strike to Snake Bite Combo",
+        "detail": "https://tekken.fandom.com/wiki/Wolf_Strike_to_Snake_Bite_Combo",
+        "command": "f,N,4,1,2,2,4,3,3",
+        "damage": "15,12,5,15,7,7,24",
+        "ranges": "hmmllm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/d9/Wolf_Strike_to_Snake_Bite_Combo.gif/revision/latest/scale-to-width-down/350?cb=20220928205553&path-prefix=en"
+    },
+    {
+        "name": "Rush Combo Mid Kick",
+        "detail": "https://tekken.fandom.com/wiki/Rush_Combo_Mid_Kick",
+        "command": "f,N,4,1,2,3,4",
+        "damage": "15,12,5,17,10",
+        "ranges": "hmmhm",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/df/Rush_Combo_Mid_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220611101713&path-prefix=en"
+    },
+    {
+        "name": "Rush Combo Low Kick",
+        "detail": "https://tekken.fandom.com/wiki/Rush_Combo_Low_Kick",
+        "command": "f,N,4,1,2,3,d+4",
+        "damage": "15,12,5,17,15",
+        "ranges": "hmmhl",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/9/95/Rush_Combo_Low_Kick.gif/revision/latest/scale-to-width-down/350?cb=20220823172244&path-prefix=en"
+    },
+    {
+        "name": "Mauling Dragon",
+        "detail": "https://tekken.fandom.com/wiki/Mauling_Dragon",
+        "command": "f,f+2",
+        "damage": "21",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7f/Mauling_Dragon.gif/revision/latest/scale-to-width-down/350?cb=20220607111230&path-prefix=en"
+    },
+    {
+        "name": "Reverse Lotus",
+        "detail": "https://tekken.fandom.com/wiki/Reverse_Lotus",
+        "command": "f,f+3",
+        "damage": "20",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a9/Reverse_Lotus.gif/revision/latest/scale-to-width-down/350?cb=20220507221650&path-prefix=en"
+    },
+    {
+        "name": "Floating Lotus",
+        "detail": "https://tekken.fandom.com/wiki/Floating_Lotus",
+        "command": "f,f+3,4",
+        "damage": "20,22",
+        "ranges": "mh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/b/bd/Floating_Lotus.gif/revision/latest/scale-to-width-down/350?cb=20210909140955&path-prefix=en"
+    },
+    {
+        "name": "Turbulent Winds",
+        "detail": "https://tekken.fandom.com/wiki/Turbulent_Winds",
+        "command": "f,f+4,3+4",
+        "damage": "21,21",
+        "ranges": "hh",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/17/Turbulent_Winds.gif/revision/latest/scale-to-width-down/350?cb=20210919141320&path-prefix=en"
+    },
+    {
+        "name": "Drunken Tiger Lash",
+        "detail": "https://tekken.fandom.com/wiki/Drunken_Tiger_Lash",
+        "command": "b,b+1",
+        "damage": "24",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/a/a0/Drunken_Tiger_Lash.gif/revision/latest/scale-to-width-down/350?cb=20211023122152&path-prefix=en"
+    },
+    {
+        "name": "Jumping Kick",
+        "detail": "https://tekken.fandom.com/wiki/Leaping_Sidekick",
+        "command": "f,f,f+3",
+        "damage": "30",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/d/db/Slash3.gif/revision/latest?cb=20140714022617&path-prefix=en"
+    },
+    {
+        "name": "Snake Palm Fist",
+        "detail": "https://tekken.fandom.com/wiki/Snake_Palm_Fist",
+        "command": "During side step 1",
+        "damage": "18",
+        "ranges": "h",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/1/18/Snake_Palm_Fist.gif/revision/latest/scale-to-width-down/350?cb=20220415134204&path-prefix=en"
+    },
+    {
+        "name": "Crane Cannon",
+        "detail": "https://tekken.fandom.com/wiki/Crane_Cannon",
+        "command": "During side step 4",
+        "damage": "16",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7b/Crane_Cannon.gif/revision/latest/scale-to-width-down/350?cb=20220706220922&path-prefix=en"
+    },
+    {
+        "name": "Falling Blade",
+        "detail": "https://tekken.fandom.com/wiki/Falling_Blade",
+        "command": "During side step 3+4",
+        "damage": "15",
+        "ranges": "m",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/68/Falling_Blade.gif/revision/latest/scale-to-width-down/350?cb=20220415134226&path-prefix=en"
+    },
+    {
+        "name": "Five Gates Form - Snake",
+        "detail": "https://tekken.fandom.com/wiki/Snake",
+        "command": "f+2+3",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/09/Lei_Snake_TK4.gif/revision/latest/scale-to-width-down/350?cb=20210810044203&path-prefix=en"
+    },
+    {
+        "name": "Drunken Master Walk",
+        "detail": "https://tekken.fandom.com/wiki/Drunken_Master_Walk",
+        "command": "f+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/2/2d/Drunken_Master_Walk.gif/revision/latest/scale-to-width-down/350?cb=20210928214330&path-prefix=en"
+    },
+    {
+        "name": "Phoenix Illusion",
+        "detail": "https://tekken.fandom.com/wiki/Phoenix_Illusion",
+        "command": "b+1+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/5/52/E24Ks_Tekken_Tag_Tournament_-_Lei_Command_List.gif/revision/latest/scale-to-width-down/350?cb=20210217124922&path-prefix=en"
+    },
+    {
+        "name": "Back Turn",
+        "detail": "https://tekken.fandom.com/wiki/Back_Turn",
+        "command": "b+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/0/00/D17b653d9d72.gif/revision/latest/scale-to-width-down/350?cb=20201207100757&path-prefix=en"
+    },
+    {
+        "name": "Sidewind",
+        "detail": "https://tekken.fandom.com/wiki/Sidewind",
+        "command": "d+1+2",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/6/6d/Sidewind.gif/revision/latest/scale-to-width-down/350?cb=20210925124543&path-prefix=en"
+    },
+    {
+        "name": "Play Dead",
+        "detail": "https://tekken.fandom.com/wiki/Play_Dead_(Lei)",
+        "command": "d+3+4",
+        "damage": "-",
+        "ranges": "-",
+        "image_url": "https://static.wikia.nocookie.net/tekken/images/7/7c/Play_Dead.gif/revision/latest/scale-to-width-down/350?cb=20211022002944&path-prefix=en"
+    }
+]
