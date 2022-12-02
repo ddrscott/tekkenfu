@@ -17,4 +17,4 @@ Thanks to https://tekken.fandom.com/wiki/Tekken_Wiki for the move lists and GIF 
 
 ## Running
 
-Update `tekken5/` data with `python main.py`
+Update `tekken5/` data with `python scripts/scan.py`
